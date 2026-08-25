@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T14:31:22.533Z",
+  "generated_at": "2026-08-25T19:49:24.673Z",
   "week": 1,
   "league": {
     "name": "Kreisklassen Fantasy Football Est. 2019",
@@ -67,10 +67,6 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "shard": 240,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "ff": 1,
       "fgm_0_19": 3,
@@ -97,6 +93,10 @@
       "safe": 2,
       "xpm": 1
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 240,
     "last_message_id": "1397851032771371008",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -110,6 +110,8 @@
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
     "roster_positions": [
       "QB",
@@ -128,8 +130,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
