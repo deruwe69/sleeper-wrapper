@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T13:59:06.907Z",
+  "generated_at": "2026-08-27T20:18:20.694Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -224,20 +224,19 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1398636426987315200",
-    "draft_id": "1395682396505935872",
-    "last_author_avatar": "7572250c2fb084c434fed0e82229e183",
-    "last_author_display_name": "BeaverUwe",
-    "last_author_id": "1395687706092130304",
-    "last_author_is_bot": false,
+    "last_message_id": "1398714167904477184",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1787823418904,
+    "last_message_time": 1787841953782,
     "last_pinned_message_id": null,
+    "draft_id": "1395682396505935872",
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -255,6 +254,7 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
@@ -707,7 +707,7 @@
         ],
         "team": "TEN",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "injury_notes": null,
         "depth_chart_position": "SWR",
         "depth_chart_order": 2,
@@ -1216,7 +1216,7 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "SWR",
           "depth_chart_order": 2,
@@ -1821,6 +1821,7 @@
         "LAR"
       ],
       "player_ids": [
+        "11581",
         "11635",
         "12015",
         "12474",
@@ -1832,7 +1833,6 @@
         "7547",
         "8130",
         "9224",
-        "9480",
         "9500",
         "9756",
         "LAR"
@@ -2012,6 +2012,25 @@
         }
       ],
       "players": [
+        {
+          "player_id": "11581",
+          "full_name": "MarShawn Lloyd",
+          "first_name": "MarShawn",
+          "last_name": "Lloyd",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "GB",
+          "status": "Active",
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": "RB",
+          "depth_chart_order": 2,
+          "years_exp": 2,
+          "age": 25,
+          "search_rank": 179
+        },
         {
           "player_id": "11635",
           "full_name": "Ladd McConkey",
@@ -2220,25 +2239,6 @@
           "years_exp": 3,
           "age": 26,
           "search_rank": 16
-        },
-        {
-          "player_id": "9480",
-          "full_name": "Brenton Strange",
-          "first_name": "Brenton",
-          "last_name": "Strange",
-          "position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "team": "JAX",
-          "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "TE",
-          "depth_chart_order": 1,
-          "years_exp": 3,
-          "age": 25,
-          "search_rank": 104
         },
         {
           "player_id": "9500",
@@ -3248,7 +3248,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "PUP",
+          "injury_status": "Questionable",
           "injury_notes": "Surgery",
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
@@ -5321,7 +5321,7 @@
           "injury_status": "Questionable",
           "injury_notes": "Surgery",
           "depth_chart_position": "SWR",
-          "depth_chart_order": 2,
+          "depth_chart_order": 4,
           "years_exp": 3,
           "age": 26,
           "search_rank": 175
@@ -6299,7 +6299,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "SWR",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "years_exp": 3,
           "age": 24,
           "search_rank": 164
@@ -7012,6 +7012,7 @@
     {
       "points": 0,
       "players": [
+        "11581",
         "11635",
         "12015",
         "12474",
@@ -7023,7 +7024,6 @@
         "7547",
         "8130",
         "9224",
-        "9480",
         "9500",
         "9756",
         "LAR"
@@ -7058,9 +7058,9 @@
         "7547": 0,
         "8130": 0,
         "9224": 0,
-        "9480": 0,
         "9500": 0,
         "9756": 0,
+        "11581": 0,
         "11635": 0,
         "12015": 0,
         "12474": 0,
@@ -7630,7 +7630,81 @@
       }
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1787841953760,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1395724654777217024",
+      "transaction_id": "1398714167812235264",
+      "adds": {
+        "11581": 3
+      },
+      "drops": {
+        "9480": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1787841953760,
+      "waiver_budget": [],
+      "added_players": [
+        {
+          "roster_id": 3,
+          "player": {
+            "player_id": "11581",
+            "full_name": "MarShawn Lloyd",
+            "first_name": "MarShawn",
+            "last_name": "Lloyd",
+            "position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "team": "GB",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "RB",
+            "depth_chart_order": 2,
+            "years_exp": 2,
+            "age": 25,
+            "search_rank": 179
+          }
+        }
+      ],
+      "dropped_players": [
+        {
+          "roster_id": 3,
+          "player": {
+            "player_id": "9480",
+            "full_name": "Brenton Strange",
+            "first_name": "Brenton",
+            "last_name": "Strange",
+            "position": "TE",
+            "fantasy_positions": [
+              "TE"
+            ],
+            "team": "JAX",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "TE",
+            "depth_chart_order": 1,
+            "years_exp": 3,
+            "age": 25,
+            "search_rank": 104
+          }
+        }
+      ]
+    }
+  ],
   "traded_picks": [],
   "free_agents": [
     {
@@ -7727,6 +7801,25 @@
       "years_exp": 6,
       "age": 29,
       "search_rank": 103
+    },
+    {
+      "player_id": "9480",
+      "full_name": "Brenton Strange",
+      "first_name": "Brenton",
+      "last_name": "Strange",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "JAX",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "TE",
+      "depth_chart_order": 1,
+      "years_exp": 3,
+      "age": 25,
+      "search_rank": 104
     },
     {
       "player_id": "13330",
@@ -8680,25 +8773,6 @@
       "search_rank": 178
     },
     {
-      "player_id": "11581",
-      "full_name": "MarShawn Lloyd",
-      "first_name": "MarShawn",
-      "last_name": "Lloyd",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 2,
-      "years_exp": 2,
-      "age": 25,
-      "search_rank": 179
-    },
-    {
       "player_id": "12509",
       "full_name": "Tre' Harris",
       "first_name": "Tre'",
@@ -8978,7 +9052,7 @@
       "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 3,
       "years_exp": 1,
       "age": 23,
       "search_rank": 190
@@ -8992,7 +9066,7 @@
       "fantasy_positions": [
         "RB"
       ],
-      "team": "LAR",
+      "team": "MIA",
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
@@ -9035,7 +9109,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 6,
       "age": 28,
       "search_rank": 194
@@ -9377,7 +9451,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 23,
       "search_rank": 210
@@ -9719,7 +9793,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "years_exp": 2,
       "age": 24,
       "search_rank": 242
@@ -11245,25 +11319,6 @@
       "search_rank": 400
     },
     {
-      "player_id": "11654",
-      "full_name": "Dante Miller",
-      "first_name": "Dante",
-      "last_name": "Miller",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "NYG",
-      "status": "Inactive",
-      "injury_status": "Questionable",
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 2,
-      "age": 27,
-      "search_rank": 401
-    },
-    {
       "player_id": "2505",
       "full_name": "Darren Waller",
       "first_name": "Darren",
@@ -11334,7 +11389,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 1,
       "age": 24,
       "search_rank": 409
@@ -11372,7 +11427,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "years_exp": 3,
       "age": 28,
       "search_rank": 412
@@ -11771,7 +11826,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "years_exp": 0,
       "age": 22,
       "search_rank": 436
@@ -11891,6 +11946,25 @@
       "search_rank": 440
     },
     {
+      "player_id": "4144",
+      "full_name": "Jonnu Smith",
+      "first_name": "Jonnu",
+      "last_name": "Smith",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "TE",
+      "depth_chart_order": 2,
+      "years_exp": 9,
+      "age": 31,
+      "search_rank": 441
+    },
+    {
       "player_id": "6798",
       "full_name": "Jalen Reagor",
       "first_name": "Jalen",
@@ -11904,7 +11978,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "years_exp": 6,
       "age": 27,
       "search_rank": 442
@@ -12018,7 +12092,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 4,
       "age": 26,
       "search_rank": 450
@@ -12056,7 +12130,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 22,
       "search_rank": 451
@@ -12534,25 +12608,6 @@
       "depth_chart_order": 2,
       "years_exp": 6,
       "age": 29,
-      "search_rank": 477
-    },
-    {
-      "player_id": "12809",
-      "full_name": "Mac Dalena",
-      "first_name": "Mac",
-      "last_name": "Dalena",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "BUF",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 1,
-      "age": 24,
       "search_rank": 477
     },
     {
@@ -13333,6 +13388,25 @@
       "years_exp": 18,
       "age": 41,
       "search_rank": 517
+    },
+    {
+      "player_id": "11065",
+      "full_name": "Adrian Martinez",
+      "first_name": "Adrian",
+      "last_name": "Martinez",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "SF",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 3,
+      "years_exp": 3,
+      "age": 26,
+      "search_rank": 520
     }
   ],
   "metadata": {
