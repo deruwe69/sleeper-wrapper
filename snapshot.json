@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T20:18:20.694Z",
+  "generated_at": "2026-08-28T01:47:03.033Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -70,10 +70,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "shard": 240,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 240,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -224,16 +224,16 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1398714167904477184",
+    "last_message_id": "1398803873497468928",
+    "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1787841953782,
+    "last_message_time": 1787863341262,
     "last_pinned_message_id": null,
-    "draft_id": "1395682396505935872",
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
@@ -8180,7 +8180,7 @@
       "depth_chart_position": "RB",
       "depth_chart_order": 3,
       "years_exp": 2,
-      "age": 24,
+      "age": 25,
       "search_rank": 141
     },
     {
@@ -12339,7 +12339,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 6,
       "age": 29,
       "search_rank": 462
@@ -13137,7 +13137,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 0,
       "age": null,
       "search_rank": 504
