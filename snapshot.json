@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T21:56:37.187Z",
+  "generated_at": "2026-08-29T00:18:37.602Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -69,7 +69,10 @@
       "daily_waivers_last_ran": 26
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
-    "company_id": null,
+    "shard": 240,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -220,10 +223,7 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 240,
-    "sport": "nfl",
+    "company_id": null,
     "last_message_id": "1398803873497468928",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -233,11 +233,15 @@
     "last_message_text_map": null,
     "last_message_time": 1787863341262,
     "last_pinned_message_id": null,
-    "draft_id": "1395682396505935872",
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -255,10 +259,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
@@ -7644,12 +7644,12 @@
       "adds": {
         "11581": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "9480": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
