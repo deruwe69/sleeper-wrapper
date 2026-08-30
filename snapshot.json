@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T12:18:34.505Z",
+  "generated_at": "2026-08-30T18:18:24.844Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -70,6 +70,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
+    "last_message_id": "1398803873497468928",
+    "sport": "nfl",
+    "shard": 240,
+    "season": "2026",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -220,11 +224,7 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
     "season_type": "regular",
-    "shard": 240,
-    "sport": "nfl",
-    "last_message_id": "1398803873497468928",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -233,11 +233,10 @@
     "last_message_text_map": null,
     "last_message_time": 1787863341262,
     "last_pinned_message_id": null,
-    "draft_id": "1395682396505935872",
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -257,6 +256,7 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -7644,12 +7644,12 @@
       "adds": {
         "11581": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "9480": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -9983,7 +9983,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 4,
       "age": 28,
       "search_rank": 253
@@ -10635,25 +10635,6 @@
       "search_rank": 326
     },
     {
-      "player_id": "7087",
-      "full_name": "Jonathan Ward",
-      "first_name": "Jonathan",
-      "last_name": "Ward",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "BAL",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 6,
-      "age": 28,
-      "search_rank": 326
-    },
-    {
       "player_id": "11649",
       "full_name": "Kendall Milton",
       "first_name": "Kendall",
@@ -10690,25 +10671,6 @@
       "years_exp": 1,
       "age": 26,
       "search_rank": 327
-    },
-    {
-      "player_id": "8002",
-      "full_name": "Shane Buechele",
-      "first_name": "Shane",
-      "last_name": "Buechele",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "BUF",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 2,
-      "years_exp": 5,
-      "age": 28,
-      "search_rank": 328
     },
     {
       "player_id": "13421",
@@ -10989,7 +10951,7 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "SWR",
+      "depth_chart_position": null,
       "depth_chart_order": null,
       "years_exp": 1,
       "age": 24,
@@ -11484,7 +11446,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 1,
       "age": 24,
       "search_rank": 409
@@ -11498,7 +11460,7 @@
       "fantasy_positions": [
         "TE"
       ],
-      "team": "JAX",
+      "team": "ARI",
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
@@ -11545,25 +11507,6 @@
       "years_exp": 9,
       "age": 30,
       "search_rank": 418
-    },
-    {
-      "player_id": "8157",
-      "full_name": "Bailey Zappe",
-      "first_name": "Bailey",
-      "last_name": "Zappe",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 4,
-      "age": 27,
-      "search_rank": 419
     },
     {
       "player_id": "8917",
@@ -11716,25 +11659,6 @@
       "years_exp": 1,
       "age": 22,
       "search_rank": 430
-    },
-    {
-      "player_id": "11139",
-      "full_name": "Elijah Cooks",
-      "first_name": "Elijah",
-      "last_name": "Cooks",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 3,
-      "age": 27,
-      "search_rank": 432
     },
     {
       "player_id": "13400",
@@ -12205,8 +12129,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "TE",
-      "depth_chart_order": 3,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 2,
       "age": 26,
       "search_rank": 466
@@ -12288,25 +12212,6 @@
       "search_rank": 471
     },
     {
-      "player_id": "12883",
-      "full_name": "Joshua Simon",
-      "first_name": "Joshua",
-      "last_name": "Simon",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "ATL",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 1,
-      "age": 25,
-      "search_rank": 471
-    },
-    {
       "player_id": "13227",
       "full_name": "Mitch Van Vooren",
       "first_name": "Mitch",
@@ -12339,7 +12244,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 0,
       "age": 23,
       "search_rank": 472
@@ -12362,25 +12267,6 @@
       "years_exp": 4,
       "age": 27,
       "search_rank": 472
-    },
-    {
-      "player_id": "11582",
-      "full_name": "Carson Steele",
-      "first_name": "Carson",
-      "last_name": "Steele",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "PHI",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 2,
-      "age": 23,
-      "search_rank": 474
     },
     {
       "player_id": "12510",
@@ -12476,25 +12362,6 @@
       "years_exp": 4,
       "age": 25,
       "search_rank": 480
-    },
-    {
-      "player_id": "13844",
-      "full_name": "Coleman Bennett",
-      "first_name": "Coleman",
-      "last_name": "Bennett",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "MIA",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 0,
-      "age": null,
-      "search_rank": 485
     },
     {
       "player_id": "14085",
@@ -12763,25 +12630,6 @@
       "search_rank": 504
     },
     {
-      "player_id": "13913",
-      "full_name": "Patrick Gurd",
-      "first_name": "Patrick",
-      "last_name": "Gurd",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "LV",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 0,
-      "age": null,
-      "search_rank": 504
-    },
-    {
       "player_id": "7602",
       "full_name": "Kylen Granson",
       "first_name": "Kylen",
@@ -12913,25 +12761,6 @@
       "years_exp": 0,
       "age": 24,
       "search_rank": 511
-    },
-    {
-      "player_id": "6659",
-      "full_name": "Craig Reynolds",
-      "first_name": "Craig",
-      "last_name": "Reynolds",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "WAS",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 5,
-      "years_exp": 7,
-      "age": 30,
-      "search_rank": 512
     },
     {
       "player_id": "11199",
@@ -13407,6 +13236,177 @@
       "years_exp": 0,
       "age": null,
       "search_rank": 528
+    },
+    {
+      "player_id": "4054",
+      "full_name": "Mo Alie-Cox",
+      "first_name": "Mo",
+      "last_name": "Alie-Cox",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "TE",
+      "depth_chart_order": 2,
+      "years_exp": 9,
+      "age": 32,
+      "search_rank": 528
+    },
+    {
+      "player_id": "6918",
+      "full_name": "Salvon Ahmed",
+      "first_name": "Salvon",
+      "last_name": "Ahmed",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "CHI",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 4,
+      "years_exp": 6,
+      "age": 27,
+      "search_rank": 528
+    },
+    {
+      "player_id": "13422",
+      "full_name": "Jaren Kanak",
+      "first_name": "Jaren",
+      "last_name": "Kanak",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "TEN",
+      "status": "Inactive",
+      "injury_status": "IR",
+      "injury_notes": null,
+      "depth_chart_position": "TE",
+      "depth_chart_order": 5,
+      "years_exp": 0,
+      "age": 22,
+      "search_rank": 530
+    },
+    {
+      "player_id": "2306",
+      "full_name": "Jameis Winston",
+      "first_name": "Jameis",
+      "last_name": "Winston",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "NYG",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 2,
+      "years_exp": 11,
+      "age": 32,
+      "search_rank": 531
+    },
+    {
+      "player_id": "8188",
+      "full_name": "Tyquan Thornton",
+      "first_name": "Tyquan",
+      "last_name": "Thornton",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "KC",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "LWR",
+      "depth_chart_order": 3,
+      "years_exp": 4,
+      "age": 26,
+      "search_rank": 531
+    },
+    {
+      "player_id": "11306",
+      "full_name": "Xavier Gipson",
+      "first_name": "Xavier",
+      "last_name": "Gipson",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NYG",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "SWR",
+      "depth_chart_order": 10,
+      "years_exp": 3,
+      "age": 25,
+      "search_rank": 531
+    },
+    {
+      "player_id": "13434",
+      "full_name": "Will Kacmarek",
+      "first_name": "Will",
+      "last_name": "Kacmarek",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "MIA",
+      "status": "Active",
+      "injury_status": "Questionable",
+      "injury_notes": null,
+      "depth_chart_position": "TE",
+      "depth_chart_order": 2,
+      "years_exp": 0,
+      "age": 23,
+      "search_rank": 533
+    },
+    {
+      "player_id": "13418",
+      "full_name": "Robert Henry",
+      "first_name": "Robert",
+      "last_name": "Henry",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "WAS",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": null,
+      "years_exp": 0,
+      "age": 24,
+      "search_rank": 534
+    },
+    {
+      "player_id": "8250",
+      "full_name": "Tay Martin",
+      "first_name": "Tay",
+      "last_name": "Martin",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "DET",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "SWR",
+      "depth_chart_order": 8,
+      "years_exp": 4,
+      "age": 28,
+      "search_rank": 534
     }
   ],
   "metadata": {
