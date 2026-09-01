@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:18:42.546Z",
+  "generated_at": "2026-09-01T00:35:16.512Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -71,9 +71,10 @@
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
     "last_message_id": "1398803873497468928",
-    "sport": "nfl",
     "shard": 240,
     "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -224,7 +225,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season_type": "regular",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -233,8 +233,8 @@
     "last_message_text_map": null,
     "last_message_time": 1787863341262,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1395682396505935872",
+    "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
     "roster_positions": [
@@ -631,7 +631,7 @@
         ],
         "team": "GB",
         "status": "Active",
-        "injury_status": "DNR",
+        "injury_status": "NA",
         "injury_notes": null,
         "depth_chart_position": "RB",
         "depth_chart_order": 1,
@@ -1140,7 +1140,7 @@
           ],
           "team": "GB",
           "status": "Active",
-          "injury_status": "DNR",
+          "injury_status": "NA",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -7644,12 +7644,12 @@
       "adds": {
         "11581": 3
       },
-      "drops": {
-        "9480": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "9480": 3
+      },
       "roster_ids": [
         3
       ],
@@ -8535,7 +8535,7 @@
         "RB"
       ],
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RB",
@@ -9827,7 +9827,7 @@
         "WR"
       ],
       "team": "IND",
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": null,
@@ -9894,6 +9894,25 @@
       "search_rank": 249
     },
     {
+      "player_id": "11474",
+      "full_name": "Dylan Drummond",
+      "first_name": "Dylan",
+      "last_name": "Drummond",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "ATL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 3,
+      "age": 26,
+      "search_rank": 251
+    },
+    {
       "player_id": "4995",
       "full_name": "Ian Thomas",
       "first_name": "Ian",
@@ -9944,7 +9963,7 @@
       "status": "Active",
       "injury_status": "Questionable",
       "injury_notes": null,
-      "depth_chart_position": null,
+      "depth_chart_position": "RB",
       "depth_chart_order": null,
       "years_exp": 0,
       "age": 25,
@@ -10113,7 +10132,7 @@
       ],
       "team": "JAX",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": null,
       "depth_chart_order": null,
@@ -10131,7 +10150,7 @@
         "RB"
       ],
       "team": "NYJ",
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
@@ -10170,7 +10189,7 @@
       ],
       "team": "ARI",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 2,
@@ -10284,7 +10303,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "RWR",
       "depth_chart_order": 5,
@@ -10648,7 +10667,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 1,
       "age": 24,
       "search_rank": 329
@@ -10892,7 +10911,7 @@
       ],
       "team": "LV",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": null,
       "depth_chart_order": null,
@@ -11370,7 +11389,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 7,
+      "depth_chart_order": 8,
       "years_exp": 7,
       "age": 30,
       "search_rank": 405
@@ -11617,7 +11636,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 24,
       "search_rank": 432
@@ -11750,7 +11769,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 4,
       "age": 26,
       "search_rank": 444
@@ -11996,8 +12015,8 @@
       "status": "Active",
       "injury_status": "Questionable",
       "injury_notes": null,
-      "depth_chart_position": "TE",
-      "depth_chart_order": 3,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 3,
       "age": 26,
       "search_rank": 468
@@ -12172,6 +12191,25 @@
       "years_exp": 4,
       "age": 30,
       "search_rank": 479
+    },
+    {
+      "player_id": "8207",
+      "full_name": "Tyler Goodson",
+      "first_name": "Tyler",
+      "last_name": "Goodson",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "ATL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 4,
+      "age": 25,
+      "search_rank": 480
     },
     {
       "player_id": "4274",
@@ -13212,8 +13250,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 6,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 1,
       "age": 24,
       "search_rank": 527
@@ -13369,44 +13407,6 @@
       "years_exp": 4,
       "age": 26,
       "search_rank": 530
-    },
-    {
-      "player_id": "11626",
-      "full_name": "Xavier Legette",
-      "first_name": "Xavier",
-      "last_name": "Legette",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "injury_notes": null,
-      "depth_chart_position": "RWR",
-      "depth_chart_order": 3,
-      "years_exp": 2,
-      "age": 25,
-      "search_rank": 533
-    },
-    {
-      "player_id": "8250",
-      "full_name": "Tay Martin",
-      "first_name": "Tay",
-      "last_name": "Martin",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "DET",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "LWR",
-      "depth_chart_order": 8,
-      "years_exp": 4,
-      "age": 28,
-      "search_rank": 534
     }
   ],
   "metadata": {
