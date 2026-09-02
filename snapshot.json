@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T12:30:54.064Z",
+  "generated_at": "2026-09-02T18:28:12.480Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -1888,7 +1888,7 @@
           ],
           "team": "JAX",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -2099,7 +2099,7 @@
           ],
           "team": "JAX",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -5636,7 +5636,7 @@
           ],
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 2,
@@ -6460,7 +6460,7 @@
           ],
           "team": "KC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -6766,7 +6766,7 @@
           ],
           "team": "KC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -8346,7 +8346,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 3,
@@ -9581,7 +9581,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 2,
@@ -11642,25 +11642,6 @@
       "search_rank": 461
     },
     {
-      "player_id": "12775",
-      "full_name": "Max Brosmer",
-      "first_name": "Max",
-      "last_name": "Brosmer",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "MIN",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 1,
-      "age": 25,
-      "search_rank": 461
-    },
-    {
       "player_id": "13124",
       "full_name": "Jeremiah Webb",
       "first_name": "Jeremiah",
@@ -11689,7 +11670,7 @@
         "TE"
       ],
       "team": "MIA",
-      "status": "Active",
+      "status": "Inactive",
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
@@ -11927,6 +11908,25 @@
       "search_rank": 479
     },
     {
+      "player_id": "12775",
+      "full_name": "Max Brosmer",
+      "first_name": "Max",
+      "last_name": "Brosmer",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "MIN",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 1,
+      "age": 25,
+      "search_rank": 479
+    },
+    {
       "player_id": "13533",
       "full_name": "Barion Brown",
       "first_name": "Barion",
@@ -12077,25 +12077,6 @@
       "years_exp": 2,
       "age": 25,
       "search_rank": 490
-    },
-    {
-      "player_id": "12892",
-      "full_name": "Da'Quan Felton",
-      "first_name": "Da'Quan",
-      "last_name": "Felton",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": "Questionable",
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 1,
-      "age": 25,
-      "search_rank": 491
     },
     {
       "player_id": "13630",
@@ -12418,25 +12399,6 @@
       "depth_chart_order": null,
       "years_exp": 9,
       "age": 31,
-      "search_rank": 504
-    },
-    {
-      "player_id": "11557",
-      "full_name": "Joe Milton",
-      "first_name": "Joe",
-      "last_name": "Milton",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "DAL",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 2,
-      "age": 26,
       "search_rank": 504
     },
     {
@@ -12782,25 +12744,6 @@
       "search_rank": 517
     },
     {
-      "player_id": "12079",
-      "full_name": "Treyton Welch",
-      "first_name": "Treyton",
-      "last_name": "Welch",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 2,
-      "age": 25,
-      "search_rank": 517
-    },
-    {
       "player_id": "8107",
       "full_name": "Nikola Kalinic",
       "first_name": "Nikola",
@@ -12837,6 +12780,25 @@
       "years_exp": 0,
       "age": 23,
       "search_rank": 520
+    },
+    {
+      "player_id": "12548",
+      "full_name": "Lenny Krieg",
+      "first_name": "Lenny",
+      "last_name": "Krieg",
+      "position": "K",
+      "fantasy_positions": [
+        "K"
+      ],
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 4,
+      "age": 24,
+      "search_rank": 521
     },
     {
       "player_id": "12705",
@@ -13407,6 +13369,44 @@
       "years_exp": 1,
       "age": 23,
       "search_rank": 547
+    },
+    {
+      "player_id": "13419",
+      "full_name": "Jaydn Ott",
+      "first_name": "Jaydn",
+      "last_name": "Ott",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "KC",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 0,
+      "age": 23,
+      "search_rank": 548
+    },
+    {
+      "player_id": "3155",
+      "full_name": "Laquon Treadwell",
+      "first_name": "Laquon",
+      "last_name": "Treadwell",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RWR",
+      "depth_chart_order": 5,
+      "years_exp": 10,
+      "age": 31,
+      "search_rank": 549
     }
   ],
   "metadata": {
