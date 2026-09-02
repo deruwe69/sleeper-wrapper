@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T06:34:25.569Z",
+  "generated_at": "2026-09-02T12:30:54.064Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -70,6 +70,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
+    "shard": 240,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -220,10 +224,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 240,
-    "sport": "nfl",
     "last_message_id": "1398803873497468928",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -237,6 +237,11 @@
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -254,11 +259,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
@@ -10799,7 +10799,7 @@
       "status": "Active",
       "injury_status": "PUP",
       "injury_notes": "Surgery",
-      "depth_chart_position": "LWR",
+      "depth_chart_position": "RWR",
       "depth_chart_order": 8,
       "years_exp": 3,
       "age": 27,
@@ -11693,7 +11693,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": null,
+      "depth_chart_order": 5,
       "years_exp": 3,
       "age": 26,
       "search_rank": 468
