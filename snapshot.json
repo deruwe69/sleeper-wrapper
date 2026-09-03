@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:28:12.480Z",
+  "generated_at": "2026-09-03T00:34:49.703Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -10759,7 +10759,7 @@
       ],
       "team": "PHI",
       "status": "Inactive",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 6,
@@ -10952,7 +10952,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": null,
-      "depth_chart_order": 10,
+      "depth_chart_order": 7,
       "years_exp": 0,
       "age": 22,
       "search_rank": 400
@@ -11076,9 +11076,9 @@
       "full_name": "Max Bredeson",
       "first_name": "Max",
       "last_name": "Bredeson",
-      "position": "TE",
+      "position": "RB",
       "fantasy_positions": [
-        "TE"
+        "RB"
       ],
       "team": "MIN",
       "status": "Active",
@@ -11731,7 +11731,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "years_exp": 0,
       "age": 23,
       "search_rank": 472
@@ -12364,6 +12364,25 @@
       "search_rank": 503
     },
     {
+      "player_id": "11557",
+      "full_name": "Joe Milton",
+      "first_name": "Joe",
+      "last_name": "Milton",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 2,
+      "age": 26,
+      "search_rank": 503
+    },
+    {
       "player_id": "11199",
       "full_name": "Emari Demercado",
       "first_name": "Emari",
@@ -12744,6 +12763,25 @@
       "search_rank": 517
     },
     {
+      "player_id": "12079",
+      "full_name": "Treyton Welch",
+      "first_name": "Treyton",
+      "last_name": "Welch",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "NO",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 2,
+      "age": 25,
+      "search_rank": 517
+    },
+    {
       "player_id": "8107",
       "full_name": "Nikola Kalinic",
       "first_name": "Nikola",
@@ -13118,7 +13156,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 4,
       "age": 28,
       "search_rank": 534
@@ -13166,9 +13204,9 @@
       "full_name": "Brady Russell",
       "first_name": "Brady",
       "last_name": "Russell",
-      "position": "TE",
+      "position": "RB",
       "fantasy_positions": [
-        "TE"
+        "RB"
       ],
       "team": "SEA",
       "status": "Active",
@@ -13369,44 +13407,6 @@
       "years_exp": 1,
       "age": 23,
       "search_rank": 547
-    },
-    {
-      "player_id": "13419",
-      "full_name": "Jaydn Ott",
-      "first_name": "Jaydn",
-      "last_name": "Ott",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "KC",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 0,
-      "age": 23,
-      "search_rank": 548
-    },
-    {
-      "player_id": "3155",
-      "full_name": "Laquon Treadwell",
-      "first_name": "Laquon",
-      "last_name": "Treadwell",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "RWR",
-      "depth_chart_order": 5,
-      "years_exp": 10,
-      "age": 31,
-      "search_rank": 549
     }
   ],
   "metadata": {
