@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T06:31:57.193Z",
+  "generated_at": "2026-09-03T12:31:07.551Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -10552,8 +10552,8 @@
       "status": "Inactive",
       "injury_status": "Questionable",
       "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 6,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 1,
       "age": 24,
       "search_rank": 367
