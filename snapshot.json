@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:31:07.551Z",
+  "generated_at": "2026-09-03T18:27:59.277Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -10540,25 +10540,6 @@
       "search_rank": 366
     },
     {
-      "player_id": "12479",
-      "full_name": "Ja'Quinden Jackson",
-      "first_name": "Ja'Quinden",
-      "last_name": "Jackson",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "PHI",
-      "status": "Inactive",
-      "injury_status": "Questionable",
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 1,
-      "age": 24,
-      "search_rank": 367
-    },
-    {
       "player_id": "11762",
       "full_name": "Anthony Gould",
       "first_name": "Anthony",
@@ -12003,25 +11984,6 @@
       "search_rank": 490
     },
     {
-      "player_id": "12356",
-      "full_name": "Jabari Small",
-      "first_name": "Jabari",
-      "last_name": "Small",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "DET",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 2,
-      "age": 25,
-      "search_rank": 491
-    },
-    {
       "player_id": "7842",
       "full_name": "Luke Farrell",
       "first_name": "Luke",
@@ -12526,7 +12488,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 4,
@@ -13407,6 +13369,44 @@
       "years_exp": 7,
       "age": 29,
       "search_rank": 549
+    },
+    {
+      "player_id": "8223",
+      "full_name": "Velus Jones",
+      "first_name": "Velus",
+      "last_name": "Jones",
+      "position": "WR",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "SEA",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 4,
+      "age": 29,
+      "search_rank": 549
+    },
+    {
+      "player_id": "13270",
+      "full_name": "CJ Daniels",
+      "first_name": "CJ",
+      "last_name": "Daniels",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LAR",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RWR",
+      "depth_chart_order": 3,
+      "years_exp": 0,
+      "age": 24,
+      "search_rank": 550
     }
   ],
   "metadata": {
