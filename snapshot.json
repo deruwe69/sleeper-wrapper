@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T18:25:12.275Z",
+  "generated_at": "2026-09-05T00:33:39.793Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -7822,26 +7822,6 @@
       "search_rank": 104
     },
     {
-      "player_id": "12530",
-      "full_name": "Travis Hunter",
-      "first_name": "Travis",
-      "last_name": "Hunter",
-      "position": "WR",
-      "fantasy_positions": [
-        "DB",
-        "WR"
-      ],
-      "team": "JAX",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 4,
-      "years_exp": 1,
-      "age": 23,
-      "search_rank": 108
-    },
-    {
       "player_id": "13330",
       "full_name": "Kenyon Sadiq",
       "first_name": "Kenyon",
@@ -10398,7 +10378,7 @@
       ],
       "team": "LV",
       "status": "Inactive",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": null,
       "depth_chart_order": 11,
@@ -10840,7 +10820,7 @@
       "depth_chart_position": "QB",
       "depth_chart_order": 2,
       "years_exp": 5,
-      "age": 27,
+      "age": 28,
       "search_rank": 401
     },
     {
@@ -12588,7 +12568,7 @@
       "depth_chart_position": null,
       "depth_chart_order": null,
       "years_exp": 1,
-      "age": 25,
+      "age": 26,
       "search_rank": 512
     },
     {
@@ -13407,6 +13387,25 @@
       "years_exp": 1,
       "age": 25,
       "search_rank": 559
+    },
+    {
+      "player_id": "7587",
+      "full_name": "Dyami Brown",
+      "first_name": "Dyami",
+      "last_name": "Brown",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "WAS",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "LWR",
+      "depth_chart_order": 6,
+      "years_exp": 5,
+      "age": 26,
+      "search_rank": 561
     }
   ],
   "metadata": {
