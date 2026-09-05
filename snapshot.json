@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T12:26:59.883Z",
+  "generated_at": "2026-09-05T18:24:39.888Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -70,10 +70,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "shard": 240,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 240,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -225,7 +225,6 @@
       "idp_tkl_ast": 0
     },
     "last_message_id": "1398803873497468928",
-    "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -235,6 +234,7 @@
     "last_message_time": 1787863341262,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
     "bracket_id": null,
@@ -263,9 +263,9 @@
   },
   "nfl_state": {
     "week": 1,
-    "leg": 1,
     "season_type": "regular",
     "season": "2026",
+    "leg": 1,
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -10292,25 +10292,6 @@
       "search_rank": 349
     },
     {
-      "player_id": "13410",
-      "full_name": "Chase Roberts",
-      "first_name": "Chase",
-      "last_name": "Roberts",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "LV",
-      "status": "Inactive",
-      "injury_status": "Questionable",
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 0,
-      "age": 25,
-      "search_rank": 350
-    },
-    {
       "player_id": "12185",
       "full_name": "Spencer Shrader",
       "first_name": "Spencer",
@@ -13405,6 +13386,25 @@
       "depth_chart_order": null,
       "years_exp": 4,
       "age": 27,
+      "search_rank": 563
+    },
+    {
+      "player_id": "13173",
+      "full_name": "Jimmy Holiday",
+      "first_name": "Jimmy",
+      "last_name": "Holiday",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "KC",
+      "status": "Inactive",
+      "injury_status": "IR",
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 1,
+      "age": 24,
       "search_rank": 563
     }
   ],
