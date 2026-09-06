@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:24:39.888Z",
+  "generated_at": "2026-09-06T00:36:13.657Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -70,10 +70,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 240,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -225,6 +225,7 @@
       "idp_tkl_ast": 0
     },
     "last_message_id": "1398803873497468928",
+    "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -234,7 +235,6 @@
     "last_message_time": 1787863341262,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
     "bracket_id": null,
@@ -263,9 +263,9 @@
   },
   "nfl_state": {
     "week": 1,
+    "leg": 1,
     "season_type": "regular",
     "season": "2026",
-    "leg": 1,
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -1383,7 +1383,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 6,
           "age": 28,
           "search_rank": 65
@@ -1746,7 +1746,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 6,
           "age": 28,
           "search_rank": 65
@@ -3588,7 +3588,7 @@
           "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "years_exp": 2,
           "age": 26,
           "search_rank": 110
@@ -3799,7 +3799,7 @@
           "depth_chart_position": "LWR",
           "depth_chart_order": 2,
           "years_exp": 3,
-          "age": 24,
+          "age": 25,
           "search_rank": 102
         },
         {
@@ -4794,7 +4794,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "years_exp": 4,
           "age": 27,
           "search_rank": 52
@@ -5321,7 +5321,7 @@
           "injury_status": "IR",
           "injury_notes": "Surgery",
           "depth_chart_position": "SWR",
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "years_exp": 3,
           "age": 26,
           "search_rank": 187
@@ -6522,7 +6522,7 @@
           "depth_chart_position": "TE",
           "depth_chart_order": 1,
           "years_exp": 8,
-          "age": 30,
+          "age": 31,
           "search_rank": 96
         },
         {
@@ -6714,7 +6714,7 @@
           "depth_chart_position": "TE",
           "depth_chart_order": 1,
           "years_exp": 8,
-          "age": 30,
+          "age": 31,
           "search_rank": 96
         },
         {
@@ -7759,7 +7759,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 22,
       "search_rank": 98
@@ -8293,7 +8293,7 @@
       "depth_chart_position": "TE",
       "depth_chart_order": 1,
       "years_exp": 1,
-      "age": 23,
+      "age": 24,
       "search_rank": 153
     },
     {
@@ -8519,7 +8519,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 5,
       "age": 28,
       "search_rank": 170
@@ -8918,7 +8918,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 0,
       "age": 22,
       "search_rank": 185
@@ -8958,7 +8958,7 @@
       "depth_chart_position": "RB",
       "depth_chart_order": 3,
       "years_exp": 2,
-      "age": 22,
+      "age": 23,
       "search_rank": 190
     },
     {
@@ -9051,7 +9051,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 6,
       "age": 28,
       "search_rank": 194
@@ -9146,7 +9146,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 0,
       "age": 22,
       "search_rank": 197
@@ -9184,7 +9184,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 23,
       "search_rank": 199
@@ -9431,7 +9431,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 0,
       "age": 23,
       "search_rank": 212
@@ -9526,7 +9526,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 1,
       "age": 22,
       "search_rank": 222
@@ -9545,7 +9545,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 2,
       "age": 23,
       "search_rank": 224
@@ -9564,7 +9564,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 1,
       "age": 24,
       "search_rank": 227
@@ -9583,7 +9583,7 @@
       "injury_status": "Questionable",
       "injury_notes": "Surgery",
       "depth_chart_position": "QB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 2,
       "age": 26,
       "search_rank": 228
@@ -9792,7 +9792,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": null,
-      "depth_chart_order": 9,
+      "depth_chart_order": 10,
       "years_exp": 1,
       "age": 25,
       "search_rank": 244
@@ -9908,7 +9908,7 @@
       "depth_chart_position": "RB",
       "depth_chart_order": 7,
       "years_exp": 1,
-      "age": 23,
+      "age": 24,
       "search_rank": 254
     },
     {
@@ -10647,7 +10647,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 22,
       "search_rank": 399
@@ -11179,7 +11179,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 7,
+      "depth_chart_order": 4,
       "years_exp": 0,
       "age": 22,
       "search_rank": 437
@@ -11255,7 +11255,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 3,
       "age": 24,
       "search_rank": 444
@@ -11578,7 +11578,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "years_exp": 3,
       "age": 26,
       "search_rank": 468
@@ -11882,7 +11882,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 5,
+      "depth_chart_order": 3,
       "years_exp": 1,
       "age": 24,
       "search_rank": 487
@@ -12376,7 +12376,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 3,
       "age": 25,
       "search_rank": 510
@@ -12492,7 +12492,7 @@
       "depth_chart_position": null,
       "depth_chart_order": null,
       "years_exp": 0,
-      "age": 24,
+      "age": 25,
       "search_rank": 514
     },
     {
@@ -12547,7 +12547,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "years_exp": 3,
       "age": 26,
       "search_rank": 517
@@ -12794,7 +12794,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 2,
       "age": 25,
       "search_rank": 527
@@ -13117,7 +13117,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 1,
       "age": 23,
       "search_rank": 547
@@ -13212,7 +13212,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 9,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 24,
       "search_rank": 550
