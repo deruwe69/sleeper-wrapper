@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T06:33:15.074Z",
+  "generated_at": "2026-09-07T12:31:35.812Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -71,10 +71,10 @@
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
     "last_message_id": "1398803873497468928",
+    "sport": "nfl",
     "shard": 240,
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -227,7 +227,6 @@
     },
     "last_author_avatar": null,
     "last_author_display_name": "sys",
-    "draft_id": "1395682396505935872",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
@@ -235,13 +234,9 @@
     "last_message_time": 1787863341262,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -259,6 +254,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
