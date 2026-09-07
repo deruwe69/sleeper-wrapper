@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:31:35.812Z",
+  "generated_at": "2026-09-07T18:27:29.299Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -70,11 +70,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "last_message_id": "1398803873497468928",
-    "sport": "nfl",
     "shard": 240,
     "season": "2026",
     "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -225,6 +224,8 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
+    "last_message_id": "1398803873497468928",
+    "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -234,9 +235,11 @@
     "last_message_time": 1787863341262,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -254,9 +257,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -264,8 +264,8 @@
   "nfl_state": {
     "week": 1,
     "leg": 1,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -9580,7 +9580,7 @@
       ],
       "team": "ATL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "injury_notes": "Surgery",
       "depth_chart_position": "QB",
       "depth_chart_order": 3,
@@ -11394,6 +11394,25 @@
       "search_rank": 454
     },
     {
+      "player_id": "6853",
+      "full_name": "Van Jefferson",
+      "first_name": "Van",
+      "last_name": "Jefferson",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "WAS",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 6,
+      "age": 30,
+      "search_rank": 454
+    },
+    {
       "player_id": "11370",
       "full_name": "Chris Brooks",
       "first_name": "Chris",
@@ -12487,7 +12506,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 2,
@@ -13387,25 +13406,6 @@
       "years_exp": 2,
       "age": 26,
       "search_rank": 556
-    },
-    {
-      "player_id": "13010",
-      "full_name": "Jordan Waters",
-      "first_name": "Jordan",
-      "last_name": "Waters",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "LAR",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 1,
-      "age": 25,
-      "search_rank": 559
     }
   ],
   "metadata": {
