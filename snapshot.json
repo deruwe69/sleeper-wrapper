@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T06:31:11.310Z",
+  "generated_at": "2026-09-09T12:31:40.760Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -70,10 +70,6 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "shard": 240,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -224,17 +220,21 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1398803873497468928",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 240,
+    "sport": "nfl",
+    "last_message_id": "1403388885249040384",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1787863341262,
+    "last_message_time": 1788956493249,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1395682396505935872",
+    "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
     "bracket_id": null,
@@ -1613,7 +1613,7 @@
           "injury_status": "IR",
           "injury_notes": "Strain",
           "depth_chart_position": "LWR",
-          "depth_chart_order": 10,
+          "depth_chart_order": 11,
           "years_exp": 0,
           "age": 22,
           "search_rank": 62
@@ -1818,13 +1818,12 @@
         "8130",
         "12512",
         "12015",
-        "LAR"
+        "JAX"
       ],
       "player_ids": [
         "11581",
         "11635",
         "12015",
-        "12474",
         "12490",
         "12501",
         "12508",
@@ -1835,6 +1834,7 @@
         "9224",
         "9500",
         "9756",
+        "JAX",
         "LAR"
       ],
       "reserve_ids": [],
@@ -1992,15 +1992,15 @@
           "search_rank": 154
         },
         {
-          "player_id": "LAR",
-          "full_name": "Los Angeles Rams",
-          "first_name": "Los Angeles",
-          "last_name": "Rams",
+          "player_id": "JAX",
+          "full_name": "Jacksonville Jaguars",
+          "first_name": "Jacksonville",
+          "last_name": "Jaguars",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "LAR",
+          "team": "JAX",
           "status": null,
           "injury_status": null,
           "injury_notes": null,
@@ -2068,25 +2068,6 @@
           "years_exp": 2,
           "age": 24,
           "search_rank": 154
-        },
-        {
-          "player_id": "12474",
-          "full_name": "Woody Marks",
-          "first_name": "Woody",
-          "last_name": "Marks",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "RB",
-          "depth_chart_order": 2,
-          "years_exp": 1,
-          "age": 25,
-          "search_rank": 105
         },
         {
           "player_id": "12490",
@@ -2277,6 +2258,25 @@
           "years_exp": 3,
           "age": 24,
           "search_rank": 99
+        },
+        {
+          "player_id": "JAX",
+          "full_name": "Jacksonville Jaguars",
+          "first_name": "Jacksonville",
+          "last_name": "Jaguars",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "JAX",
+          "status": null,
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": null,
+          "depth_chart_order": null,
+          "years_exp": null,
+          "age": null,
+          "search_rank": null
         },
         {
           "player_id": "LAR",
@@ -2829,10 +2829,10 @@
         "11564",
         "9509",
         "9226",
-        "7569",
         "2133",
+        "7569",
         "5022",
-        "13287",
+        "8142",
         "5189",
         "PHI"
       ],
@@ -2913,25 +2913,6 @@
           "search_rank": 8
         },
         {
-          "player_id": "7569",
-          "full_name": "Nico Collins",
-          "first_name": "Nico",
-          "last_name": "Collins",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "LWR",
-          "depth_chart_order": 1,
-          "years_exp": 5,
-          "age": 27,
-          "search_rank": 22
-        },
-        {
           "player_id": "2133",
           "full_name": "Davante Adams",
           "first_name": "Davante",
@@ -2949,6 +2930,25 @@
           "years_exp": 12,
           "age": 33,
           "search_rank": 46
+        },
+        {
+          "player_id": "7569",
+          "full_name": "Nico Collins",
+          "first_name": "Nico",
+          "last_name": "Collins",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": "LWR",
+          "depth_chart_order": 1,
+          "years_exp": 5,
+          "age": 27,
+          "search_rank": 22
         },
         {
           "player_id": "5022",
@@ -2970,23 +2970,23 @@
           "search_rank": 94
         },
         {
-          "player_id": "13287",
-          "full_name": "Jeremiyah Love",
-          "first_name": "Jeremiyah",
-          "last_name": "Love",
-          "position": "RB",
+          "player_id": "8142",
+          "full_name": "Alec Pierce",
+          "first_name": "Alec",
+          "last_name": "Pierce",
+          "position": "WR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "team": "ARI",
+          "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
-          "depth_chart_position": "RB",
+          "depth_chart_position": "LWR",
           "depth_chart_order": 1,
-          "years_exp": 0,
-          "age": 21,
-          "search_rank": 15
+          "years_exp": 4,
+          "age": 26,
+          "search_rank": 94
         },
         {
           "player_id": "5189",
@@ -7015,7 +7015,6 @@
         "11581",
         "11635",
         "12015",
-        "12474",
         "12490",
         "12501",
         "12508",
@@ -7026,6 +7025,7 @@
         "9224",
         "9500",
         "9756",
+        "JAX",
         "LAR"
       ],
       "roster_id": 3,
@@ -7040,7 +7040,7 @@
         "8130",
         "12512",
         "12015",
-        "LAR"
+        "JAX"
       ],
       "starters_points": [
         0,
@@ -7063,11 +7063,11 @@
         "11581": 0,
         "11635": 0,
         "12015": 0,
-        "12474": 0,
         "12490": 0,
         "12501": 0,
         "12508": 0,
         "12512": 0,
+        "JAX": 0,
         "LAR": 0
       }
     },
@@ -7159,10 +7159,10 @@
         "11564",
         "9509",
         "9226",
-        "7569",
         "2133",
+        "7569",
         "5022",
-        "13287",
+        "8142",
         "5189",
         "PHI"
       ],
@@ -7635,6 +7635,79 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1788956493221,
+      "settings": null,
+      "leg": 1,
+      "draft_picks": [],
+      "creator": "1395724654777217024",
+      "transaction_id": "1403388885131591680",
+      "adds": {
+        "JAX": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "drops": {
+        "12474": 3
+      },
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1788956493221,
+      "waiver_budget": [],
+      "added_players": [
+        {
+          "roster_id": 3,
+          "player": {
+            "player_id": "JAX",
+            "full_name": "Jacksonville Jaguars",
+            "first_name": "Jacksonville",
+            "last_name": "Jaguars",
+            "position": "DEF",
+            "fantasy_positions": [
+              "DEF"
+            ],
+            "team": "JAX",
+            "status": null,
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": null,
+            "depth_chart_order": null,
+            "years_exp": null,
+            "age": null,
+            "search_rank": null
+          }
+        }
+      ],
+      "dropped_players": [
+        {
+          "roster_id": 3,
+          "player": {
+            "player_id": "12474",
+            "full_name": "Woody Marks",
+            "first_name": "Woody",
+            "last_name": "Marks",
+            "position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "team": "HOU",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "RB",
+            "depth_chart_order": 2,
+            "years_exp": 1,
+            "age": 25,
+            "search_rank": 105
+          }
+        }
+      ]
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1787841953760,
       "settings": null,
       "leg": 1,
@@ -7801,6 +7874,25 @@
       "years_exp": 0,
       "age": 22,
       "search_rank": 104
+    },
+    {
+      "player_id": "12474",
+      "full_name": "Woody Marks",
+      "first_name": "Woody",
+      "last_name": "Marks",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "HOU",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 2,
+      "years_exp": 1,
+      "age": 25,
+      "search_rank": 105
     },
     {
       "player_id": "13330",
@@ -13386,25 +13478,6 @@
       "depth_chart_order": 8,
       "years_exp": 0,
       "age": 23,
-      "search_rank": 575
-    },
-    {
-      "player_id": "6175",
-      "full_name": "Kerrith Whyte",
-      "first_name": "Kerrith",
-      "last_name": "Whyte",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 3,
-      "age": 25,
       "search_rank": 575
     }
   ],
