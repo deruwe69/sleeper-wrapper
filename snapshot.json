@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T12:31:40.760Z",
+  "generated_at": "2026-09-09T18:28:40.367Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -264,8 +264,8 @@
   "nfl_state": {
     "week": 1,
     "leg": 1,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -3588,7 +3588,7 @@
           "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "years_exp": 2,
           "age": 26,
           "search_rank": 110
@@ -8611,7 +8611,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 5,
       "age": 28,
       "search_rank": 170
@@ -10460,25 +10460,6 @@
       "search_rank": 365
     },
     {
-      "player_id": "13430",
-      "full_name": "RJ Maryland",
-      "first_name": "RJ",
-      "last_name": "Maryland",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "GB",
-      "status": "Inactive",
-      "injury_status": "Questionable",
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 0,
-      "age": 22,
-      "search_rank": 368
-    },
-    {
       "player_id": "8250",
       "full_name": "Tay Martin",
       "first_name": "Tay",
@@ -10551,7 +10532,7 @@
       "depth_chart_position": null,
       "depth_chart_order": null,
       "years_exp": 0,
-      "age": null,
+      "age": 23,
       "search_rank": 377
     },
     {
@@ -11311,7 +11292,7 @@
       "depth_chart_position": null,
       "depth_chart_order": null,
       "years_exp": 0,
-      "age": null,
+      "age": 22,
       "search_rank": 455
     },
     {
@@ -13019,7 +13000,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 0,
       "age": 24,
       "search_rank": 550
@@ -13059,7 +13040,7 @@
       "depth_chart_position": null,
       "depth_chart_order": null,
       "years_exp": 0,
-      "age": null,
+      "age": 22,
       "search_rank": 551
     },
     {
@@ -13479,11 +13460,30 @@
       "years_exp": 0,
       "age": 23,
       "search_rank": 575
+    },
+    {
+      "player_id": "6175",
+      "full_name": "Kerrith Whyte",
+      "first_name": "Kerrith",
+      "last_name": "Whyte",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "GB",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 3,
+      "age": 25,
+      "search_rank": 575
     }
   ],
   "metadata": {
     "total_rosters": 12,
     "total_free_agents": 300,
-    "player_directory_size": 12226
+    "player_directory_size": 12227
   }
 }
