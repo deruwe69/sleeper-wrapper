@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:30:06.182Z",
+  "generated_at": "2026-09-11T12:30:16.466Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -8855,7 +8855,7 @@
       "injury_status": "DNR",
       "injury_notes": "Surgery",
       "depth_chart_position": null,
-      "depth_chart_order": 9,
+      "depth_chart_order": 5,
       "years_exp": 6,
       "age": 28,
       "search_rank": 177
@@ -9577,7 +9577,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 7,
+      "depth_chart_order": 4,
       "years_exp": 8,
       "age": 29,
       "search_rank": 210
@@ -9596,7 +9596,7 @@
       "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 0,
       "age": 23,
       "search_rank": 212
@@ -9919,7 +9919,7 @@
       "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 0,
       "age": 23,
       "search_rank": 242
@@ -9976,7 +9976,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": null,
-      "depth_chart_order": 10,
+      "depth_chart_order": 9,
       "years_exp": 2,
       "age": 26,
       "search_rank": 244
@@ -11154,7 +11154,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 1,
       "age": 25,
       "search_rank": 414
@@ -13206,7 +13206,7 @@
       "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 4,
+      "depth_chart_order": 7,
       "years_exp": 0,
       "age": 24,
       "search_rank": 550
@@ -13282,7 +13282,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "years_exp": 3,
       "age": 28,
       "search_rank": 551
