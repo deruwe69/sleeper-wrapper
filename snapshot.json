@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T06:28:16.915Z",
+  "generated_at": "2026-09-12T12:27:36.071Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -264,8 +264,8 @@
   "nfl_state": {
     "week": 1,
     "leg": 1,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
