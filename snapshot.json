@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:27:27.599Z",
+  "generated_at": "2026-09-12T00:30:22.340Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -70,9 +70,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
+    "shard": 240,
     "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -223,7 +224,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "shard": 240,
     "last_message_id": "1403739089395527680",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -237,6 +237,9 @@
     "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -254,9 +257,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -2607,7 +2607,7 @@
           ],
           "team": "JAX",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 3,
@@ -2980,7 +2980,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
@@ -3248,7 +3248,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
@@ -4302,7 +4302,7 @@
           ],
           "team": "LAC",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 2,
@@ -7644,12 +7644,12 @@
       "adds": {
         "12474": 9
       },
-      "consenter_ids": [
-        9
-      ],
       "drops": {
         "8205": 9
       },
+      "consenter_ids": [
+        9
+      ],
       "roster_ids": [
         9
       ],
@@ -7717,12 +7717,12 @@
       "adds": {
         "JAX": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "12474": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -7790,12 +7790,12 @@
       "adds": {
         "11581": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "9480": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -8114,7 +8114,7 @@
       "injury_status": "IR",
       "injury_notes": "Surgery",
       "depth_chart_position": null,
-      "depth_chart_order": 9,
+      "depth_chart_order": 7,
       "years_exp": 1,
       "age": 23,
       "search_rank": 126
@@ -9118,7 +9118,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 4,
@@ -9767,7 +9767,7 @@
       "injury_status": "Out",
       "injury_notes": "Surgery",
       "depth_chart_position": "QB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 2,
       "age": 26,
       "search_rank": 228
@@ -10793,7 +10793,7 @@
       "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": null,
-      "depth_chart_order": 7,
+      "depth_chart_order": null,
       "years_exp": 2,
       "age": 25,
       "search_rank": 382
@@ -11284,7 +11284,7 @@
       ],
       "team": "DAL",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 2,
@@ -11626,7 +11626,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 3,
@@ -12386,7 +12386,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RWR",
       "depth_chart_order": 4,
@@ -12500,7 +12500,7 @@
       ],
       "team": "MIA",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 2,
