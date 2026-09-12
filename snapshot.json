@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:27:36.071Z",
+  "generated_at": "2026-09-12T18:24:54.009Z",
   "snapshot_version": 2,
   "week": 1,
   "league": {
@@ -70,9 +70,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
+    "shard": 240,
     "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -223,7 +224,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "shard": 240,
     "last_message_id": "1403739089395527680",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -237,6 +237,9 @@
     "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -254,9 +257,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -3588,7 +3588,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "years_exp": 2,
           "age": 26,
           "search_rank": 110
@@ -5321,7 +5321,7 @@
           "injury_status": "IR",
           "injury_notes": "Surgery",
           "depth_chart_position": "SWR",
-          "depth_chart_order": 6,
+          "depth_chart_order": 5,
           "years_exp": 3,
           "age": 26,
           "search_rank": 187
@@ -7644,12 +7644,12 @@
       "adds": {
         "12474": 9
       },
-      "consenter_ids": [
-        9
-      ],
       "drops": {
         "8205": 9
       },
+      "consenter_ids": [
+        9
+      ],
       "roster_ids": [
         9
       ],
@@ -7717,12 +7717,12 @@
       "adds": {
         "JAX": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "12474": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -7790,12 +7790,12 @@
       "adds": {
         "11581": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "9480": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -8684,7 +8684,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 5,
       "age": 28,
       "search_rank": 170
@@ -9118,7 +9118,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 6,
@@ -10153,6 +10153,25 @@
       "search_rank": 277
     },
     {
+      "player_id": "13310",
+      "full_name": "Miller Moss",
+      "first_name": "Miller",
+      "last_name": "Moss",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "CHI",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 0,
+      "age": 24,
+      "search_rank": 278
+    },
+    {
       "player_id": "3258",
       "full_name": "Nick Vannett",
       "first_name": "Nick",
@@ -10432,7 +10451,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 4,
       "age": 28,
       "search_rank": 331
@@ -10797,25 +10816,6 @@
       "years_exp": 7,
       "age": 28,
       "search_rank": 381
-    },
-    {
-      "player_id": "11633",
-      "full_name": "Jamari Thrash",
-      "first_name": "Jamari",
-      "last_name": "Thrash",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "CLE",
-      "status": "Inactive",
-      "injury_status": "Questionable",
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 2,
-      "age": 25,
-      "search_rank": 382
     },
     {
       "player_id": "13402",
@@ -12218,7 +12218,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 3,
       "age": 27,
       "search_rank": 502
