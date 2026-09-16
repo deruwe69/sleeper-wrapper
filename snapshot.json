@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:30:58.903Z",
+  "generated_at": "2026-09-16T18:27:41.088Z",
   "snapshot_version": 2,
   "week": 2,
   "league": {
@@ -541,7 +541,7 @@
         "injury_status": null,
         "injury_notes": null,
         "depth_chart_position": "TE",
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "years_exp": 1,
         "age": 23,
         "search_rank": 83
@@ -1055,7 +1055,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "TE",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 1,
           "age": 23,
           "search_rank": 83
@@ -3617,10 +3617,10 @@
           ],
           "team": "NYG",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "years_exp": 2,
           "age": 26,
           "search_rank": 110
@@ -4190,7 +4190,7 @@
           "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "QB",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 7,
           "age": 29,
           "search_rank": 86
@@ -8257,7 +8257,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "years_exp": 9,
       "age": 30,
       "search_rank": 131
@@ -8691,8 +8691,8 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Questionable",
-      "injury_notes": "Soreness",
+      "injury_status": null,
+      "injury_notes": null,
       "depth_chart_position": "RWR",
       "depth_chart_order": 3,
       "years_exp": 2,
@@ -8770,7 +8770,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 5,
       "age": 28,
       "search_rank": 170
@@ -8976,7 +8976,7 @@
       ],
       "team": "SF",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 2,
@@ -10043,7 +10043,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "years_exp": 2,
       "age": 24,
       "search_rank": 242
@@ -10370,25 +10370,6 @@
       "years_exp": 0,
       "age": 24,
       "search_rank": 297
-    },
-    {
-      "player_id": "10937",
-      "full_name": "Jake Moody",
-      "first_name": "Jake",
-      "last_name": "Moody",
-      "position": "K",
-      "fantasy_positions": [
-        "K"
-      ],
-      "team": "BAL",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 3,
-      "age": 26,
-      "search_rank": 309
     },
     {
       "player_id": "3258",
@@ -10923,25 +10904,6 @@
       "search_rank": 387
     },
     {
-      "player_id": "7559",
-      "full_name": "Ihmir Smith-Marsette",
-      "first_name": "Ihmir",
-      "last_name": "Smith-Marsette",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "ARI",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 5,
-      "age": 27,
-      "search_rank": 389
-    },
-    {
       "player_id": "13303",
       "full_name": "Cade Klubnik",
       "first_name": "Cade",
@@ -11012,7 +10974,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 4,
       "age": 28,
       "search_rank": 398
@@ -11658,7 +11620,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 7,
       "age": 30,
       "search_rank": 454
@@ -12798,7 +12760,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 0,
       "age": 23,
       "search_rank": 523
@@ -12988,7 +12950,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 1,
       "age": 23,
       "search_rank": 532
@@ -13615,10 +13577,48 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 2,
       "age": 26,
       "search_rank": 565
+    },
+    {
+      "player_id": "8253",
+      "full_name": "Deven Thompkins",
+      "first_name": "Deven",
+      "last_name": "Thompkins",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LV",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 4,
+      "age": 26,
+      "search_rank": 566
+    },
+    {
+      "player_id": "13438",
+      "full_name": "DeaMonte Trayanum",
+      "first_name": "DeaMonte",
+      "last_name": "Trayanum",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "NYJ",
+      "status": "Inactive",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 6,
+      "years_exp": 0,
+      "age": 24,
+      "search_rank": 569
     }
   ],
   "metadata": {
