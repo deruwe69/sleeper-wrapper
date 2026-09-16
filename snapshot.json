@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:25:53.364Z",
+  "generated_at": "2026-09-16T00:30:57.314Z",
   "snapshot_version": 2,
   "week": 2,
   "league": {
@@ -71,6 +71,11 @@
       "daily_waivers_last_ran": 26
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
+    "shard": 240,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1405618407239405568",
     "company_id": null,
     "scoring_settings": {
       "sack": 1,
@@ -222,12 +227,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1405618407239405568",
-    "shard": 240,
-    "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -237,13 +236,9 @@
     "last_message_time": 1789488052715,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -261,6 +256,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
@@ -7916,11 +7916,11 @@
         "RB"
       ],
       "team": "CLE",
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 5,
       "years_exp": 1,
       "age": 22,
       "search_rank": 129
@@ -9877,7 +9877,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "years_exp": 0,
       "age": 24,
       "search_rank": 276
@@ -10370,8 +10370,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
+      "depth_chart_position": "LWR",
+      "depth_chart_order": 7,
       "years_exp": 7,
       "age": 29,
       "search_rank": 366
@@ -11112,7 +11112,7 @@
       "injury_status": "IR",
       "injury_notes": "Surgery",
       "depth_chart_position": "RB",
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "years_exp": 4,
       "age": 27,
       "search_rank": 440
@@ -11285,7 +11285,7 @@
       "depth_chart_position": "RB",
       "depth_chart_order": 2,
       "years_exp": 9,
-      "age": 30,
+      "age": 31,
       "search_rank": 453
     },
     {
@@ -11359,7 +11359,7 @@
       "injury_status": "IR",
       "injury_notes": "Surgery",
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 3,
       "age": 27,
       "search_rank": 455
@@ -11663,7 +11663,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 4,
       "age": 25,
       "search_rank": 480
@@ -12161,6 +12161,25 @@
       "years_exp": 5,
       "age": 28,
       "search_rank": 505
+    },
+    {
+      "player_id": "3200",
+      "full_name": "Sterling Shepard",
+      "first_name": "Sterling",
+      "last_name": "Shepard",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 10,
+      "age": 33,
+      "search_rank": 506
     },
     {
       "player_id": "12544",
@@ -12752,6 +12771,25 @@
       "search_rank": 535
     },
     {
+      "player_id": "6960",
+      "full_name": "Tyler Johnson",
+      "first_name": "Tyler",
+      "last_name": "Johnson",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 6,
+      "age": 28,
+      "search_rank": 538
+    },
+    {
       "player_id": "11280",
       "full_name": "Brady Russell",
       "first_name": "Brady",
@@ -12769,6 +12807,25 @@
       "years_exp": 3,
       "age": 28,
       "search_rank": 541
+    },
+    {
+      "player_id": "7050",
+      "full_name": "Josiah Deguara",
+      "first_name": "Josiah",
+      "last_name": "Deguara",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "PHI",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 6,
+      "age": 29,
+      "search_rank": 542
     },
     {
       "player_id": "7585",
@@ -13107,7 +13164,7 @@
       "injury_status": "PUP",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 0,
       "age": 24,
       "search_rank": 553
@@ -13282,63 +13339,6 @@
       "years_exp": 0,
       "age": 24,
       "search_rank": 569
-    },
-    {
-      "player_id": "13582",
-      "full_name": "Anthony Smith",
-      "first_name": "Anthony",
-      "last_name": "Smith",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "DAL",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 0,
-      "age": 24,
-      "search_rank": 570
-    },
-    {
-      "player_id": "13603",
-      "full_name": "Gregory Desrosiers",
-      "first_name": "Gregory",
-      "last_name": "Desrosiers",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "LAC",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 0,
-      "age": 25,
-      "search_rank": 570
-    },
-    {
-      "player_id": "4464",
-      "full_name": "Nick Mullens",
-      "first_name": "Nick",
-      "last_name": "Mullens",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "JAX",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 9,
-      "age": 31,
-      "search_rank": 570
     }
   ],
   "metadata": {
