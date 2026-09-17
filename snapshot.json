@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T12:30:24.226Z",
+  "generated_at": "2026-09-17T18:28:08.677Z",
   "snapshot_version": 2,
   "week": 2,
   "league": {
@@ -226,19 +226,20 @@
     "season_type": "regular",
     "shard": 240,
     "sport": "nfl",
-    "last_message_id": "1405906414475460608",
+    "last_message_id": "1406295428655235072",
+    "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789556718991,
+    "last_message_time": 1789649467198,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -258,7 +259,6 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -541,7 +541,7 @@
         "injury_status": null,
         "injury_notes": null,
         "depth_chart_position": "TE",
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "years_exp": 1,
         "age": 23,
         "search_rank": 83
@@ -1055,7 +1055,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "TE",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 1,
           "age": 23,
           "search_rank": 83
@@ -2856,8 +2856,8 @@
         "4046",
         "9509",
         "13287",
-        "8142",
         "7569",
+        "8142",
         "5022",
         "9226",
         "5189",
@@ -2866,9 +2866,9 @@
       "player_ids": [
         "11564",
         "11583",
+        "11834",
         "13287",
         "13414",
-        "13417",
         "2133",
         "4046",
         "5022",
@@ -2940,25 +2940,6 @@
           "search_rank": 15
         },
         {
-          "player_id": "8142",
-          "full_name": "Alec Pierce",
-          "first_name": "Alec",
-          "last_name": "Pierce",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "IND",
-          "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "LWR",
-          "depth_chart_order": 1,
-          "years_exp": 4,
-          "age": 26,
-          "search_rank": 93
-        },
-        {
           "player_id": "7569",
           "full_name": "Nico Collins",
           "first_name": "Nico",
@@ -2976,6 +2957,25 @@
           "years_exp": 5,
           "age": 27,
           "search_rank": 22
+        },
+        {
+          "player_id": "8142",
+          "full_name": "Alec Pierce",
+          "first_name": "Alec",
+          "last_name": "Pierce",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "IND",
+          "status": "Active",
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": "LWR",
+          "depth_chart_order": 1,
+          "years_exp": 4,
+          "age": 26,
+          "search_rank": 93
         },
         {
           "player_id": "5022",
@@ -3094,6 +3094,25 @@
           "search_rank": 88
         },
         {
+          "player_id": "11834",
+          "full_name": "Devaughn Vele",
+          "first_name": "Devaughn",
+          "last_name": "Vele",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "NO",
+          "status": "Active",
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": "SWR",
+          "depth_chart_order": 2,
+          "years_exp": 2,
+          "age": 28,
+          "search_rank": 209
+        },
+        {
           "player_id": "13287",
           "full_name": "Jeremiyah Love",
           "first_name": "Jeremiyah",
@@ -3130,25 +3149,6 @@
           "years_exp": 0,
           "age": 24,
           "search_rank": 160
-        },
-        {
-          "player_id": "13417",
-          "full_name": "De'Zhaun Stribling",
-          "first_name": "De'Zhaun",
-          "last_name": "Stribling",
-          "position": "WR",
-          "fantasy_positions": [
-            "WR"
-          ],
-          "team": "SF",
-          "status": "Inactive",
-          "injury_status": "Out",
-          "injury_notes": "Surgery",
-          "depth_chart_position": "SWR",
-          "depth_chart_order": 10,
-          "years_exp": 0,
-          "age": 23,
-          "search_rank": 111
         },
         {
           "player_id": "2133",
@@ -7205,9 +7205,9 @@
       "players": [
         "11564",
         "11583",
+        "11834",
         "13287",
         "13414",
-        "13417",
         "2133",
         "4046",
         "5022",
@@ -7226,8 +7226,8 @@
         "4046",
         "9509",
         "13287",
-        "8142",
         "7569",
+        "8142",
         "5022",
         "9226",
         "5189",
@@ -7255,9 +7255,9 @@
         "9509": 0,
         "11564": 0,
         "11583": 0,
+        "11834": 0,
         "13287": 0,
         "13414": 0,
-        "13417": 0,
         "KC": 0,
         "PHI": 0
       }
@@ -7702,6 +7702,79 @@
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
+      "created": 1789649467174,
+      "settings": null,
+      "leg": 2,
+      "draft_picks": [],
+      "creator": "453866975160954880",
+      "transaction_id": "1406295428550373376",
+      "adds": {
+        "11834": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "drops": {
+        "13417": 5
+      },
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1789649467174,
+      "waiver_budget": [],
+      "added_players": [
+        {
+          "roster_id": 5,
+          "player": {
+            "player_id": "11834",
+            "full_name": "Devaughn Vele",
+            "first_name": "Devaughn",
+            "last_name": "Vele",
+            "position": "WR",
+            "fantasy_positions": [
+              "WR"
+            ],
+            "team": "NO",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "SWR",
+            "depth_chart_order": 2,
+            "years_exp": 2,
+            "age": 28,
+            "search_rank": 209
+          }
+        }
+      ],
+      "dropped_players": [
+        {
+          "roster_id": 5,
+          "player": {
+            "player_id": "13417",
+            "full_name": "De'Zhaun Stribling",
+            "first_name": "De'Zhaun",
+            "last_name": "Stribling",
+            "position": "WR",
+            "fantasy_positions": [
+              "WR"
+            ],
+            "team": "SF",
+            "status": "Inactive",
+            "injury_status": "Out",
+            "injury_notes": "Surgery",
+            "depth_chart_position": "SWR",
+            "depth_chart_order": 10,
+            "years_exp": 0,
+            "age": 23,
+            "search_rank": 111
+          }
+        }
+      ]
+    },
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
       "created": 1789556718958,
       "settings": null,
       "leg": 2,
@@ -8054,6 +8127,25 @@
       "search_rank": 109
     },
     {
+      "player_id": "13417",
+      "full_name": "De'Zhaun Stribling",
+      "first_name": "De'Zhaun",
+      "last_name": "Stribling",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "SF",
+      "status": "Inactive",
+      "injury_status": "Out",
+      "injury_notes": "Surgery",
+      "depth_chart_position": "SWR",
+      "depth_chart_order": 10,
+      "years_exp": 0,
+      "age": 23,
+      "search_rank": 111
+    },
+    {
       "player_id": "13337",
       "full_name": "Emmett Johnson",
       "first_name": "Emmett",
@@ -8257,7 +8349,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 2,
+      "depth_chart_order": 1,
       "years_exp": 9,
       "age": 30,
       "search_rank": 131
@@ -8675,7 +8767,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 3,
       "age": 24,
       "search_rank": 164
@@ -8903,7 +8995,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 0,
       "age": 22,
       "search_rank": 176
@@ -9667,25 +9759,6 @@
       "years_exp": 1,
       "age": 23,
       "search_rank": 208
-    },
-    {
-      "player_id": "11834",
-      "full_name": "Devaughn Vele",
-      "first_name": "Devaughn",
-      "last_name": "Vele",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NO",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 2,
-      "years_exp": 2,
-      "age": 28,
-      "search_rank": 209
     },
     {
       "player_id": "4950",
