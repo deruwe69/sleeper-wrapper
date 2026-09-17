@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T06:31:17.330Z",
+  "generated_at": "2026-09-17T12:30:24.226Z",
   "snapshot_version": 2,
   "week": 2,
   "league": {
@@ -224,8 +224,8 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "shard": 240,
+    "sport": "nfl",
     "last_message_id": "1405906414475460608",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -234,16 +234,11 @@
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1789556718991,
-    "draft_id": "1395682396505935872",
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -261,13 +256,18 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
     "week": 2,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 2,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -1835,7 +1835,7 @@
         "8130",
         "12501",
         "12015",
-        "LAR"
+        "SF"
       ],
       "player_ids": [
         "11581",
@@ -2009,15 +2009,15 @@
           "search_rank": 154
         },
         {
-          "player_id": "LAR",
-          "full_name": "Los Angeles Rams",
-          "first_name": "Los Angeles",
-          "last_name": "Rams",
+          "player_id": "SF",
+          "full_name": "San Francisco 49ers",
+          "first_name": "San Francisco",
+          "last_name": "49ers",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "LAR",
+          "team": "SF",
           "status": null,
           "injury_status": null,
           "injury_notes": null,
@@ -7107,7 +7107,7 @@
         "8130",
         "12501",
         "12015",
-        "LAR"
+        "SF"
       ],
       "starters_points": [
         0,
