@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:28:52.509Z",
+  "generated_at": "2026-09-18T18:26:01.509Z",
   "snapshot_version": 2,
   "week": 2,
   "league": {
@@ -541,7 +541,7 @@
         "injury_status": null,
         "injury_notes": null,
         "depth_chart_position": "TE",
-        "depth_chart_order": 2,
+        "depth_chart_order": 1,
         "years_exp": 1,
         "age": 23,
         "search_rank": 83
@@ -1055,7 +1055,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "TE",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "years_exp": 1,
           "age": 23,
           "search_rank": 83
@@ -2855,11 +2855,11 @@
       "starter_ids": [
         "4046",
         "9509",
-        "13287",
-        "7569",
-        "8142",
-        "5022",
         "9226",
+        "2133",
+        "11834",
+        "5022",
+        "13287",
         "5189",
         "PHI"
       ],
@@ -2921,61 +2921,61 @@
           "search_rank": 1
         },
         {
-          "player_id": "13287",
-          "full_name": "Jeremiyah Love",
-          "first_name": "Jeremiyah",
-          "last_name": "Love",
+          "player_id": "9226",
+          "full_name": "De'Von Achane",
+          "first_name": "De'Von",
+          "last_name": "Achane",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "ARI",
+          "team": "MIA",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
-          "years_exp": 0,
-          "age": 21,
-          "search_rank": 15
+          "years_exp": 3,
+          "age": 24,
+          "search_rank": 8
         },
         {
-          "player_id": "7569",
-          "full_name": "Nico Collins",
-          "first_name": "Nico",
-          "last_name": "Collins",
+          "player_id": "2133",
+          "full_name": "Davante Adams",
+          "first_name": "Davante",
+          "last_name": "Adams",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "HOU",
+          "team": "LAR",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
-          "depth_chart_order": 1,
-          "years_exp": 5,
-          "age": 27,
-          "search_rank": 22
+          "depth_chart_order": 2,
+          "years_exp": 12,
+          "age": 33,
+          "search_rank": 46
         },
         {
-          "player_id": "8142",
-          "full_name": "Alec Pierce",
-          "first_name": "Alec",
-          "last_name": "Pierce",
+          "player_id": "11834",
+          "full_name": "Devaughn Vele",
+          "first_name": "Devaughn",
+          "last_name": "Vele",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "IND",
+          "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
-          "depth_chart_position": "LWR",
-          "depth_chart_order": 1,
-          "years_exp": 4,
-          "age": 26,
-          "search_rank": 94
+          "depth_chart_position": "SWR",
+          "depth_chart_order": 2,
+          "years_exp": 2,
+          "age": 28,
+          "search_rank": 209
         },
         {
           "player_id": "5022",
@@ -2997,23 +2997,23 @@
           "search_rank": 94
         },
         {
-          "player_id": "9226",
-          "full_name": "De'Von Achane",
-          "first_name": "De'Von",
-          "last_name": "Achane",
+          "player_id": "13287",
+          "full_name": "Jeremiyah Love",
+          "first_name": "Jeremiyah",
+          "last_name": "Love",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "MIA",
+          "team": "ARI",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
-          "years_exp": 3,
-          "age": 24,
-          "search_rank": 8
+          "years_exp": 0,
+          "age": 21,
+          "search_rank": 15
         },
         {
           "player_id": "5189",
@@ -5137,7 +5137,7 @@
           ],
           "team": "CAR",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "SWR",
           "depth_chart_order": 2,
@@ -5859,7 +5859,7 @@
           ],
           "team": "WAS",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "TE",
           "depth_chart_order": 1,
@@ -7225,11 +7225,11 @@
       "starters": [
         "4046",
         "9509",
-        "13287",
-        "7569",
-        "8142",
-        "5022",
         "9226",
+        "2133",
+        "11834",
+        "5022",
+        "13287",
         "5189",
         "PHI"
       ],
@@ -8349,7 +8349,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "years_exp": 9,
       "age": 30,
       "search_rank": 131
@@ -8574,7 +8574,7 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "injury_notes": "Sprain",
       "depth_chart_position": "SWR",
       "depth_chart_order": 3,
@@ -8767,7 +8767,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 3,
       "age": 24,
       "search_rank": 164
@@ -9961,10 +9961,10 @@
       ],
       "team": "ATL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "injury_notes": "Surgery",
       "depth_chart_position": "QB",
-      "depth_chart_order": 1,
+      "depth_chart_order": 2,
       "years_exp": 2,
       "age": 26,
       "search_rank": 228
@@ -10037,7 +10037,7 @@
       ],
       "team": "ATL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "injury_notes": "Strain",
       "depth_chart_position": "QB",
       "depth_chart_order": 3,
@@ -10937,25 +10937,6 @@
       "years_exp": 0,
       "age": 24,
       "search_rank": 382
-    },
-    {
-      "player_id": "13816",
-      "full_name": "Mark Gronowski",
-      "first_name": "Mark",
-      "last_name": "Gronowski",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 0,
-      "age": 24,
-      "search_rank": 383
     },
     {
       "player_id": "7103",
@@ -13692,6 +13673,25 @@
       "years_exp": 0,
       "age": 24,
       "search_rank": 569
+    },
+    {
+      "player_id": "13582",
+      "full_name": "Anthony Smith",
+      "first_name": "Anthony",
+      "last_name": "Smith",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 0,
+      "age": 24,
+      "search_rank": 570
     }
   ],
   "metadata": {
