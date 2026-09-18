@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T06:29:32.269Z",
+  "generated_at": "2026-09-18T12:28:52.509Z",
   "snapshot_version": 2,
   "week": 2,
   "league": {
@@ -8558,7 +8558,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 2,
       "years_exp": 4,
       "age": 27,
       "search_rank": 151
@@ -10990,7 +10990,7 @@
       "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "years_exp": 0,
       "age": 24,
       "search_rank": 387
@@ -12795,7 +12795,7 @@
       "injury_status": "PUP",
       "injury_notes": "Surgery",
       "depth_chart_position": "RWR",
-      "depth_chart_order": 8,
+      "depth_chart_order": 5,
       "years_exp": 3,
       "age": 27,
       "search_rank": 519
@@ -12909,7 +12909,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 4,
       "years_exp": 2,
       "age": 25,
       "search_rank": 527
