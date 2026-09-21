@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T12:28:02.095Z",
+  "generated_at": "2026-09-21T18:27:13.223Z",
   "snapshot_version": 2,
   "week": 2,
   "league": {
@@ -72,10 +72,11 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "shard": 240,
-    "season": "2026",
-    "season_type": "regular",
+    "last_message_id": "1406295428655235072",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 240,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -226,7 +227,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1406295428655235072",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -235,8 +235,8 @@
     "last_message_text_map": null,
     "last_message_time": 1789649467198,
     "last_pinned_message_id": null,
-    "draft_id": "1395682396505935872",
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
     "bracket_id": null,
@@ -265,9 +265,9 @@
   },
   "nfl_state": {
     "week": 2,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 2,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -7711,12 +7711,12 @@
       "adds": {
         "11834": 5
       },
-      "consenter_ids": [
-        5
-      ],
       "drops": {
         "13417": 5
       },
+      "consenter_ids": [
+        5
+      ],
       "roster_ids": [
         5
       ],
@@ -7784,12 +7784,12 @@
       "adds": {
         "SF": 3
       },
-      "consenter_ids": [
-        3
-      ],
       "drops": {
         "JAX": 3
       },
+      "consenter_ids": [
+        3
+      ],
       "roster_ids": [
         3
       ],
@@ -7857,12 +7857,12 @@
       "adds": {
         "12711": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "12713": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -7930,12 +7930,12 @@
       "adds": {
         "KC": 5
       },
-      "consenter_ids": [
-        5
-      ],
       "drops": {
         "1479": 5
       },
+      "consenter_ids": [
+        5
+      ],
       "roster_ids": [
         5
       ],
@@ -13536,7 +13536,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "years_exp": 0,
       "age": 24,
       "search_rank": 550
