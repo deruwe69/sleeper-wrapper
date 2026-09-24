@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:30:34.594Z",
+  "generated_at": "2026-09-24T21:28:59.468Z",
   "snapshot_version": 2,
   "week": 3,
   "league": {
@@ -72,6 +72,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
+    "shard": 240,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -222,10 +226,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 240,
     "last_message_id": "1408800582617059328",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -239,11 +239,6 @@
     "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -261,6 +256,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
@@ -1468,7 +1468,7 @@
           ],
           "team": "NYG",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
@@ -1565,7 +1565,7 @@
           ],
           "team": "NYG",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
@@ -3123,7 +3123,7 @@
           ],
           "team": "NYJ",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 2,
@@ -4905,7 +4905,7 @@
       "display_name": "SrTobias",
       "team_name": "Tobi-Wan Kenobi",
       "starter_ids": [
-        "6770",
+        "8183",
         "4034",
         "12507",
         "12526",
@@ -4935,23 +4935,23 @@
       "reserve_ids": [],
       "starters": [
         {
-          "player_id": "6770",
-          "full_name": "Joe Burrow",
-          "first_name": "Joe",
-          "last_name": "Burrow",
+          "player_id": "8183",
+          "full_name": "Brock Purdy",
+          "first_name": "Brock",
+          "last_name": "Purdy",
           "position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "team": "CIN",
+          "team": "SF",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
-          "years_exp": 6,
-          "age": 29,
-          "search_rank": 15
+          "years_exp": 4,
+          "age": 26,
+          "search_rank": 55
         },
         {
           "player_id": "4034",
@@ -7471,7 +7471,7 @@
       "custom_points": null,
       "matchup_id": 4,
       "starters": [
-        "6770",
+        "8183",
         "4034",
         "12507",
         "12526",
@@ -8055,8 +8055,8 @@
               "QB"
             ],
             "team": "NYG",
-            "status": "Active",
-            "injury_status": "Out",
+            "status": "Inactive",
+            "injury_status": "IR",
             "injury_notes": "Surgery",
             "depth_chart_position": "QB",
             "depth_chart_order": 3,
@@ -8105,7 +8105,7 @@
             ],
             "team": "NYJ",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "injury_notes": null,
             "depth_chart_position": "RWR",
             "depth_chart_order": 2,
@@ -8591,8 +8591,8 @@
         "QB"
       ],
       "team": "NYG",
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "injury_notes": "Surgery",
       "depth_chart_position": "QB",
       "depth_chart_order": 3,
@@ -9127,7 +9127,7 @@
       "injury_status": "Doubtful",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 1,
       "age": 22,
       "search_rank": 138
@@ -9412,7 +9412,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 3,
       "age": 24,
       "search_rank": 164
@@ -9789,7 +9789,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 3,
@@ -9960,7 +9960,7 @@
       ],
       "team": "CHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "K",
       "depth_chart_order": 1,
@@ -10704,7 +10704,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 4,
       "age": 27,
       "search_rank": 243
@@ -11907,6 +11907,25 @@
       "search_rank": 419
     },
     {
+      "player_id": "6045",
+      "full_name": "Gary Jennings",
+      "first_name": "Gary",
+      "last_name": "Jennings",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LAC",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 7,
+      "age": 29,
+      "search_rank": 426
+    },
+    {
       "player_id": "7812",
       "full_name": "Simi Fehoko",
       "first_name": "Simi",
@@ -12452,7 +12471,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 23,
       "search_rank": 472
@@ -12661,7 +12680,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 23,
       "search_rank": 486
@@ -13608,7 +13627,7 @@
       ],
       "team": "CAR",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "RWR",
       "depth_chart_order": 3,
@@ -14261,25 +14280,6 @@
       "years_exp": 1,
       "age": 23,
       "search_rank": 560
-    },
-    {
-      "player_id": "13173",
-      "full_name": "Jimmy Holiday",
-      "first_name": "Jimmy",
-      "last_name": "Holiday",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "KC",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 1,
-      "age": 24,
-      "search_rank": 563
     }
   ],
   "metadata": {
