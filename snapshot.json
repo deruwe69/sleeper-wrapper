@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:21:16.531Z",
+  "generated_at": "2026-09-26T16:20:39.224Z",
   "snapshot_version": 2,
   "week": 3,
   "league": {
@@ -227,7 +227,6 @@
       "idp_tkl_ast": 0
     },
     "last_message_id": "1408800582617059328",
-    "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -237,13 +236,9 @@
     "last_message_time": 1790246742446,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -261,6 +256,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
@@ -8129,7 +8129,7 @@
             ],
             "team": "IND",
             "status": "Inactive",
-            "injury_status": "Out",
+            "injury_status": "IR",
             "injury_notes": null,
             "depth_chart_position": "LWR",
             "depth_chart_order": 9,
@@ -8687,7 +8687,7 @@
       ],
       "team": "IND",
       "status": "Inactive",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "LWR",
       "depth_chart_order": 9,
@@ -9564,7 +9564,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 1,
       "age": 23,
       "search_rank": 173
@@ -12205,7 +12205,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 3,
       "age": 26,
       "search_rank": 450
@@ -13326,7 +13326,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 3,
       "age": 27,
       "search_rank": 511
@@ -13807,25 +13807,6 @@
       "search_rank": 534
     },
     {
-      "player_id": "12946",
-      "full_name": "Dontae Fleming",
-      "first_name": "Dontae",
-      "last_name": "Fleming",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "MIN",
-      "status": "Inactive",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 1,
-      "age": 24,
-      "search_rank": 535
-    },
-    {
       "player_id": "6960",
       "full_name": "Tyler Johnson",
       "first_name": "Tyler",
@@ -14280,6 +14261,25 @@
       "years_exp": 1,
       "age": 24,
       "search_rank": 563
+    },
+    {
+      "player_id": "10227",
+      "full_name": "Payne Durham",
+      "first_name": "Payne",
+      "last_name": "Durham",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "TB",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "TE",
+      "depth_chart_order": 2,
+      "years_exp": 3,
+      "age": 26,
+      "search_rank": 564
     }
   ],
   "metadata": {
