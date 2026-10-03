@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:15:12.854Z",
+  "generated_at": "2026-10-03T21:11:45.760Z",
   "snapshot_version": 2,
   "week": 4,
   "league": {
@@ -72,11 +72,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "shard": 240,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1411495059919998976",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 240,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -227,20 +226,19 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
+    "last_message_id": "1412172632131960832",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790889155897,
+    "last_message_time": 1791050701701,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -258,6 +256,8 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
@@ -1391,8 +1391,8 @@
             "RB"
           ],
           "team": "SEA",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 8,
@@ -1621,8 +1621,8 @@
             "RB"
           ],
           "team": "SEA",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 8,
@@ -2858,7 +2858,7 @@
         "13287",
         "2133",
         "7569",
-        "5001",
+        "2505",
         "11834",
         "12185",
         "KC"
@@ -2872,9 +2872,9 @@
         "13287",
         "13414",
         "2133",
+        "2505",
         "3634",
         "4046",
-        "5001",
         "7569",
         "8136",
         "9509",
@@ -2978,23 +2978,23 @@
           "search_rank": 21
         },
         {
-          "player_id": "5001",
-          "full_name": "Dalton Schultz",
-          "first_name": "Dalton",
-          "last_name": "Schultz",
+          "player_id": "2505",
+          "full_name": "Darren Waller",
+          "first_name": "Darren",
+          "last_name": "Waller",
           "position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "team": "HOU",
+          "team": "CAR",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "TE",
           "depth_chart_order": 1,
-          "years_exp": 8,
-          "age": 30,
-          "search_rank": 98
+          "years_exp": 11,
+          "age": 34,
+          "search_rank": 354
         },
         {
           "player_id": "11834",
@@ -3208,6 +3208,25 @@
           "search_rank": 46
         },
         {
+          "player_id": "2505",
+          "full_name": "Darren Waller",
+          "first_name": "Darren",
+          "last_name": "Waller",
+          "position": "TE",
+          "fantasy_positions": [
+            "TE"
+          ],
+          "team": "CAR",
+          "status": "Active",
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": "TE",
+          "depth_chart_order": 1,
+          "years_exp": 11,
+          "age": 34,
+          "search_rank": 354
+        },
+        {
           "player_id": "3634",
           "full_name": "Kalif Raymond",
           "first_name": "Kalif",
@@ -3244,25 +3263,6 @@
           "years_exp": 9,
           "age": 31,
           "search_rank": 39
-        },
-        {
-          "player_id": "5001",
-          "full_name": "Dalton Schultz",
-          "first_name": "Dalton",
-          "last_name": "Schultz",
-          "position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "team": "HOU",
-          "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "TE",
-          "depth_chart_order": 1,
-          "years_exp": 8,
-          "age": 30,
-          "search_rank": 98
         },
         {
           "player_id": "7569",
@@ -7211,9 +7211,9 @@
         "13287",
         "13414",
         "2133",
+        "2505",
         "3634",
         "4046",
-        "5001",
         "7569",
         "8136",
         "9509",
@@ -7228,7 +7228,7 @@
         "13287",
         "2133",
         "7569",
-        "5001",
+        "2505",
         "11834",
         "12185",
         "KC"
@@ -7246,9 +7246,9 @@
       ],
       "players_points": {
         "2133": 0,
+        "2505": 0,
         "3634": 0,
         "4046": 0,
-        "5001": 0,
         "7569": 0,
         "8136": 0,
         "9509": 0,
@@ -7698,6 +7698,79 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791050701669,
+      "settings": null,
+      "leg": 4,
+      "draft_picks": [],
+      "creator": "453866975160954880",
+      "transaction_id": "1412172631997706240",
+      "adds": {
+        "2505": 5
+      },
+      "drops": {
+        "5001": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1791050701669,
+      "waiver_budget": [],
+      "added_players": [
+        {
+          "roster_id": 5,
+          "player": {
+            "player_id": "2505",
+            "full_name": "Darren Waller",
+            "first_name": "Darren",
+            "last_name": "Waller",
+            "position": "TE",
+            "fantasy_positions": [
+              "TE"
+            ],
+            "team": "CAR",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "TE",
+            "depth_chart_order": 1,
+            "years_exp": 11,
+            "age": 34,
+            "search_rank": 354
+          }
+        }
+      ],
+      "dropped_players": [
+        {
+          "roster_id": 5,
+          "player": {
+            "player_id": "5001",
+            "full_name": "Dalton Schultz",
+            "first_name": "Dalton",
+            "last_name": "Schultz",
+            "position": "TE",
+            "fantasy_positions": [
+              "TE"
+            ],
+            "team": "HOU",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "TE",
+            "depth_chart_order": 1,
+            "years_exp": 8,
+            "age": 30,
+            "search_rank": 98
+          }
+        }
+      ]
+    },
     {
       "status": "complete",
       "type": "free_agent",
@@ -8328,6 +8401,25 @@
       "years_exp": 8,
       "age": 31,
       "search_rank": 94
+    },
+    {
+      "player_id": "5001",
+      "full_name": "Dalton Schultz",
+      "first_name": "Dalton",
+      "last_name": "Schultz",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "HOU",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "TE",
+      "depth_chart_order": 1,
+      "years_exp": 8,
+      "age": 30,
+      "search_rank": 98
     },
     {
       "player_id": "10222",
@@ -9540,7 +9632,7 @@
       "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 2,
+      "depth_chart_order": 7,
       "years_exp": 13,
       "age": 34,
       "search_rank": 185
@@ -10527,8 +10619,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
+      "depth_chart_position": "SWR",
+      "depth_chart_order": 4,
       "years_exp": 10,
       "age": 33,
       "search_rank": 257
@@ -10603,8 +10695,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 5,
       "years_exp": 3,
       "age": 27,
       "search_rank": 270
@@ -10908,7 +11000,7 @@
       "injury_status": "IR",
       "injury_notes": "Surgery",
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 3,
       "age": 27,
       "search_rank": 333
@@ -10969,25 +11061,6 @@
       "years_exp": 1,
       "age": 25,
       "search_rank": 347
-    },
-    {
-      "player_id": "2505",
-      "full_name": "Darren Waller",
-      "first_name": "Darren",
-      "last_name": "Waller",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "TE",
-      "depth_chart_order": 1,
-      "years_exp": 11,
-      "age": 34,
-      "search_rank": 354
     },
     {
       "player_id": "6992",
@@ -11098,7 +11171,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 6,
+      "depth_chart_order": 5,
       "years_exp": 0,
       "age": 24,
       "search_rank": 371
@@ -12064,7 +12137,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
       "depth_chart_order": 4,
@@ -13412,8 +13485,8 @@
         "WR"
       ],
       "team": "CAR",
-      "status": "Active",
-      "injury_status": "Out",
+      "status": "Inactive",
+      "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RWR",
       "depth_chart_order": 7,
@@ -13625,7 +13698,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 7,
       "age": 29,
       "search_rank": 541
