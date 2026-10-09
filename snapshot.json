@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:04:41.962Z",
+  "generated_at": "2026-10-09T13:12:25.024Z",
   "snapshot_version": 2,
   "week": 5,
   "league": {
@@ -72,11 +72,6 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "shard": 240,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1414135943429902336",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -227,18 +222,25 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 240,
+    "sport": "nfl",
+    "last_message_id": "1414169838598795264",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
+    "draft_id": "1395682396505935872",
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791518791590,
+    "last_message_time": 1791526872828,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -256,8 +258,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
@@ -1834,7 +1834,7 @@
         "12501",
         "8130",
         "12512",
-        "12711",
+        "13545",
         "CIN"
       ],
       "player_ids": [
@@ -1843,7 +1843,7 @@
         "12490",
         "12501",
         "12512",
-        "12711",
+        "13545",
         "3257",
         "6797",
         "7547",
@@ -1990,23 +1990,23 @@
           "search_rank": 45
         },
         {
-          "player_id": "12711",
-          "full_name": "Tyler Loop",
-          "first_name": "Tyler",
-          "last_name": "Loop",
+          "player_id": "13545",
+          "full_name": "Trey Smack",
+          "first_name": "Trey",
+          "last_name": "Smack",
           "position": "K",
           "fantasy_positions": [
             "K"
           ],
-          "team": "BAL",
+          "team": "GB",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "K",
           "depth_chart_order": 1,
-          "years_exp": 1,
-          "age": 25,
-          "search_rank": 150
+          "years_exp": 0,
+          "age": 23,
+          "search_rank": 195
         },
         {
           "player_id": "CIN",
@@ -2125,23 +2125,23 @@
           "search_rank": 45
         },
         {
-          "player_id": "12711",
-          "full_name": "Tyler Loop",
-          "first_name": "Tyler",
-          "last_name": "Loop",
+          "player_id": "13545",
+          "full_name": "Trey Smack",
+          "first_name": "Trey",
+          "last_name": "Smack",
           "position": "K",
           "fantasy_positions": [
             "K"
           ],
-          "team": "BAL",
+          "team": "GB",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "K",
           "depth_chart_order": 1,
-          "years_exp": 1,
-          "age": 25,
-          "search_rank": 150
+          "years_exp": 0,
+          "age": 23,
+          "search_rank": 195
         },
         {
           "player_id": "3257",
@@ -6445,7 +6445,7 @@
       "team_name": "Alaskan KingCrabs",
       "starter_ids": [
         "3294",
-        "4866",
+        "12474",
         "8154",
         "9997",
         "8167",
@@ -6493,23 +6493,23 @@
           "search_rank": 38
         },
         {
-          "player_id": "4866",
-          "full_name": "Saquon Barkley",
-          "first_name": "Saquon",
-          "last_name": "Barkley",
+          "player_id": "12474",
+          "full_name": "Woody Marks",
+          "first_name": "Woody",
+          "last_name": "Marks",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "PHI",
+          "team": "HOU",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 2,
-          "years_exp": 8,
-          "age": 29,
-          "search_rank": 11
+          "years_exp": 1,
+          "age": 25,
+          "search_rank": 105
         },
         {
           "player_id": "8154",
@@ -7084,7 +7084,7 @@
         "12490",
         "12501",
         "12512",
-        "12711",
+        "13545",
         "3257",
         "6797",
         "7547",
@@ -7106,7 +7106,7 @@
         "12501",
         "8130",
         "12512",
-        "12711",
+        "13545",
         "CIN"
       ],
       "starters_points": [
@@ -7134,7 +7134,7 @@
         "12490": 0,
         "12501": 0,
         "12512": 0,
-        "12711": 0,
+        "13545": 0,
         "CIN": 0
       }
     },
@@ -7658,7 +7658,7 @@
       "matchup_id": 6,
       "starters": [
         "3294",
-        "4866",
+        "12474",
         "8154",
         "9997",
         "8167",
@@ -7698,6 +7698,79 @@
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1791526872797,
+      "settings": null,
+      "leg": 5,
+      "draft_picks": [],
+      "creator": "1395724654777217024",
+      "transaction_id": "1414169838464598016",
+      "adds": {
+        "13545": 3
+      },
+      "consenter_ids": [
+        3
+      ],
+      "drops": {
+        "12711": 3
+      },
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1791526872797,
+      "waiver_budget": [],
+      "added_players": [
+        {
+          "roster_id": 3,
+          "player": {
+            "player_id": "13545",
+            "full_name": "Trey Smack",
+            "first_name": "Trey",
+            "last_name": "Smack",
+            "position": "K",
+            "fantasy_positions": [
+              "K"
+            ],
+            "team": "GB",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "K",
+            "depth_chart_order": 1,
+            "years_exp": 0,
+            "age": 23,
+            "search_rank": 195
+          }
+        }
+      ],
+      "dropped_players": [
+        {
+          "roster_id": 3,
+          "player": {
+            "player_id": "12711",
+            "full_name": "Tyler Loop",
+            "first_name": "Tyler",
+            "last_name": "Loop",
+            "position": "K",
+            "fantasy_positions": [
+              "K"
+            ],
+            "team": "BAL",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "K",
+            "depth_chart_order": 1,
+            "years_exp": 1,
+            "age": 25,
+            "search_rank": 150
+          }
+        }
+      ]
+    },
     {
       "status": "failed",
       "type": "waiver",
@@ -8311,7 +8384,7 @@
       "injury_status": "NA",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 7,
       "age": 28,
       "search_rank": 20
@@ -9018,6 +9091,25 @@
       "years_exp": 4,
       "age": 27,
       "search_rank": 148
+    },
+    {
+      "player_id": "12711",
+      "full_name": "Tyler Loop",
+      "first_name": "Tyler",
+      "last_name": "Loop",
+      "position": "K",
+      "fantasy_positions": [
+        "K"
+      ],
+      "team": "BAL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "K",
+      "depth_chart_order": 1,
+      "years_exp": 1,
+      "age": 25,
+      "search_rank": 150
     },
     {
       "player_id": "8205",
@@ -9947,25 +10039,6 @@
       "depth_chart_position": "SWR",
       "depth_chart_order": 5,
       "years_exp": 1,
-      "age": 23,
-      "search_rank": 195
-    },
-    {
-      "player_id": "13545",
-      "full_name": "Trey Smack",
-      "first_name": "Trey",
-      "last_name": "Smack",
-      "position": "K",
-      "fantasy_positions": [
-        "K"
-      ],
-      "team": "GB",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "K",
-      "depth_chart_order": 1,
-      "years_exp": 0,
       "age": 23,
       "search_rank": 195
     },
@@ -12206,7 +12279,7 @@
       "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 3,
       "age": 26,
       "search_rank": 450
