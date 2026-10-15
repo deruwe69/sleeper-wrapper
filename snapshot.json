@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:23:56.816Z",
+  "generated_at": "2026-10-15T16:57:20.351Z",
   "snapshot_version": 2,
   "week": 6,
   "league": {
@@ -227,11 +227,11 @@
       "idp_tkl_ast": 0
     },
     "last_message_id": "1416139094475485184",
-    "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
+    "draft_id": "1395682396505935872",
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1791996380017,
@@ -239,9 +239,11 @@
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -259,8 +261,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
@@ -7711,12 +7711,12 @@
       "adds": {
         "12711": 1
       },
-      "drops": {
-        "11577": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "11577": 1
+      },
       "roster_ids": [
         1
       ],
@@ -7784,12 +7784,12 @@
       "adds": {
         "5189": 9
       },
-      "drops": {
-        "12015": 9
-      },
       "consenter_ids": [
         9
       ],
+      "drops": {
+        "12015": 9
+      },
       "roster_ids": [
         9
       ],
