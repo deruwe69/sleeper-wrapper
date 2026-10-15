@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:57:20.351Z",
+  "generated_at": "2026-10-15T21:20:03.616Z",
   "snapshot_version": 2,
   "week": 6,
   "league": {
@@ -72,10 +72,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "shard": 240,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 240,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -230,8 +230,8 @@
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
     "draft_id": "1395682396505935872",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1791996380017,
@@ -239,11 +239,6 @@
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -261,13 +256,18 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
     "week": 6,
-    "leg": 6,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
+    "leg": 6,
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -1354,7 +1354,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
@@ -1468,7 +1468,7 @@
           ],
           "team": "SF",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
@@ -1660,7 +1660,7 @@
           ],
           "team": "SF",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
@@ -1717,7 +1717,7 @@
           ],
           "team": "PHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
@@ -1736,8 +1736,8 @@
           ],
           "team": "PIT",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_notes": "Dislocated",
+          "injury_status": null,
+          "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 2,
           "years_exp": 6,
@@ -1924,7 +1924,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "SWR",
           "depth_chart_order": 1,
@@ -2268,7 +2268,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "SWR",
           "depth_chart_order": 1,
@@ -2573,7 +2573,7 @@
           "team": "CHI",
           "status": "Active",
           "injury_status": "Questionable",
-          "injury_notes": "Strain",
+          "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
           "years_exp": 2,
@@ -6541,7 +6541,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "SWR",
           "depth_chart_order": 1,
@@ -6904,7 +6904,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "SWR",
           "depth_chart_order": 1,
@@ -7711,12 +7711,12 @@
       "adds": {
         "12711": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "11577": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -7784,12 +7784,12 @@
       "adds": {
         "5189": 9
       },
-      "consenter_ids": [
-        9
-      ],
       "drops": {
         "12015": 9
       },
+      "consenter_ids": [
+        9
+      ],
       "roster_ids": [
         9
       ],
@@ -9435,7 +9435,7 @@
       ],
       "team": "NYG",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
       "depth_chart_order": 3,
@@ -10879,7 +10879,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 4,
