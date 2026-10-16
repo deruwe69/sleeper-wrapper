@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:18:23.460Z",
+  "generated_at": "2026-10-16T16:35:27.537Z",
   "snapshot_version": 2,
   "week": 6,
   "league": {
@@ -72,6 +72,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 240,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -222,11 +226,7 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "last_message_id": "1416684381518508032",
-    "shard": 240,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -235,11 +235,10 @@
     "last_message_text_map": null,
     "last_message_time": 1792126386578,
     "last_pinned_message_id": null,
-    "draft_id": "1395682396505935872",
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -257,6 +256,7 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
@@ -2800,7 +2800,7 @@
           ],
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Doubtful",
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 2,
@@ -7711,12 +7711,12 @@
       "adds": {
         "13150": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "7839": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -7784,12 +7784,12 @@
       "adds": {
         "7042": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "4037": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -7857,12 +7857,12 @@
       "adds": {
         "8129": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "3271": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -7930,12 +7930,12 @@
       "adds": {
         "SF": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "CLE": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -8003,12 +8003,12 @@
       "adds": {
         "12711": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "11577": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -8076,12 +8076,12 @@
       "adds": {
         "5189": 9
       },
-      "consenter_ids": [
-        9
-      ],
       "drops": {
         "12015": 9
       },
+      "consenter_ids": [
+        9
+      ],
       "roster_ids": [
         9
       ],
@@ -9119,7 +9119,7 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "injury_notes": "Surgery",
       "depth_chart_position": "RWR",
       "depth_chart_order": 4,
@@ -13726,25 +13726,6 @@
       "search_rank": 541
     },
     {
-      "player_id": "6149",
-      "full_name": "Darius Slayton",
-      "first_name": "Darius",
-      "last_name": "Slayton",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "IND",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "RWR",
-      "depth_chart_order": 4,
-      "years_exp": 7,
-      "age": 29,
-      "search_rank": 541
-    },
-    {
       "player_id": "11959",
       "full_name": "Bryce Oliver",
       "first_name": "Bryce",
@@ -13838,6 +13819,25 @@
       "years_exp": 3,
       "age": 26,
       "search_rank": 546
+    },
+    {
+      "player_id": "12470",
+      "full_name": "Riley Leonard",
+      "first_name": "Riley",
+      "last_name": "Leonard",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "IND",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 3,
+      "years_exp": 1,
+      "age": 24,
+      "search_rank": 547
     }
   ],
   "metadata": {
