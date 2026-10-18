@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:59:44.645Z",
+  "generated_at": "2026-10-18T15:49:20.383Z",
   "snapshot_version": 2,
   "week": 6,
   "league": {
@@ -287,7 +287,7 @@
     "display_name": "BeaverUwe",
     "team_name": "Barmstedt Beavers",
     "starter_ids": [
-      "96",
+      "1166",
       "12527",
       "8129",
       "5927",
@@ -317,23 +317,23 @@
     "reserve_ids": [],
     "starters": [
       {
-        "player_id": "96",
-        "full_name": "Aaron Rodgers",
-        "first_name": "Aaron",
-        "last_name": "Rodgers",
+        "player_id": "1166",
+        "full_name": "Kirk Cousins",
+        "first_name": "Kirk",
+        "last_name": "Cousins",
         "position": "QB",
         "fantasy_positions": [
           "QB"
         ],
-        "team": "PIT",
+        "team": "LV",
         "status": "Active",
         "injury_status": null,
         "injury_notes": null,
         "depth_chart_position": "QB",
         "depth_chart_order": 1,
-        "years_exp": 21,
-        "age": 42,
-        "search_rank": 187
+        "years_exp": 14,
+        "age": 38,
+        "search_rank": 267
       },
       {
         "player_id": "12527",
@@ -801,7 +801,7 @@
       "display_name": "BeaverUwe",
       "team_name": "Barmstedt Beavers",
       "starter_ids": [
-        "96",
+        "1166",
         "12527",
         "8129",
         "5927",
@@ -831,23 +831,23 @@
       "reserve_ids": [],
       "starters": [
         {
-          "player_id": "96",
-          "full_name": "Aaron Rodgers",
-          "first_name": "Aaron",
-          "last_name": "Rodgers",
+          "player_id": "1166",
+          "full_name": "Kirk Cousins",
+          "first_name": "Kirk",
+          "last_name": "Cousins",
           "position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "team": "PIT",
+          "team": "LV",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
-          "years_exp": 21,
-          "age": 42,
-          "search_rank": 187
+          "years_exp": 14,
+          "age": 38,
+          "search_rank": 267
         },
         {
           "player_id": "12527",
@@ -1317,10 +1317,10 @@
         "3257",
         "11584",
         "9757",
-        "6786",
+        "13346",
         "11632",
         "11604",
-        "2216",
+        "6786",
         "6650",
         "LV"
       ],
@@ -1401,23 +1401,23 @@
           "search_rank": 180
         },
         {
-          "player_id": "6786",
-          "full_name": "CeeDee Lamb",
-          "first_name": "CeeDee",
-          "last_name": "Lamb",
+          "player_id": "13346",
+          "full_name": "Denzel Boston",
+          "first_name": "Denzel",
+          "last_name": "Boston",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "DAL",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
-          "years_exp": 6,
-          "age": 27,
-          "search_rank": 10
+          "years_exp": 0,
+          "age": 22,
+          "search_rank": 153
         },
         {
           "player_id": "11632",
@@ -1458,23 +1458,23 @@
           "search_rank": 21
         },
         {
-          "player_id": "2216",
-          "full_name": "Mike Evans",
-          "first_name": "Mike",
-          "last_name": "Evans",
+          "player_id": "6786",
+          "full_name": "CeeDee Lamb",
+          "first_name": "CeeDee",
+          "last_name": "Lamb",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "SF",
+          "team": "DAL",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
-          "years_exp": 12,
-          "age": 33,
-          "search_rank": 60
+          "years_exp": 6,
+          "age": 27,
+          "search_rank": 10
         },
         {
           "player_id": "6650",
@@ -2116,7 +2116,7 @@
           ],
           "team": "CLE",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -3501,7 +3501,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "TE",
           "depth_chart_order": 1,
@@ -3655,7 +3655,7 @@
           ],
           "team": "IND",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "TE",
           "depth_chart_order": 1,
@@ -3674,8 +3674,8 @@
           ],
           "team": "NE",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_notes": "Sprain",
+          "injury_status": null,
+          "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 2,
           "years_exp": 1,
@@ -4700,8 +4700,8 @@
           ],
           "team": "NE",
           "status": "Active",
-          "injury_status": "Questionable",
-          "injury_notes": "Sprain",
+          "injury_status": null,
+          "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
           "years_exp": 7,
@@ -5496,7 +5496,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -5534,7 +5534,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 1,
@@ -5764,7 +5764,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -5859,7 +5859,7 @@
           ],
           "team": "NO",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 1,
@@ -5931,7 +5931,7 @@
       "display_name": "janring",
       "team_name": "Maye I Have a Ring! ",
       "starter_ids": [
-        "3163",
+        "9758",
         "3198",
         "7588",
         "9488",
@@ -5939,7 +5939,7 @@
         "3214",
         "6790",
         "11533",
-        "CHI"
+        "NE"
       ],
       "player_ids": [
         "11533",
@@ -5961,23 +5961,23 @@
       "reserve_ids": [],
       "starters": [
         {
-          "player_id": "3163",
-          "full_name": "Jared Goff",
-          "first_name": "Jared",
-          "last_name": "Goff",
+          "player_id": "9758",
+          "full_name": "C.J. Stroud",
+          "first_name": "C.J.",
+          "last_name": "Stroud",
           "position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "team": "DET",
+          "team": "HOU",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
-          "years_exp": 10,
-          "age": 32,
-          "search_rank": 62
+          "years_exp": 3,
+          "age": 25,
+          "search_rank": 101
         },
         {
           "player_id": "3198",
@@ -6113,15 +6113,15 @@
           "search_rank": 90
         },
         {
-          "player_id": "CHI",
-          "full_name": "Chicago Bears",
-          "first_name": "Chicago",
-          "last_name": "Bears",
+          "player_id": "NE",
+          "full_name": "New England Patriots",
+          "first_name": "New England",
+          "last_name": "Patriots",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "CHI",
+          "team": "NE",
           "status": null,
           "injury_status": null,
           "injury_notes": null,
@@ -6953,7 +6953,7 @@
   ],
   "matchups": [
     {
-      "points": 0,
+      "points": 3,
       "players": [
         "11620",
         "1166",
@@ -6975,7 +6975,7 @@
       "custom_points": null,
       "matchup_id": 3,
       "starters": [
-        "96",
+        "1166",
         "12527",
         "8129",
         "5927",
@@ -6994,7 +6994,7 @@
         0,
         0,
         0,
-        0
+        3
       ],
       "players_points": {
         "96": 0,
@@ -7011,7 +7011,7 @@
         "11792": 0,
         "12527": 0,
         "12711": 0,
-        "HOU": 0
+        "HOU": 3
       }
     },
     {
@@ -7040,10 +7040,10 @@
         "3257",
         "11584",
         "9757",
-        "6786",
+        "13346",
         "11632",
         "11604",
-        "2216",
+        "6786",
         "6650",
         "LV"
       ],
@@ -7077,7 +7077,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 19.3,
       "players": [
         "11581",
         "11635",
@@ -7112,7 +7112,7 @@
       "starters_points": [
         0,
         0,
-        0,
+        19.3,
         0,
         0,
         0,
@@ -7131,7 +7131,7 @@
         "9756": 0,
         "11581": 0,
         "11635": 0,
-        "12490": 0,
+        "12490": 19.3,
         "12501": 0,
         "12512": 0,
         "13545": 0,
@@ -7184,7 +7184,7 @@
       ],
       "players_points": {
         "1945": 0,
-        "5947": 0,
+        "5947": 10.8,
         "6801": 0,
         "6806": 13.6,
         "6819": 0,
@@ -7201,7 +7201,7 @@
       }
     },
     {
-      "points": 5.2,
+      "points": 10.4,
       "players": [
         "10213",
         "11435",
@@ -7238,7 +7238,7 @@
         5.2,
         0,
         0,
-        0,
+        5.2,
         0,
         0,
         0,
@@ -7249,7 +7249,7 @@
         "4046": 0,
         "5022": 0,
         "5850": 0,
-        "7569": 0,
+        "7569": 5.2,
         "9509": 0,
         "10213": 0,
         "11435": 5.2,
@@ -7263,7 +7263,7 @@
       }
     },
     {
-      "points": 3,
+      "points": 9,
       "players": [
         "11563",
         "11566",
@@ -7303,11 +7303,11 @@
         0,
         0,
         0,
-        0,
+        6,
         3
       ],
       "players_points": {
-        "3451": 0,
+        "3451": 6,
         "5846": 0,
         "6813": 0,
         "8136": 0,
@@ -7511,7 +7511,7 @@
       }
     },
     {
-      "points": 0,
+      "points": 2,
       "players": [
         "10229",
         "11586",
@@ -7551,7 +7551,7 @@
         0,
         0,
         0,
-        0,
+        2,
         0
       ],
       "players_points": {
@@ -7565,15 +7565,15 @@
         "9221": 0,
         "10229": 0,
         "11586": 0,
-        "11628": 0,
+        "11628": 6.4,
         "11631": 0,
-        "11786": 0,
+        "11786": 2,
         "12517": 0,
         "SF": 0
       }
     },
     {
-      "points": 25.4,
+      "points": 61.14,
       "players": [
         "11533",
         "3163",
@@ -7595,7 +7595,7 @@
       "custom_points": null,
       "matchup_id": 2,
       "starters": [
-        "3163",
+        "9758",
         "3198",
         "7588",
         "9488",
@@ -7603,14 +7603,14 @@
         "3214",
         "6790",
         "11533",
-        "CHI"
+        "NE"
       ],
       "starters_points": [
-        0,
+        27.34,
         0,
         0,
         25.4,
-        0,
+        8.4,
         0,
         0,
         0,
@@ -7625,17 +7625,17 @@
         "6790": 0,
         "7588": 0,
         "8110": 0,
-        "9487": 0,
+        "9487": 8.4,
         "9488": 25.4,
         "9508": 0,
-        "9758": 0,
+        "9758": 27.34,
         "11533": 0,
         "CHI": 0,
         "NE": 0
       }
     },
     {
-      "points": 8,
+      "points": 28.24,
       "players": [
         "11603",
         "11624",
@@ -7668,9 +7668,9 @@
         "PIT"
       ],
       "starters_points": [
+        17.34,
         0,
-        0,
-        0,
+        2.9,
         0,
         0,
         0,
@@ -7685,14 +7685,14 @@
         "4866": 0,
         "5012": 0,
         "5045": 3.9,
-        "7523": 0,
+        "7523": 17.34,
         "8151": 0,
         "8154": 0,
         "8167": 0,
         "9997": 0,
         "11603": 4.6,
         "11624": 0,
-        "12474": 0,
+        "12474": 2.9,
         "PIT": 0
       }
     }
@@ -7833,7 +7833,7 @@
             ],
             "team": "PIT",
             "status": "Active",
-            "injury_status": "Questionable",
+            "injury_status": null,
             "injury_notes": null,
             "depth_chart_position": "RB",
             "depth_chart_order": 2,
@@ -8407,7 +8407,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 2,
@@ -8654,7 +8654,7 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 1,
@@ -9091,8 +9091,8 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": "Questionable",
-      "injury_notes": "Surgery",
+      "injury_status": null,
+      "injury_notes": null,
       "depth_chart_position": "RWR",
       "depth_chart_order": 3,
       "years_exp": 0,
@@ -9167,8 +9167,8 @@
       ],
       "team": "NYJ",
       "status": "Active",
-      "injury_status": "Questionable",
-      "injury_notes": "Sprain",
+      "injury_status": null,
+      "injury_notes": null,
       "depth_chart_position": "SWR",
       "depth_chart_order": 4,
       "years_exp": 0,
@@ -9395,7 +9395,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 3,
@@ -10155,7 +10155,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "LWR",
       "depth_chart_order": 5,
@@ -10478,7 +10478,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 1,
@@ -11314,7 +11314,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 4,
@@ -12286,7 +12286,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 5,
       "age": 26,
       "search_rank": 460
@@ -12606,7 +12606,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 5,
@@ -12891,7 +12891,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 3,
@@ -13043,7 +13043,7 @@
       ],
       "team": "PHI",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 3,
@@ -13119,7 +13119,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 3,
@@ -13518,7 +13518,7 @@
       ],
       "team": "CLE",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 4,
@@ -14031,7 +14031,7 @@
       ],
       "team": "IND",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 3,
