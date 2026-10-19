@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T13:07:18.223Z",
+  "generated_at": "2026-10-19T22:19:12.281Z",
   "snapshot_version": 2,
   "week": 6,
   "league": {
@@ -72,6 +72,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
+    "shard": 240,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -222,19 +226,15 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 240,
-    "sport": "nfl",
-    "last_message_id": "1417582237876080640",
-    "draft_id": "1395682396505935872",
+    "last_message_id": "1417930789789679616",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
+    "draft_id": "1395682396505935872",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792340452216,
+    "last_message_time": 1792423553468,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1395682393989328896",
@@ -242,6 +242,8 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -259,8 +261,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
@@ -2329,7 +2329,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 2
       }
     },
@@ -2455,8 +2455,8 @@
             "WR"
           ],
           "team": "NE",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 2,
@@ -2761,8 +2761,8 @@
             "WR"
           ],
           "team": "NE",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 2,
@@ -2871,14 +2871,14 @@
         "12185",
         "13274",
         "13287",
-        "13414",
         "2133",
         "4046",
         "5022",
         "5850",
         "7569",
         "9509",
-        "JAX"
+        "JAX",
+        "MIN"
       ],
       "reserve_ids": [],
       "starters": [
@@ -2950,8 +2950,8 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
+          "injury_status": "Out",
+          "injury_notes": "Ruptured",
           "depth_chart_position": "LWR",
           "depth_chart_order": 2,
           "years_exp": 12,
@@ -3189,25 +3189,6 @@
           "search_rank": 15
         },
         {
-          "player_id": "13414",
-          "full_name": "Kaelon Black",
-          "first_name": "Kaelon",
-          "last_name": "Black",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "SF",
-          "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "RB",
-          "depth_chart_order": 2,
-          "years_exp": 0,
-          "age": 25,
-          "search_rank": 161
-        },
-        {
           "player_id": "2133",
           "full_name": "Davante Adams",
           "first_name": "Davante",
@@ -3218,8 +3199,8 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
+          "injury_status": "Out",
+          "injury_notes": "Ruptured",
           "depth_chart_position": "LWR",
           "depth_chart_order": 2,
           "years_exp": 12,
@@ -3339,6 +3320,25 @@
           "years_exp": null,
           "age": null,
           "search_rank": null
+        },
+        {
+          "player_id": "MIN",
+          "full_name": "Minnesota Vikings",
+          "first_name": "Minnesota",
+          "last_name": "Vikings",
+          "position": "DEF",
+          "fantasy_positions": [
+            "DEF"
+          ],
+          "team": "MIN",
+          "status": null,
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": null,
+          "depth_chart_order": null,
+          "years_exp": null,
+          "age": null,
+          "search_rank": null
         }
       ],
       "reserve": [],
@@ -3355,7 +3355,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 12,
         "wins": 3
       }
     },
@@ -3692,8 +3692,8 @@
             "RB"
           ],
           "team": "WAS",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 6,
@@ -5407,7 +5407,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 1
       }
     },
@@ -7210,14 +7210,14 @@
         "12185",
         "13274",
         "13287",
-        "13414",
         "2133",
         "4046",
         "5022",
         "5850",
         "7569",
         "9509",
-        "JAX"
+        "JAX",
+        "MIN"
       ],
       "roster_id": 5,
       "custom_points": null,
@@ -7258,8 +7258,8 @@
         "12185": 9,
         "13274": 25.7,
         "13287": 0,
-        "13414": 0,
-        "JAX": 1
+        "JAX": 1,
+        "MIN": 0
       }
     },
     {
@@ -7699,6 +7699,58 @@
   ],
   "transactions": [
     {
+      "status": "failed",
+      "type": "waiver",
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      },
+      "created": 1792415207748,
+      "settings": {
+        "seq": 1
+      },
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "1395724654777217024",
+      "transaction_id": "1417895785302970368",
+      "adds": {
+        "MIN": 3
+      },
+      "drops": null,
+      "consenter_ids": [
+        3
+      ],
+      "roster_ids": [
+        3
+      ],
+      "status_updated": 1792423553211,
+      "waiver_budget": [],
+      "added_players": [
+        {
+          "roster_id": 3,
+          "player": {
+            "player_id": "MIN",
+            "full_name": "Minnesota Vikings",
+            "first_name": "Minnesota",
+            "last_name": "Vikings",
+            "position": "DEF",
+            "fantasy_positions": [
+              "DEF"
+            ],
+            "team": "MIN",
+            "status": null,
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": null,
+            "depth_chart_order": null,
+            "years_exp": null,
+            "age": null,
+            "search_rank": null
+          }
+        }
+      ],
+      "dropped_players": []
+    },
+    {
       "status": "complete",
       "type": "free_agent",
       "metadata": null,
@@ -7767,6 +7819,83 @@
             "years_exp": 4,
             "age": 26,
             "search_rank": 120
+          }
+        }
+      ]
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1792340320573,
+      "settings": {
+        "seq": 0
+      },
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "453866975160954880",
+      "transaction_id": "1417581685729505280",
+      "adds": {
+        "MIN": 5
+      },
+      "drops": {
+        "13414": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1792423553211,
+      "waiver_budget": [],
+      "added_players": [
+        {
+          "roster_id": 5,
+          "player": {
+            "player_id": "MIN",
+            "full_name": "Minnesota Vikings",
+            "first_name": "Minnesota",
+            "last_name": "Vikings",
+            "position": "DEF",
+            "fantasy_positions": [
+              "DEF"
+            ],
+            "team": "MIN",
+            "status": null,
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": null,
+            "depth_chart_order": null,
+            "years_exp": null,
+            "age": null,
+            "search_rank": null
+          }
+        }
+      ],
+      "dropped_players": [
+        {
+          "roster_id": 5,
+          "player": {
+            "player_id": "13414",
+            "full_name": "Kaelon Black",
+            "first_name": "Kaelon",
+            "last_name": "Black",
+            "position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "team": "SF",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "RB",
+            "depth_chart_order": 2,
+            "years_exp": 0,
+            "age": 25,
+            "search_rank": 161
           }
         }
       ]
@@ -9585,6 +9714,25 @@
       "search_rank": 160
     },
     {
+      "player_id": "13414",
+      "full_name": "Kaelon Black",
+      "first_name": "Kaelon",
+      "last_name": "Black",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "SF",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 2,
+      "years_exp": 0,
+      "age": 25,
+      "search_rank": 161
+    },
+    {
       "player_id": "11625",
       "full_name": "Adonai Mitchell",
       "first_name": "Adonai",
@@ -10908,8 +11056,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 8,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 1,
       "age": 25,
       "search_rank": 244
@@ -11118,7 +11266,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 1,
       "age": 25,
       "search_rank": 295
@@ -14024,8 +14172,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 4,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 8,
       "age": 30,
       "search_rank": 534
@@ -14164,6 +14312,25 @@
       "search_rank": 541
     },
     {
+      "player_id": "7050",
+      "full_name": "Josiah Deguara",
+      "first_name": "Josiah",
+      "last_name": "Deguara",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "SEA",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 6,
+      "age": 29,
+      "search_rank": 542
+    },
+    {
       "player_id": "11959",
       "full_name": "Bryce Oliver",
       "first_name": "Bryce",
@@ -14238,44 +14405,6 @@
       "years_exp": 2,
       "age": 24,
       "search_rank": 545
-    },
-    {
-      "player_id": "11256",
-      "full_name": "Tyson Bagent",
-      "first_name": "Tyson",
-      "last_name": "Bagent",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 3,
-      "years_exp": 3,
-      "age": 26,
-      "search_rank": 546
-    },
-    {
-      "player_id": "12470",
-      "full_name": "Riley Leonard",
-      "first_name": "Riley",
-      "last_name": "Leonard",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "IND",
-      "status": "Active",
-      "injury_status": "Out",
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 3,
-      "years_exp": 1,
-      "age": 24,
-      "search_rank": 547
     }
   ],
   "metadata": {
