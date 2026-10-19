@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:35:59.664Z",
+  "generated_at": "2026-10-19T13:07:18.223Z",
   "snapshot_version": 2,
   "week": 6,
   "league": {
@@ -72,9 +72,6 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -225,7 +222,10 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
+    "season": "2026",
+    "season_type": "regular",
     "shard": 240,
+    "sport": "nfl",
     "last_message_id": "1417582237876080640",
     "draft_id": "1395682396505935872",
     "last_author_avatar": null,
@@ -242,8 +242,6 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -261,6 +259,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
@@ -371,7 +371,7 @@
         "depth_chart_order": 1,
         "years_exp": 4,
         "age": 26,
-        "search_rank": 318
+        "search_rank": 320
       },
       {
         "player_id": "5927",
@@ -696,7 +696,7 @@
         "depth_chart_order": 1,
         "years_exp": 4,
         "age": 26,
-        "search_rank": 318
+        "search_rank": 320
       },
       {
         "player_id": "9484",
@@ -885,7 +885,7 @@
           "depth_chart_order": 1,
           "years_exp": 4,
           "age": 26,
-          "search_rank": 318
+          "search_rank": 320
         },
         {
           "player_id": "5927",
@@ -1210,7 +1210,7 @@
           "depth_chart_order": 1,
           "years_exp": 4,
           "age": 26,
-          "search_rank": 318
+          "search_rank": 320
         },
         {
           "player_id": "9484",
@@ -1436,7 +1436,7 @@
           "depth_chart_order": 1,
           "years_exp": 2,
           "age": 23,
-          "search_rank": 28
+          "search_rank": 26
         },
         {
           "player_id": "11604",
@@ -1571,7 +1571,7 @@
           "depth_chart_order": 1,
           "years_exp": 2,
           "age": 23,
-          "search_rank": 28
+          "search_rank": 26
         },
         {
           "player_id": "12495",
@@ -1590,7 +1590,7 @@
           "depth_chart_order": 1,
           "years_exp": 1,
           "age": 22,
-          "search_rank": 460
+          "search_rank": 458
         },
         {
           "player_id": "13281",
@@ -1742,7 +1742,7 @@
           "depth_chart_order": 2,
           "years_exp": 6,
           "age": 28,
-          "search_rank": 27
+          "search_rank": 26
         },
         {
           "player_id": "9753",
@@ -1873,7 +1873,7 @@
           "depth_chart_order": 1,
           "years_exp": 3,
           "age": 25,
-          "search_rank": 134
+          "search_rank": 133
         },
         {
           "player_id": "11581",
@@ -2255,7 +2255,7 @@
           "depth_chart_order": 1,
           "years_exp": 3,
           "age": 25,
-          "search_rank": 134
+          "search_rank": 133
         },
         {
           "player_id": "9500",
@@ -2481,7 +2481,7 @@
           "depth_chart_order": 1,
           "years_exp": 11,
           "age": 34,
-          "search_rank": 359
+          "search_rank": 357
         },
         {
           "player_id": "12519",
@@ -2616,7 +2616,7 @@
           "depth_chart_order": 1,
           "years_exp": 1,
           "age": 27,
-          "search_rank": 87
+          "search_rank": 89
         },
         {
           "player_id": "1945",
@@ -2654,7 +2654,7 @@
           "depth_chart_order": 1,
           "years_exp": 11,
           "age": 34,
-          "search_rank": 359
+          "search_rank": 357
         },
         {
           "player_id": "5947",
@@ -3925,7 +3925,7 @@
           "depth_chart_order": 1,
           "years_exp": 9,
           "age": 31,
-          "search_rank": 295
+          "search_rank": 294
         },
         {
           "player_id": "8150",
@@ -4155,7 +4155,7 @@
           "depth_chart_order": 1,
           "years_exp": 9,
           "age": 31,
-          "search_rank": 295
+          "search_rank": 294
         },
         {
           "player_id": "4881",
@@ -4174,7 +4174,7 @@
           "depth_chart_order": 2,
           "years_exp": 8,
           "age": 29,
-          "search_rank": 10
+          "search_rank": 9
         },
         {
           "player_id": "5849",
@@ -4687,7 +4687,7 @@
           "depth_chart_order": 1,
           "years_exp": 8,
           "age": 29,
-          "search_rank": 92
+          "search_rank": 93
         },
         {
           "player_id": "5859",
@@ -5808,7 +5808,7 @@
           "depth_chart_order": 1,
           "years_exp": 6,
           "age": 27,
-          "search_rank": 68
+          "search_rank": 69
         },
         {
           "player_id": "7002",
@@ -6091,7 +6091,7 @@
           "depth_chart_order": 1,
           "years_exp": 6,
           "age": 27,
-          "search_rank": 46
+          "search_rank": 44
         },
         {
           "player_id": "11533",
@@ -6245,7 +6245,7 @@
           "depth_chart_order": 1,
           "years_exp": 8,
           "age": 31,
-          "search_rank": 447
+          "search_rank": 448
         },
         {
           "player_id": "6790",
@@ -6264,7 +6264,7 @@
           "depth_chart_order": 1,
           "years_exp": 6,
           "age": 27,
-          "search_rank": 46
+          "search_rank": 44
         },
         {
           "player_id": "7588",
@@ -6509,7 +6509,7 @@
           "depth_chart_order": 1,
           "years_exp": 4,
           "age": 25,
-          "search_rank": 19
+          "search_rank": 17
         },
         {
           "player_id": "12474",
@@ -6853,7 +6853,7 @@
           "depth_chart_order": 1,
           "years_exp": 4,
           "age": 25,
-          "search_rank": 19
+          "search_rank": 17
         },
         {
           "player_id": "8154",
@@ -7711,12 +7711,12 @@
       "adds": {
         "2505": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "8134": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -7742,7 +7742,7 @@
             "depth_chart_order": 1,
             "years_exp": 11,
             "age": 34,
-            "search_rank": 359
+            "search_rank": 357
           }
         }
       ],
@@ -7784,12 +7784,12 @@
       "adds": {
         "IND": 4
       },
-      "consenter_ids": [
-        4
-      ],
       "drops": {
         "MIN": 4
       },
+      "consenter_ids": [
+        4
+      ],
       "roster_ids": [
         4
       ],
@@ -7857,12 +7857,12 @@
       "adds": {
         "3271": 6
       },
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "9754": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -7930,12 +7930,12 @@
       "adds": {
         "8136": 6
       },
-      "consenter_ids": [
-        6
-      ],
       "drops": {
         "13337": 6
       },
+      "consenter_ids": [
+        6
+      ],
       "roster_ids": [
         6
       ],
@@ -8003,12 +8003,12 @@
       "adds": {
         "3257": 2
       },
-      "consenter_ids": [
-        2
-      ],
       "drops": {
         "7021": 2
       },
+      "consenter_ids": [
+        2
+      ],
       "roster_ids": [
         2
       ],
@@ -8076,12 +8076,12 @@
       "adds": {
         "5850": 5
       },
-      "consenter_ids": [
-        5
-      ],
       "drops": {
         "3634": 5
       },
+      "consenter_ids": [
+        5
+      ],
       "roster_ids": [
         5
       ],
@@ -8149,12 +8149,12 @@
       "adds": {
         "13150": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "7839": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -8222,12 +8222,12 @@
       "adds": {
         "7042": 8
       },
-      "consenter_ids": [
-        8
-      ],
       "drops": {
         "4037": 8
       },
+      "consenter_ids": [
+        8
+      ],
       "roster_ids": [
         8
       ],
@@ -8295,12 +8295,12 @@
       "adds": {
         "8129": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "3271": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -8326,7 +8326,7 @@
             "depth_chart_order": 1,
             "years_exp": 4,
             "age": 26,
-            "search_rank": 318
+            "search_rank": 320
           }
         }
       ],
@@ -8368,12 +8368,12 @@
       "adds": {
         "SF": 10
       },
-      "consenter_ids": [
-        10
-      ],
       "drops": {
         "CLE": 10
       },
+      "consenter_ids": [
+        10
+      ],
       "roster_ids": [
         10
       ],
@@ -8441,12 +8441,12 @@
       "adds": {
         "12711": 1
       },
-      "consenter_ids": [
-        1
-      ],
       "drops": {
         "11577": 1
       },
+      "consenter_ids": [
+        1
+      ],
       "roster_ids": [
         1
       ],
@@ -8514,12 +8514,12 @@
       "adds": {
         "5189": 9
       },
-      "consenter_ids": [
-        9
-      ],
       "drops": {
         "12015": 9
       },
+      "consenter_ids": [
+        9
+      ],
       "roster_ids": [
         9
       ],
@@ -8670,7 +8670,7 @@
       "depth_chart_order": 2,
       "years_exp": 8,
       "age": 31,
-      "search_rank": 75
+      "search_rank": 74
     },
     {
       "player_id": "12493",
@@ -8746,7 +8746,7 @@
       "depth_chart_order": 3,
       "years_exp": 0,
       "age": 22,
-      "search_rank": 91
+      "search_rank": 89
     },
     {
       "player_id": "4137",
@@ -8879,7 +8879,7 @@
       "depth_chart_order": 3,
       "years_exp": 0,
       "age": 23,
-      "search_rank": 109
+      "search_rank": 108
     },
     {
       "player_id": "13330",
@@ -8936,7 +8936,7 @@
       "depth_chart_order": 12,
       "years_exp": 0,
       "age": 23,
-      "search_rank": 111
+      "search_rank": 113
     },
     {
       "player_id": "13337",
@@ -9050,7 +9050,7 @@
       "depth_chart_order": 1,
       "years_exp": 4,
       "age": 27,
-      "search_rank": 121
+      "search_rank": 122
     },
     {
       "player_id": "7049",
@@ -9091,6 +9091,25 @@
       "search_rank": 123
     },
     {
+      "player_id": "10219",
+      "full_name": "Chris Rodriguez",
+      "first_name": "Chris",
+      "last_name": "Rodriguez",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "JAX",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 2,
+      "years_exp": 3,
+      "age": 27,
+      "search_rank": 126
+    },
+    {
       "player_id": "12484",
       "full_name": "Jayden Higgins",
       "first_name": "Jayden",
@@ -9108,25 +9127,6 @@
       "years_exp": 1,
       "age": 23,
       "search_rank": 126
-    },
-    {
-      "player_id": "10219",
-      "full_name": "Chris Rodriguez",
-      "first_name": "Chris",
-      "last_name": "Rodriguez",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "JAX",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 2,
-      "years_exp": 3,
-      "age": 27,
-      "search_rank": 127
     },
     {
       "player_id": "5844",
@@ -9984,6 +9984,25 @@
       "search_rank": 180
     },
     {
+      "player_id": "13413",
+      "full_name": "Cyrus Allen",
+      "first_name": "Cyrus",
+      "last_name": "Allen",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "KC",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "SWR",
+      "depth_chart_order": 3,
+      "years_exp": 0,
+      "age": 23,
+      "search_rank": 180
+    },
+    {
       "player_id": "1479",
       "full_name": "Keenan Allen",
       "first_name": "Keenan",
@@ -10001,25 +10020,6 @@
       "years_exp": 13,
       "age": 34,
       "search_rank": 180
-    },
-    {
-      "player_id": "13413",
-      "full_name": "Cyrus Allen",
-      "first_name": "Cyrus",
-      "last_name": "Allen",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "KC",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 3,
-      "years_exp": 0,
-      "age": 23,
-      "search_rank": 181
     },
     {
       "player_id": "12455",
@@ -10345,25 +10345,6 @@
       "search_rank": 198
     },
     {
-      "player_id": "13285",
-      "full_name": "Malachi Fields",
-      "first_name": "Malachi",
-      "last_name": "Fields",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NYG",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "RWR",
-      "depth_chart_order": 2,
-      "years_exp": 0,
-      "age": 23,
-      "search_rank": 199
-    },
-    {
       "player_id": "11783",
       "full_name": "Ryan Flournoy",
       "first_name": "Ryan",
@@ -10416,6 +10397,25 @@
       "injury_notes": null,
       "depth_chart_position": "LWR",
       "depth_chart_order": 7,
+      "years_exp": 0,
+      "age": 23,
+      "search_rank": 201
+    },
+    {
+      "player_id": "13285",
+      "full_name": "Malachi Fields",
+      "first_name": "Malachi",
+      "last_name": "Fields",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NYG",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RWR",
+      "depth_chart_order": 2,
       "years_exp": 0,
       "age": 23,
       "search_rank": 201
@@ -11523,6 +11523,25 @@
       "search_rank": 357
     },
     {
+      "player_id": "13289",
+      "full_name": "Drew Allar",
+      "first_name": "Drew",
+      "last_name": "Allar",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": "Out",
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 4,
+      "years_exp": 0,
+      "age": 22,
+      "search_rank": 359
+    },
+    {
       "player_id": "13432",
       "full_name": "Khalil Dinkins",
       "first_name": "Khalil",
@@ -11540,25 +11559,6 @@
       "years_exp": 0,
       "age": 24,
       "search_rank": 359
-    },
-    {
-      "player_id": "13289",
-      "full_name": "Drew Allar",
-      "first_name": "Drew",
-      "last_name": "Allar",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": "Out",
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 4,
-      "years_exp": 0,
-      "age": 22,
-      "search_rank": 360
     },
     {
       "player_id": "12374",
@@ -11656,6 +11656,25 @@
       "search_rank": 372
     },
     {
+      "player_id": "7583",
+      "full_name": "Sam Ehlinger",
+      "first_name": "Sam",
+      "last_name": "Ehlinger",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "DEN",
+      "status": "Active",
+      "injury_status": "Out",
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 3,
+      "years_exp": 5,
+      "age": 28,
+      "search_rank": 377
+    },
+    {
       "player_id": "13343",
       "full_name": "Vinny Anthony",
       "first_name": "Vinny",
@@ -11673,25 +11692,6 @@
       "years_exp": 0,
       "age": 23,
       "search_rank": 377
-    },
-    {
-      "player_id": "7583",
-      "full_name": "Sam Ehlinger",
-      "first_name": "Sam",
-      "last_name": "Ehlinger",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "DEN",
-      "status": "Active",
-      "injury_status": "Out",
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 3,
-      "years_exp": 5,
-      "age": 28,
-      "search_rank": 379
     },
     {
       "player_id": "7103",
@@ -11729,7 +11729,7 @@
       "depth_chart_order": 4,
       "years_exp": 0,
       "age": 24,
-      "search_rank": 388
+      "search_rank": 386
     },
     {
       "player_id": "13424",
@@ -11748,7 +11748,7 @@
       "depth_chart_order": 2,
       "years_exp": 0,
       "age": 24,
-      "search_rank": 389
+      "search_rank": 388
     },
     {
       "player_id": "4995",
@@ -11786,7 +11786,7 @@
       "depth_chart_order": 3,
       "years_exp": 0,
       "age": 23,
-      "search_rank": 394
+      "search_rank": 395
     },
     {
       "player_id": "8253",
@@ -12340,6 +12340,25 @@
       "search_rank": 446
     },
     {
+      "player_id": "11370",
+      "full_name": "Chris Brooks",
+      "first_name": "Chris",
+      "last_name": "Brooks",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "GB",
+      "status": "Inactive",
+      "injury_status": "IR",
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 5,
+      "years_exp": 3,
+      "age": 26,
+      "search_rank": 450
+    },
+    {
       "player_id": "13319",
       "full_name": "Oscar Delp",
       "first_name": "Oscar",
@@ -12357,25 +12376,6 @@
       "years_exp": 0,
       "age": 23,
       "search_rank": 450
-    },
-    {
-      "player_id": "11370",
-      "full_name": "Chris Brooks",
-      "first_name": "Chris",
-      "last_name": "Brooks",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "GB",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 5,
-      "years_exp": 3,
-      "age": 26,
-      "search_rank": 451
     },
     {
       "player_id": "13890",
@@ -12473,6 +12473,25 @@
       "search_rank": 456
     },
     {
+      "player_id": "7568",
+      "full_name": "Brevin Jordan",
+      "first_name": "Brevin",
+      "last_name": "Jordan",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "HOU",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "TE",
+      "depth_chart_order": 4,
+      "years_exp": 5,
+      "age": 26,
+      "search_rank": 458
+    },
+    {
       "player_id": "12521",
       "full_name": "Elijah Arroyo",
       "first_name": "Elijah",
@@ -12489,7 +12508,7 @@
       "depth_chart_order": 3,
       "years_exp": 1,
       "age": 23,
-      "search_rank": 457
+      "search_rank": 458
     },
     {
       "player_id": "7535",
@@ -12509,25 +12528,6 @@
       "years_exp": 5,
       "age": 28,
       "search_rank": 459
-    },
-    {
-      "player_id": "7568",
-      "full_name": "Brevin Jordan",
-      "first_name": "Brevin",
-      "last_name": "Jordan",
-      "position": "TE",
-      "fantasy_positions": [
-        "TE"
-      ],
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "TE",
-      "depth_chart_order": 4,
-      "years_exp": 5,
-      "age": 26,
-      "search_rank": 460
     },
     {
       "player_id": "4066",
@@ -12584,7 +12584,7 @@
       "depth_chart_order": 2,
       "years_exp": 3,
       "age": 25,
-      "search_rank": 464
+      "search_rank": 463
     },
     {
       "player_id": "13533",
@@ -12641,7 +12641,7 @@
       "depth_chart_order": 1,
       "years_exp": 11,
       "age": 32,
-      "search_rank": 471
+      "search_rank": 468
     },
     {
       "player_id": "13308",
@@ -12774,7 +12774,7 @@
       "depth_chart_order": 3,
       "years_exp": 0,
       "age": 24,
-      "search_rank": 483
+      "search_rank": 482
     },
     {
       "player_id": "13407",
@@ -12967,6 +12967,25 @@
       "search_rank": 491
     },
     {
+      "player_id": "9501",
+      "full_name": "DeMario Douglas",
+      "first_name": "DeMario",
+      "last_name": "Douglas",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "SWR",
+      "depth_chart_order": 3,
+      "years_exp": 3,
+      "age": 25,
+      "search_rank": 492
+    },
+    {
       "player_id": "13630",
       "full_name": "Evan Svoboda",
       "first_name": "Evan",
@@ -13002,45 +13021,7 @@
       "depth_chart_order": 2,
       "years_exp": 18,
       "age": 41,
-      "search_rank": 493
-    },
-    {
-      "player_id": "9501",
-      "full_name": "DeMario Douglas",
-      "first_name": "DeMario",
-      "last_name": "Douglas",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "NE",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 3,
-      "years_exp": 3,
-      "age": 25,
-      "search_rank": 495
-    },
-    {
-      "player_id": "12510",
-      "full_name": "Jalen Milroe",
-      "first_name": "Jalen",
-      "last_name": "Milroe",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": "Out",
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 3,
-      "years_exp": 1,
-      "age": 23,
-      "search_rank": 495
+      "search_rank": 494
     },
     {
       "player_id": "11911",
@@ -13060,6 +13041,25 @@
       "years_exp": 2,
       "age": 26,
       "search_rank": 496
+    },
+    {
+      "player_id": "12510",
+      "full_name": "Jalen Milroe",
+      "first_name": "Jalen",
+      "last_name": "Milroe",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "SEA",
+      "status": "Active",
+      "injury_status": "Out",
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 3,
+      "years_exp": 1,
+      "age": 23,
+      "search_rank": 497
     },
     {
       "player_id": "12705",
@@ -13860,25 +13860,6 @@
       "search_rank": 527
     },
     {
-      "player_id": "2197",
-      "full_name": "Brandin Cooks",
-      "first_name": "Brandin",
-      "last_name": "Cooks",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "SF",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 3,
-      "years_exp": 12,
-      "age": 33,
-      "search_rank": 528
-    },
-    {
       "player_id": "4054",
       "full_name": "Mo Alie-Cox",
       "first_name": "Mo",
@@ -13915,6 +13896,25 @@
       "years_exp": 6,
       "age": 27,
       "search_rank": 528
+    },
+    {
+      "player_id": "2197",
+      "full_name": "Brandin Cooks",
+      "first_name": "Brandin",
+      "last_name": "Cooks",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "SF",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "SWR",
+      "depth_chart_order": 3,
+      "years_exp": 12,
+      "age": 33,
+      "search_rank": 529
     },
     {
       "player_id": "13422",
