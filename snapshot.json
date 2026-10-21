@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:34:43.908Z",
+  "generated_at": "2026-10-21T04:41:25.177Z",
   "snapshot_version": 2,
   "week": 7,
   "league": {
@@ -72,7 +72,6 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "last_message_id": "1418302685580419072",
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
@@ -227,15 +226,16 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_message_id": "1418397215356907520",
+    "last_author_avatar": "d55d1f7075eda01948318de4af616075",
+    "last_author_display_name": "SrTobias",
+    "last_author_id": "1396032341691858944",
+    "last_author_is_bot": false,
+    "draft_id": "1395682396505935872",
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792512220334,
+    "last_message_time": 1792534757989,
     "last_pinned_message_id": null,
-    "draft_id": "1395682396505935872",
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
@@ -256,9 +256,9 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -2949,7 +2949,7 @@
             "WR"
           ],
           "team": "LAR",
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "IR",
           "injury_notes": "Surgery",
           "depth_chart_position": "LWR",
@@ -3198,7 +3198,7 @@
             "WR"
           ],
           "team": "LAR",
-          "status": "Active",
+          "status": "Inactive",
           "injury_status": "IR",
           "injury_notes": "Surgery",
           "depth_chart_position": "LWR",
@@ -3696,7 +3696,7 @@
           "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 4,
+          "depth_chart_order": 6,
           "years_exp": 1,
           "age": 25,
           "search_rank": 95
@@ -4907,12 +4907,12 @@
       "starter_ids": [
         "8183",
         "4034",
-        "11576",
+        "12489",
         "12526",
         "7526",
         "1466",
         "11646",
-        "5189",
+        "11539",
         "BAL"
       ],
       "player_ids": [
@@ -4973,23 +4973,23 @@
           "search_rank": 4
         },
         {
-          "player_id": "11576",
-          "full_name": "Braelon Allen",
-          "first_name": "Braelon",
-          "last_name": "Allen",
+          "player_id": "12489",
+          "full_name": "RJ Harvey",
+          "first_name": "RJ",
+          "last_name": "Harvey",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "NYJ",
+          "team": "DEN",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 1,
-          "years_exp": 2,
-          "age": 22,
-          "search_rank": 135
+          "depth_chart_order": 2,
+          "years_exp": 1,
+          "age": 25,
+          "search_rank": 56
         },
         {
           "player_id": "12526",
@@ -5068,23 +5068,23 @@
           "search_rank": 132
         },
         {
-          "player_id": "5189",
-          "full_name": "Eddy Pineiro",
-          "first_name": "Eddy",
-          "last_name": "Pineiro",
+          "player_id": "11539",
+          "full_name": "Jake Bates",
+          "first_name": "Jake",
+          "last_name": "Bates",
           "position": "K",
           "fantasy_positions": [
             "K"
           ],
-          "team": "SF",
+          "team": "DET",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "K",
           "depth_chart_order": 1,
-          "years_exp": 8,
-          "age": 31,
-          "search_rank": 174
+          "years_exp": 3,
+          "age": 27,
+          "search_rank": 149
         },
         {
           "player_id": "BAL",
@@ -6774,7 +6774,7 @@
           "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 4,
+          "depth_chart_order": 2,
           "years_exp": 8,
           "age": 29,
           "search_rank": 11
@@ -7473,12 +7473,12 @@
       "starters": [
         "8183",
         "4034",
-        "11576",
+        "12489",
         "12526",
         "7526",
         "1466",
         "11646",
-        "5189",
+        "11539",
         "BAL"
       ],
       "starters_points": [
@@ -8493,7 +8493,7 @@
       "injury_status": "IR",
       "injury_notes": "Surgery",
       "depth_chart_position": "RB",
-      "depth_chart_order": 5,
+      "depth_chart_order": 3,
       "years_exp": 3,
       "age": 24,
       "search_rank": 147
@@ -9252,8 +9252,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 1,
       "age": 22,
       "search_rank": 189
@@ -10492,6 +10492,25 @@
       "years_exp": 6,
       "age": 27,
       "search_rank": 334
+    },
+    {
+      "player_id": "11311",
+      "full_name": "Jason Brownlee",
+      "first_name": "Jason",
+      "last_name": "Brownlee",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "NYG",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 3,
+      "age": 27,
+      "search_rank": 336
     },
     {
       "player_id": "13597",
@@ -13167,7 +13186,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": null,
-      "depth_chart_order": 8,
+      "depth_chart_order": null,
       "years_exp": 1,
       "age": 25,
       "search_rank": 533
@@ -13378,27 +13397,8 @@
       "depth_chart_position": "QB",
       "depth_chart_order": 2,
       "years_exp": 5,
-      "age": 27,
+      "age": 28,
       "search_rank": 543
-    },
-    {
-      "player_id": "260",
-      "full_name": "Josh Johnson",
-      "first_name": "Josh",
-      "last_name": "Johnson",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 18,
-      "age": 40,
-      "search_rank": 544
     }
   ],
   "metadata": {
