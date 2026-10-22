@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T11:47:02.838Z",
+  "generated_at": "2026-10-22T17:07:44.567Z",
   "snapshot_version": 2,
   "week": 7,
   "league": {
@@ -72,10 +72,11 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "last_message_id": "1418893484366028800",
+    "sport": "nfl",
+    "shard": 240,
+    "season": "2026",
+    "season_type": "regular",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -226,7 +227,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "shard": 240,
     "last_author_avatar": "7572250c2fb084c434fed0e82229e183",
     "last_author_display_name": "BeaverUwe",
     "last_author_id": "1395687706092130304",
@@ -239,11 +239,6 @@
     "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -261,6 +256,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
   "nfl_state": {
@@ -13183,7 +13183,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "SWR",
       "depth_chart_order": 4,
