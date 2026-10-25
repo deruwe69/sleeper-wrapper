@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T11:21:17.310Z",
+  "generated_at": "2026-10-25T16:12:25.558Z",
   "snapshot_version": 2,
   "week": 7,
   "league": {
@@ -71,6 +71,8 @@
       "daily_waivers_last_ran": 26
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
+    "company_id": null,
+    "last_message_id": "1420077844293320704",
     "shard": 240,
     "season": "2026",
     "season_type": "regular",
@@ -225,23 +227,21 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1419830148806541312",
-    "company_id": null,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792876395945,
+    "last_message_time": 1792935451152,
     "last_pinned_message_id": null,
     "draft_id": "1395682396505935872",
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -2399,10 +2399,10 @@
           ],
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 4,
           "age": 25,
           "search_rank": 27
@@ -2727,7 +2727,7 @@
           "injury_status": "IR",
           "injury_notes": "Plantar Fasciitis",
           "depth_chart_position": "RWR",
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "years_exp": 6,
           "age": 29,
           "search_rank": 106
@@ -2800,10 +2800,10 @@
           ],
           "team": "NYJ",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 4,
           "age": 25,
           "search_rank": 27
@@ -3202,7 +3202,7 @@
           "injury_status": "IR",
           "injury_notes": "Surgery",
           "depth_chart_position": "LWR",
-          "depth_chart_order": 7,
+          "depth_chart_order": 5,
           "years_exp": 12,
           "age": 33,
           "search_rank": 46
@@ -5140,7 +5140,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "years_exp": 2,
           "age": 22,
           "search_rank": 135
@@ -5935,7 +5935,7 @@
         "3198",
         "7588",
         "9488",
-        "9487",
+        "12536",
         "3214",
         "6790",
         "11533",
@@ -5943,6 +5943,7 @@
       ],
       "player_ids": [
         "11533",
+        "12536",
         "3163",
         "3198",
         "3214",
@@ -5950,7 +5951,6 @@
         "4993",
         "6790",
         "7588",
-        "8110",
         "9487",
         "9488",
         "9508",
@@ -6037,23 +6037,23 @@
           "search_rank": 6
         },
         {
-          "player_id": "9487",
-          "full_name": "Parker Washington",
-          "first_name": "Parker",
-          "last_name": "Washington",
+          "player_id": "12536",
+          "full_name": "Jaylin Noel",
+          "first_name": "Jaylin",
+          "last_name": "Noel",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "JAX",
+          "team": "HOU",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "SWR",
-          "depth_chart_order": 1,
-          "years_exp": 3,
+          "depth_chart_order": 2,
+          "years_exp": 1,
           "age": 24,
-          "search_rank": 68
+          "search_rank": 190
         },
         {
           "player_id": "3214",
@@ -6151,6 +6151,25 @@
           "years_exp": 3,
           "age": 31,
           "search_rank": 91
+        },
+        {
+          "player_id": "12536",
+          "full_name": "Jaylin Noel",
+          "first_name": "Jaylin",
+          "last_name": "Noel",
+          "position": "WR",
+          "fantasy_positions": [
+            "WR"
+          ],
+          "team": "HOU",
+          "status": "Active",
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": "SWR",
+          "depth_chart_order": 2,
+          "years_exp": 1,
+          "age": 24,
+          "search_rank": 190
         },
         {
           "player_id": "3163",
@@ -6286,25 +6305,6 @@
           "search_rank": 31
         },
         {
-          "player_id": "8110",
-          "full_name": "Jake Ferguson",
-          "first_name": "Jake",
-          "last_name": "Ferguson",
-          "position": "TE",
-          "fantasy_positions": [
-            "TE"
-          ],
-          "team": "DAL",
-          "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "TE",
-          "depth_chart_order": 1,
-          "years_exp": 4,
-          "age": 27,
-          "search_rank": 97
-        },
-        {
           "player_id": "9487",
           "full_name": "Parker Washington",
           "first_name": "Parker",
@@ -6353,7 +6353,7 @@
           ],
           "team": "TEN",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 2,
@@ -6953,7 +6953,7 @@
   ],
   "matchups": [
     {
-      "points": 10.9,
+      "points": 25.14,
       "players": [
         "11610",
         "11620",
@@ -6986,7 +6986,7 @@
         "HOU"
       ],
       "starters_points": [
-        0,
+        14.24,
         0,
         0,
         10.9,
@@ -6997,7 +6997,7 @@
         0
       ],
       "players_points": {
-        "96": 0,
+        "96": 14.24,
         "1166": 0,
         "4199": 0,
         "5872": 0,
@@ -7065,7 +7065,7 @@
         "6786": 0,
         "6904": 0,
         "9753": 0,
-        "9757": 0,
+        "9757": 5.8,
         "11584": 0,
         "11604": 0,
         "11632": 0,
@@ -7139,7 +7139,7 @@
       }
     },
     {
-      "points": 23.7,
+      "points": 49.96,
       "players": [
         "10859",
         "11560",
@@ -7172,18 +7172,18 @@
         "NYJ"
       ],
       "starters_points": [
-        0,
+        15.26,
         0,
         0,
         0,
         0,
         0,
         23.7,
-        0,
+        11,
         0
       ],
       "players_points": {
-        "1945": 0,
+        "1945": 11,
         "2505": 0,
         "5947": 0,
         "6801": 0,
@@ -7196,12 +7196,12 @@
         "10859": 0,
         "11560": 26.12,
         "12519": 23.7,
-        "12545": 0,
+        "12545": 15.26,
         "NYJ": 0
       }
     },
     {
-      "points": 31.44,
+      "points": 37.14,
       "players": [
         "10213",
         "11564",
@@ -7237,7 +7237,7 @@
         31.44,
         0,
         0,
-        0,
+        5.7,
         0,
         0,
         0,
@@ -7254,16 +7254,16 @@
         "9509": 0,
         "10213": 0,
         "11564": 31.44,
-        "11834": 0,
+        "11834": 16.4,
         "12185": 0,
-        "13274": 0,
+        "13274": 5.7,
         "13276": 0,
         "13287": 0,
         "MIN": 0
       }
     },
     {
-      "points": 1.3,
+      "points": 8.9,
       "players": [
         "10235",
         "11563",
@@ -7302,14 +7302,14 @@
         0,
         0,
         0,
-        0,
+        7.6,
         0,
         0
       ],
       "players_points": {
         "3271": 0,
         "3451": 0,
-        "5846": 0,
+        "5846": 7.6,
         "6813": 0,
         "8136": 0,
         "8137": 0,
@@ -7387,7 +7387,7 @@
       }
     },
     {
-      "points": 30.3,
+      "points": 46.2,
       "players": [
         "10236",
         "12481",
@@ -7421,7 +7421,7 @@
       ],
       "starters_points": [
         0,
-        0,
+        15.9,
         22.5,
         7.8,
         0,
@@ -7440,7 +7440,7 @@
         "7567": 0,
         "7611": 22.5,
         "8132": 0,
-        "8228": 0,
+        "8228": 15.9,
         "8676": 0,
         "10236": 0,
         "12481": 0,
@@ -7511,7 +7511,7 @@
       }
     },
     {
-      "points": 19.9,
+      "points": 29.1,
       "players": [
         "10229",
         "11586",
@@ -7547,7 +7547,7 @@
         0,
         0,
         0,
-        0,
+        9.2,
         0,
         19.9,
         0,
@@ -7556,13 +7556,13 @@
       ],
       "players_points": {
         "2449": 0,
-        "4035": 0,
+        "4035": 13.2,
         "4984": 0,
         "5189": 0,
         "6804": 0,
-        "7002": 0,
+        "7002": 1.7,
         "7594": 0,
-        "8144": 0,
+        "8144": 9.2,
         "9221": 0,
         "10229": 0,
         "11586": 0,
@@ -7576,6 +7576,7 @@
       "points": 35.1,
       "players": [
         "11533",
+        "12536",
         "3163",
         "3198",
         "3214",
@@ -7583,7 +7584,6 @@
         "4993",
         "6790",
         "7588",
-        "8110",
         "9487",
         "9488",
         "9508",
@@ -7599,7 +7599,7 @@
         "3198",
         "7588",
         "9488",
-        "9487",
+        "12536",
         "3214",
         "6790",
         "11533",
@@ -7624,18 +7624,18 @@
         "4993": 0,
         "6790": 19,
         "7588": 0,
-        "8110": 0,
         "9487": 0,
         "9488": 0,
         "9508": 0,
         "9758": 0,
         "11533": 0,
+        "12536": 0,
         "CHI": 4,
         "NE": 2
       }
     },
     {
-      "points": 0,
+      "points": 8,
       "players": [
         "11624",
         "12474",
@@ -7676,7 +7676,7 @@
         0,
         0,
         0,
-        0
+        8
       ],
       "players_points": {
         "2747": 0,
@@ -7693,11 +7693,84 @@
         "9997": 0,
         "11624": 0,
         "12474": 0,
-        "PIT": 0
+        "PIT": 8
       }
     }
   ],
   "transactions": [
+    {
+      "status": "complete",
+      "type": "free_agent",
+      "metadata": null,
+      "created": 1792935451124,
+      "settings": null,
+      "leg": 7,
+      "draft_picks": [],
+      "creator": "1396422047818584064",
+      "transaction_id": "1420077844175781888",
+      "adds": {
+        "12536": 11
+      },
+      "consenter_ids": [
+        11
+      ],
+      "drops": {
+        "8110": 11
+      },
+      "roster_ids": [
+        11
+      ],
+      "status_updated": 1792935451124,
+      "waiver_budget": [],
+      "added_players": [
+        {
+          "roster_id": 11,
+          "player": {
+            "player_id": "12536",
+            "full_name": "Jaylin Noel",
+            "first_name": "Jaylin",
+            "last_name": "Noel",
+            "position": "WR",
+            "fantasy_positions": [
+              "WR"
+            ],
+            "team": "HOU",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "SWR",
+            "depth_chart_order": 2,
+            "years_exp": 1,
+            "age": 24,
+            "search_rank": 190
+          }
+        }
+      ],
+      "dropped_players": [
+        {
+          "roster_id": 11,
+          "player": {
+            "player_id": "8110",
+            "full_name": "Jake Ferguson",
+            "first_name": "Jake",
+            "last_name": "Ferguson",
+            "position": "TE",
+            "fantasy_positions": [
+              "TE"
+            ],
+            "team": "DAL",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "TE",
+            "depth_chart_order": 1,
+            "years_exp": 4,
+            "age": 27,
+            "search_rank": 97
+          }
+        }
+      ]
+    },
     {
       "status": "complete",
       "type": "free_agent",
@@ -8760,7 +8833,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 2,
@@ -8836,7 +8909,7 @@
       ],
       "team": "TB",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 1,
@@ -8957,6 +9030,25 @@
       "years_exp": 1,
       "age": 25,
       "search_rank": 95
+    },
+    {
+      "player_id": "8110",
+      "full_name": "Jake Ferguson",
+      "first_name": "Jake",
+      "last_name": "Ferguson",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "TE",
+      "depth_chart_order": 1,
+      "years_exp": 4,
+      "age": 27,
+      "search_rank": 97
     },
     {
       "player_id": "5001",
@@ -9843,10 +9935,10 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 0,
       "age": 22,
       "search_rank": 167
@@ -10033,7 +10125,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 3,
@@ -10128,7 +10220,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "LWR",
       "depth_chart_order": 4,
@@ -10245,7 +10337,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 22,
       "search_rank": 185
@@ -10280,7 +10372,7 @@
       ],
       "team": "CLE",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 5,
@@ -10305,25 +10397,6 @@
       "depth_chart_order": 1,
       "years_exp": 12,
       "age": 34,
-      "search_rank": 190
-    },
-    {
-      "player_id": "12536",
-      "full_name": "Jaylin Noel",
-      "first_name": "Jaylin",
-      "last_name": "Noel",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "HOU",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "SWR",
-      "depth_chart_order": 2,
-      "years_exp": 1,
-      "age": 24,
       "search_rank": 190
     },
     {
@@ -10527,7 +10600,7 @@
       ],
       "team": "BAL",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "LWR",
       "depth_chart_order": 7,
@@ -10796,7 +10869,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 3,
       "age": 26,
       "search_rank": 228
@@ -11686,7 +11759,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 4,
@@ -12297,7 +12370,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "years_exp": 7,
       "age": 30,
       "search_rank": 429
@@ -12712,7 +12785,7 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 3,
@@ -12959,10 +13032,10 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 5,
+      "depth_chart_order": 6,
       "years_exp": 0,
       "age": 23,
       "search_rank": 487
@@ -13225,7 +13298,7 @@
       ],
       "team": "PIT",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 3,
@@ -13396,7 +13469,7 @@
       ],
       "team": "MIN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 3,
@@ -13472,7 +13545,7 @@
       ],
       "team": "TEN",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "TE",
       "depth_chart_order": 3,
@@ -13719,10 +13792,10 @@
       ],
       "team": "NO",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 2,
       "age": 25,
       "search_rank": 517
@@ -13852,7 +13925,7 @@
       ],
       "team": "CLE",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 4,
@@ -13912,7 +13985,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 0,
       "age": 23,
       "search_rank": 527
