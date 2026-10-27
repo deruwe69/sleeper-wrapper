@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:58:02.388Z",
+  "generated_at": "2026-10-27T22:10:16.923Z",
   "snapshot_version": 2,
   "week": 8,
   "league": {
@@ -227,6 +227,7 @@
     "shard": 240,
     "sport": "nfl",
     "last_message_id": "1420839341776769024",
+    "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -236,7 +237,6 @@
     "last_message_time": 1793117006300,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
     "bracket_id": null,
@@ -1318,9 +1318,9 @@
         "11584",
         "12495",
         "13346",
-        "11632",
-        "11604",
         "6786",
+        "11604",
+        "9753",
         "6650",
         "CAR"
       ],
@@ -1420,23 +1420,23 @@
           "search_rank": 153
         },
         {
-          "player_id": "11632",
-          "full_name": "Malik Nabers",
-          "first_name": "Malik",
-          "last_name": "Nabers",
+          "player_id": "6786",
+          "full_name": "CeeDee Lamb",
+          "first_name": "CeeDee",
+          "last_name": "Lamb",
           "position": "WR",
           "fantasy_positions": [
             "WR"
           ],
-          "team": "NYG",
+          "team": "DAL",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
-          "years_exp": 2,
-          "age": 23,
-          "search_rank": 26
+          "years_exp": 6,
+          "age": 27,
+          "search_rank": 10
         },
         {
           "player_id": "11604",
@@ -1458,23 +1458,23 @@
           "search_rank": 21
         },
         {
-          "player_id": "6786",
-          "full_name": "CeeDee Lamb",
-          "first_name": "CeeDee",
-          "last_name": "Lamb",
-          "position": "WR",
+          "player_id": "9753",
+          "full_name": "Zach Charbonnet",
+          "first_name": "Zach",
+          "last_name": "Charbonnet",
+          "position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "team": "DAL",
+          "team": "SEA",
           "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "LWR",
+          "injury_status": "Out",
+          "injury_notes": "Surgery",
+          "depth_chart_position": "RB",
           "depth_chart_order": 1,
-          "years_exp": 6,
-          "age": 27,
-          "search_rank": 10
+          "years_exp": 3,
+          "age": 25,
+          "search_rank": 101
         },
         {
           "player_id": "6650",
@@ -1829,7 +1829,7 @@
       "starter_ids": [
         "9228",
         "9224",
-        "12512",
+        "12490",
         "7547",
         "12501",
         "8130",
@@ -1895,23 +1895,23 @@
           "search_rank": 14
         },
         {
-          "player_id": "12512",
-          "full_name": "Quinshon Judkins",
-          "first_name": "Quinshon",
-          "last_name": "Judkins",
+          "player_id": "12490",
+          "full_name": "Bhayshul Tuten",
+          "first_name": "Bhayshul",
+          "last_name": "Tuten",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "CLE",
+          "team": "JAX",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
           "years_exp": 1,
-          "age": 22,
-          "search_rank": 45
+          "age": 23,
+          "search_rank": 44
         },
         {
           "player_id": "7547",
@@ -2058,9 +2058,9 @@
             "RB"
           ],
           "team": "NYG",
-          "status": "Active",
-          "injury_status": "Questionable",
-          "injury_notes": null,
+          "status": "Inactive",
+          "injury_status": "IR",
+          "injury_notes": "Strain",
           "depth_chart_position": "RB",
           "depth_chart_order": 2,
           "years_exp": 2,
@@ -4549,7 +4549,7 @@
           "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RWR",
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "years_exp": 4,
           "age": 28,
           "search_rank": 150
@@ -4855,7 +4855,7 @@
           "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RWR",
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "years_exp": 4,
           "age": 28,
           "search_rank": 150
@@ -6446,10 +6446,10 @@
       "starter_ids": [
         "3294",
         "8151",
-        "12474",
+        "4866",
         "9997",
         "8167",
-        "4217",
+        "5012",
         "11624",
         "2747",
         "PIT"
@@ -6512,23 +6512,23 @@
           "search_rank": 17
         },
         {
-          "player_id": "12474",
-          "full_name": "Woody Marks",
-          "first_name": "Woody",
-          "last_name": "Marks",
+          "player_id": "4866",
+          "full_name": "Saquon Barkley",
+          "first_name": "Saquon",
+          "last_name": "Barkley",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "HOU",
+          "team": "PHI",
           "status": "Active",
           "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
-          "years_exp": 1,
-          "age": 25,
-          "search_rank": 105
+          "years_exp": 8,
+          "age": 29,
+          "search_rank": 10
         },
         {
           "player_id": "9997",
@@ -6569,23 +6569,23 @@
           "search_rank": 64
         },
         {
-          "player_id": "4217",
-          "full_name": "George Kittle",
-          "first_name": "George",
-          "last_name": "Kittle",
+          "player_id": "5012",
+          "full_name": "Mark Andrews",
+          "first_name": "Mark",
+          "last_name": "Andrews",
           "position": "TE",
           "fantasy_positions": [
             "TE"
           ],
-          "team": "SF",
+          "team": "BAL",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "TE",
           "depth_chart_order": 1,
-          "years_exp": 9,
-          "age": 33,
-          "search_rank": 80
+          "years_exp": 8,
+          "age": 31,
+          "search_rank": 96
         },
         {
           "player_id": "11624",
@@ -7041,9 +7041,9 @@
         "11584",
         "12495",
         "13346",
-        "11632",
-        "11604",
         "6786",
+        "11604",
+        "9753",
         "6650",
         "CAR"
       ],
@@ -7101,7 +7101,7 @@
       "starters": [
         "9228",
         "9224",
-        "12512",
+        "12490",
         "7547",
         "12501",
         "8130",
@@ -7659,10 +7659,10 @@
       "starters": [
         "3294",
         "8151",
-        "12474",
+        "4866",
         "9997",
         "8167",
-        "4217",
+        "5012",
         "11624",
         "2747",
         "PIT"
@@ -7942,7 +7942,7 @@
       "injury_status": "IR",
       "injury_notes": "Surgery",
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 5,
       "years_exp": 2,
       "age": 23,
       "search_rank": 88
@@ -7999,7 +7999,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 11,
+      "depth_chart_order": 8,
       "years_exp": 4,
       "age": 26,
       "search_rank": 94
@@ -9025,7 +9025,7 @@
       "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 1,
       "age": 23,
       "search_rank": 173
@@ -9310,7 +9310,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 0,
       "age": 22,
       "search_rank": 185
@@ -9443,7 +9443,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 9,
       "age": 33,
       "search_rank": 195
@@ -9905,6 +9905,25 @@
       "search_rank": 230
     },
     {
+      "player_id": "11802",
+      "full_name": "Tejhaun Palmer",
+      "first_name": "Tejhaun",
+      "last_name": "Palmer",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "LAC",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 2,
+      "age": 26,
+      "search_rank": 235
+    },
+    {
       "player_id": "6768",
       "full_name": "Tua Tagovailoa",
       "first_name": "Tua",
@@ -10279,7 +10298,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 1,
       "age": 25,
       "search_rank": 294
@@ -10317,7 +10336,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 4,
       "age": 29,
       "search_rank": 298
@@ -10602,7 +10621,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 4,
       "age": 29,
       "search_rank": 348
@@ -11685,7 +11704,7 @@
       "injury_status": "IR",
       "injury_notes": "Surgery",
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 1,
       "age": 23,
       "search_rank": 458
@@ -12046,7 +12065,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 6,
       "age": 27,
       "search_rank": 488
@@ -13380,25 +13399,6 @@
       "years_exp": 18,
       "age": 40,
       "search_rank": 544
-    },
-    {
-      "player_id": "6866",
-      "full_name": "KJ Hill",
-      "first_name": "KJ",
-      "last_name": "Hill",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "LAC",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
-      "years_exp": 2,
-      "age": 24,
-      "search_rank": 545
     }
   ],
   "metadata": {
