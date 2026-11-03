@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:43:16.368Z",
+  "generated_at": "2026-11-03T00:55:34.817Z",
   "snapshot_version": 2,
   "week": 8,
   "league": {
@@ -234,9 +234,9 @@
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1793548277017,
-    "draft_id": "1395682396505935872",
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
     "bracket_id": null,
@@ -427,7 +427,7 @@
         "depth_chart_position": "TE",
         "depth_chart_order": 1,
         "years_exp": 3,
-        "age": 25,
+        "age": 26,
         "search_rank": 64
       },
       {
@@ -676,7 +676,7 @@
         "depth_chart_position": "TE",
         "depth_chart_order": 1,
         "years_exp": 3,
-        "age": 25,
+        "age": 26,
         "search_rank": 64
       },
       {
@@ -941,7 +941,7 @@
           "depth_chart_position": "TE",
           "depth_chart_order": 1,
           "years_exp": 3,
-          "age": 25,
+          "age": 26,
           "search_rank": 64
         },
         {
@@ -1190,7 +1190,7 @@
           "depth_chart_position": "TE",
           "depth_chart_order": 1,
           "years_exp": 3,
-          "age": 25,
+          "age": 26,
           "search_rank": 64
         },
         {
@@ -1621,8 +1621,8 @@
             "RB"
           ],
           "team": "SEA",
-          "status": "Inactive",
-          "injury_status": "IR",
+          "status": "Active",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 8,
@@ -1905,7 +1905,7 @@
           ],
           "team": "JAX",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -2059,7 +2059,7 @@
           ],
           "team": "JAX",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -2667,7 +2667,7 @@
           ],
           "team": "JAX",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 2,
@@ -3539,7 +3539,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "K",
           "depth_chart_order": 1,
@@ -3712,7 +3712,7 @@
           ],
           "team": "BAL",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "K",
           "depth_chart_order": 1,
@@ -4432,7 +4432,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
@@ -4662,7 +4662,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
@@ -6165,7 +6165,7 @@
           "status": "Inactive",
           "injury_status": "IR",
           "injury_notes": "Sprain",
-          "depth_chart_position": "SWR",
+          "depth_chart_position": null,
           "depth_chart_order": 2,
           "years_exp": 1,
           "age": 24,
@@ -7705,8 +7705,8 @@
       "created": 1793548276981,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1395681033910755328",
+      "draft_picks": [],
       "transaction_id": "1422648222119137280",
       "adds": {
         "11783": 8
@@ -7778,8 +7778,8 @@
       "created": 1793518700483,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1386640825978478592",
+      "draft_picks": [],
       "transaction_id": "1422524169295253504",
       "adds": {
         "13294": 2
@@ -7851,8 +7851,8 @@
       "created": 1793320215644,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1395894635854852096",
+      "draft_picks": [],
       "transaction_id": "1421691663545368576",
       "adds": {
         "7553": 7
@@ -7899,8 +7899,8 @@
       "created": 1793320127813,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1395894635854852096",
+      "draft_picks": [],
       "transaction_id": "1421691295155372032",
       "adds": null,
       "consenter_ids": [
@@ -7947,8 +7947,8 @@
       "created": 1793311600026,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1396116465299496960",
+      "draft_picks": [],
       "transaction_id": "1421655527020134400",
       "adds": {
         "WAS": 10
@@ -8020,8 +8020,8 @@
       "created": 1793301425453,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1393865132966187008",
+      "draft_picks": [],
       "transaction_id": "1421612851772030976",
       "adds": {
         "12711": 6
@@ -8051,7 +8051,7 @@
             ],
             "team": "BAL",
             "status": "Active",
-            "injury_status": null,
+            "injury_status": "Questionable",
             "injury_notes": null,
             "depth_chart_position": "K",
             "depth_chart_order": 1,
@@ -8093,8 +8093,8 @@
       "created": 1793297036073,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1395687706092130304",
+      "draft_picks": [],
       "transaction_id": "1421594441378013184",
       "adds": {
         "KC": 1
@@ -8166,8 +8166,8 @@
       "created": 1793173075023,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1386640825978478592",
+      "draft_picks": [],
       "transaction_id": "1421074511050047488",
       "adds": {
         "13414": 2
@@ -8239,8 +8239,8 @@
       "created": 1793172231027,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1395681033910755328",
+      "draft_picks": [],
       "transaction_id": "1421070971074297856",
       "adds": {
         "7042": 8
@@ -8312,8 +8312,8 @@
       "created": 1793171906454,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1395724654777217024",
+      "draft_picks": [],
       "transaction_id": "1421069609716498432",
       "adds": {
         "7839": 3
@@ -8385,8 +8385,8 @@
       "created": 1793171874947,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1395724654777217024",
+      "draft_picks": [],
       "transaction_id": "1421069477566578688",
       "adds": {
         "JAX": 3
@@ -8458,8 +8458,8 @@
       "created": 1793171825491,
       "settings": null,
       "leg": 8,
-      "draft_picks": [],
       "creator": "1396032341691858944",
+      "draft_picks": [],
       "transaction_id": "1421069270128828416",
       "adds": {
         "LAR": 9
@@ -9146,7 +9146,7 @@
       ],
       "team": "JAX",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "RB",
       "depth_chart_order": 2,
@@ -11961,7 +11961,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "years_exp": 2,
       "age": 26,
       "search_rank": 412
@@ -12328,6 +12328,25 @@
       "search_rank": 454
     },
     {
+      "player_id": "12412",
+      "full_name": "Terrell Jennings",
+      "first_name": "Terrell",
+      "last_name": "Jennings",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "NE",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 2,
+      "age": 25,
+      "search_rank": 454
+    },
+    {
       "player_id": "12048",
       "full_name": "George Holani",
       "first_name": "George",
@@ -12436,7 +12455,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 3,
       "age": 26,
       "search_rank": 462
@@ -12898,6 +12917,25 @@
       "search_rank": 493
     },
     {
+      "player_id": "5773",
+      "full_name": "KhaDarel Hodge",
+      "first_name": "KhaDarel",
+      "last_name": "Hodge",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "SF",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 8,
+      "age": 31,
+      "search_rank": 494
+    },
+    {
       "player_id": "12510",
       "full_name": "Jalen Milroe",
       "first_name": "Jalen",
@@ -13063,7 +13101,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 3,
       "age": 27,
       "search_rank": 502
@@ -13730,7 +13768,7 @@
       "depth_chart_position": null,
       "depth_chart_order": null,
       "years_exp": 3,
-      "age": 27,
+      "age": 28,
       "search_rank": 528
     },
     {
@@ -14188,44 +14226,6 @@
       "years_exp": 7,
       "age": 29,
       "search_rank": 549
-    },
-    {
-      "player_id": "8223",
-      "full_name": "Velus Jones Jr.",
-      "first_name": "Velus",
-      "last_name": "Jones Jr.",
-      "position": "WR",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": "Out",
-      "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 5,
-      "years_exp": 4,
-      "age": 29,
-      "search_rank": 549
-    },
-    {
-      "player_id": "13270",
-      "full_name": "CJ Daniels",
-      "first_name": "CJ",
-      "last_name": "Daniels",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "LAR",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "LWR",
-      "depth_chart_order": 5,
-      "years_exp": 0,
-      "age": 24,
-      "search_rank": 550
     }
   ],
   "metadata": {
