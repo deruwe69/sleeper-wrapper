@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T21:59:34.294Z",
+  "generated_at": "2026-11-09T06:19:08.560Z",
   "snapshot_version": 2,
   "week": 9,
   "league": {
@@ -72,11 +72,6 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 240,
-    "last_message_id": "1425215545757704192",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -227,6 +222,11 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 240,
+    "last_message_id": "1425215545757704192",
     "draft_id": "1395682396505935872",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -239,7 +239,8 @@
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -257,8 +258,7 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
@@ -403,7 +403,7 @@
         ],
         "team": "LAR",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "injury_notes": null,
         "depth_chart_position": "RWR",
         "depth_chart_order": 1,
@@ -728,7 +728,7 @@
         ],
         "team": "LAR",
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "injury_notes": null,
         "depth_chart_position": "RWR",
         "depth_chart_order": 1,
@@ -917,7 +917,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 1,
@@ -1242,7 +1242,7 @@
           ],
           "team": "LAR",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 1,
@@ -2494,7 +2494,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 1,
@@ -2594,7 +2594,7 @@
           "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "years_exp": 2,
           "age": 25,
           "search_rank": 98
@@ -2610,7 +2610,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RWR",
           "depth_chart_order": 1,
@@ -2691,7 +2691,7 @@
           "depth_chart_position": "RWR",
           "depth_chart_order": 2,
           "years_exp": 7,
-          "age": 29,
+          "age": 30,
           "search_rank": 77
         },
         {
@@ -3007,7 +3007,7 @@
           ],
           "team": "GB",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -3256,7 +3256,7 @@
           ],
           "team": "GB",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -3520,7 +3520,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
@@ -3655,7 +3655,7 @@
           ],
           "team": "TB",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "LWR",
           "depth_chart_order": 1,
@@ -4470,7 +4470,7 @@
           ],
           "team": "NE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -4795,7 +4795,7 @@
           ],
           "team": "NE",
           "status": "Active",
-          "injury_status": null,
+          "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
           "depth_chart_order": 1,
@@ -5232,7 +5232,7 @@
           ],
           "team": "CHI",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": "Out",
           "injury_notes": "Sprain",
           "depth_chart_position": "RB",
           "depth_chart_order": 2,
@@ -6953,7 +6953,7 @@
   ],
   "matchups": [
     {
-      "points": 49.6,
+      "points": 88.44,
       "players": [
         "10219",
         "11620",
@@ -6986,36 +6986,36 @@
         "HOU"
       ],
       "starters_points": [
+        10.64,
+        7,
         0,
-        0.7,
-        0,
-        0,
+        16,
         35,
-        0,
+        1.9,
         5.9,
         0,
-        8
+        12
       ],
       "players_points": {
-        "1166": 0,
+        "1166": 10.64,
         "4199": 0,
         "5872": 0,
         "5892": 0,
         "6130": 5.9,
         "8126": 0,
-        "9484": 0,
+        "9484": 1.9,
         "9493": 35,
-        "9502": 1.3,
+        "9502": 20.5,
         "10219": 11.2,
-        "11620": 0,
+        "11620": 16,
         "11792": 0,
-        "12527": 0.7,
-        "13305": 0.5,
-        "HOU": 8
+        "12527": 7,
+        "13305": -0.3,
+        "HOU": 12
       }
     },
     {
-      "points": 62.1,
+      "points": 139,
       "players": [
         "11584",
         "11604",
@@ -7049,35 +7049,35 @@
       ],
       "starters_points": [
         7.4,
-        0,
+        28.5,
         7.4,
         9.3,
         33.5,
-        3.1,
-        1.4,
-        0,
-        0
+        22.3,
+        9.6,
+        10,
+        11
       ],
       "players_points": {
         "1373": 7.4,
         "2216": 0,
-        "6650": 0,
+        "6650": 10,
         "6786": 33.5,
-        "9753": 1.4,
-        "11584": 0,
-        "11604": 3.1,
+        "9753": 9.6,
+        "11584": 28.5,
+        "11604": 22.3,
         "11625": 0,
         "11632": 9.3,
         "12495": 7.4,
         "13281": 5,
-        "13286": 3,
+        "13286": 11.8,
         "13346": 15.8,
-        "13414": 1.6,
-        "TB": 0
+        "13414": 7,
+        "TB": 11
       }
     },
     {
-      "points": 117.04,
+      "points": 142.94,
       "players": [
         "11635",
         "12490",
@@ -7114,8 +7114,8 @@
         10.5,
         8.9,
         16.6,
-        17.4,
-        1.5,
+        32.4,
+        12.4,
         13.8,
         13,
         9
@@ -7125,21 +7125,21 @@
         "5844": 0,
         "7547": 16.6,
         "7839": 13,
-        "8130": 1.5,
+        "8130": 12.4,
         "8408": 0,
         "9224": 10.5,
         "9228": 26.34,
         "9500": 5.4,
         "11635": 0,
         "12490": 8.9,
-        "12501": 17.4,
+        "12501": 32.4,
         "12512": 5.5,
         "13276": 13.8,
         "JAX": 9
       }
     },
     {
-      "points": 85.6,
+      "points": 114.3,
       "players": [
         "10859",
         "11560",
@@ -7178,13 +7178,13 @@
         11.8,
         20.2,
         7.2,
-        0,
-        0,
-        13
+        20.7,
+        9,
+        12
       ],
       "players_points": {
         "1945": 0,
-        "2020": 0,
+        "2020": 9,
         "5947": 10.5,
         "6801": 20.2,
         "6806": 3.2,
@@ -7193,15 +7193,15 @@
         "8138": 0,
         "8155": 11.7,
         "10859": 7.2,
-        "11560": 0,
+        "11560": 16.76,
         "11581": 0,
-        "12519": 0,
+        "12519": 20.7,
         "12545": 21.7,
-        "GB": 13
+        "GB": 12
       }
     },
     {
-      "points": 116.48,
+      "points": 127.18,
       "players": [
         "10213",
         "11564",
@@ -7237,7 +7237,7 @@
         20.48,
         26.7,
         18.8,
-        4.8,
+        15.5,
         13,
         12.2,
         0.5,
@@ -7247,10 +7247,10 @@
       "players_points": {
         "4046": 20.48,
         "5850": 0.5,
-        "7569": 4.8,
+        "7569": 15.5,
         "9509": 26.7,
-        "10213": 0,
-        "11564": -1.04,
+        "10213": 9.5,
+        "11564": 24.26,
         "11834": 3.7,
         "12185": 16,
         "12506": 12.2,
@@ -7263,7 +7263,7 @@
       }
     },
     {
-      "points": 72.96,
+      "points": 83.06,
       "players": [
         "11563",
         "11566",
@@ -7296,36 +7296,36 @@
         "SEA"
       ],
       "starters_points": [
-        16.36,
-        8.9,
+        16.56,
+        6.9,
         9.4,
         18.8,
         4.1,
         8.4,
+        6.9,
         0,
-        0,
-        7
+        12
       ],
       "players_points": {
-        "3451": 6,
+        "3451": 17,
         "5846": 0,
         "6813": 9.4,
-        "8136": 8.9,
+        "8136": 6.9,
         "8137": 0,
         "11563": 19.68,
-        "11566": 16.36,
+        "11566": 16.56,
         "11610": 4.1,
         "11637": 0,
-        "12514": 0,
+        "12514": 6.9,
         "12518": 8.4,
         "12529": 0,
         "12711": 0,
         "13298": 18.8,
-        "SEA": 7
+        "SEA": 12
       }
     },
     {
-      "points": 82.42,
+      "points": 98.02,
       "players": [
         "10232",
         "10955",
@@ -7360,11 +7360,11 @@
       "starters_points": [
         3.82,
         9.1,
-        1.4,
+        7.7,
         31.5,
         6.6,
         16.3,
-        2.7,
+        12,
         3,
         8
       ],
@@ -7379,15 +7379,15 @@
         "8146": 0,
         "8150": 9.1,
         "8161": 3.82,
-        "9511": 1.4,
-        "10232": 2.7,
+        "9511": 7.7,
+        "10232": 12,
         "10955": 3,
         "13279": 0,
         "DEN": 8
       }
     },
     {
-      "points": 36.82,
+      "points": 56.12,
       "players": [
         "10236",
         "11783",
@@ -7421,25 +7421,25 @@
       ],
       "starters_points": [
         13.22,
-        3.9,
-        -0.2,
+        6.6,
+        14.8,
         7.3,
         0,
         0,
-        3.6,
+        5.2,
         0,
         9
       ],
       "players_points": {
         "421": 13.22,
-        "3286": 3.6,
+        "3286": 5.2,
         "4943": 0,
         "5859": 0,
         "6794": 0,
         "7042": 0,
         "7525": 0,
-        "7611": -0.2,
-        "8132": 3.9,
+        "7611": 14.8,
+        "8132": 6.6,
         "8228": 0,
         "8676": 0,
         "10236": 0,
@@ -7449,7 +7449,7 @@
       }
     },
     {
-      "points": 96.7,
+      "points": 127.48,
       "players": [
         "11539",
         "11576",
@@ -7482,36 +7482,36 @@
         "LAR"
       ],
       "starters_points": [
-        12,
+        29.28,
         5.4,
-        10.2,
+        22.7,
         15.6,
         5,
         17.3,
         3.2,
         15,
-        13
+        14
       ],
       "players_points": {
         "1466": 17.3,
-        "4034": 10.2,
+        "4034": 22.7,
         "4950": 0,
         "6770": 35.54,
         "7526": 3.2,
         "8148": 5,
-        "8183": 12,
+        "8183": 29.28,
         "11539": 15,
         "11576": 5.4,
         "11646": 6.6,
         "12489": 0,
-        "12507": 0.9,
+        "12507": 6,
         "12526": 15.6,
         "12534": 0,
-        "LAR": 13
+        "LAR": 14
       }
     },
     {
-      "points": 84.8,
+      "points": 94.2,
       "players": [
         "10229",
         "11586",
@@ -7549,7 +7549,7 @@
         13.4,
         9.9,
         16.8,
-        0,
+        9.4,
         8.1,
         17,
         6
@@ -7558,22 +7558,22 @@
         "2449": 8.1,
         "4035": 7.9,
         "4984": 0,
-        "5189": 2,
-        "6804": 16.66,
+        "5189": 8,
+        "6804": 42.18,
         "7002": 11.4,
         "7594": 13.6,
         "8144": 16.8,
         "9221": 13.4,
         "10229": 9.9,
         "11586": 11.8,
-        "11628": 0,
+        "11628": 4,
         "11786": 17,
-        "12517": 0,
+        "12517": 9.4,
         "WAS": 6
       }
     },
     {
-      "points": 65.78,
+      "points": 79.08,
       "players": [
         "11533",
         "12536",
@@ -7609,33 +7609,33 @@
         5.3,
         5.58,
         22.4,
-        4.5,
+        12.1,
         14.1,
-        1.9,
-        0,
+        6.5,
+        3.1,
         10,
-        2
+        0
       ],
       "players_points": {
         "3163": 5.3,
         "3198": 5.58,
-        "3214": 1.9,
+        "3214": 6.5,
         "4983": 0,
         "4993": 3.1,
-        "6790": 0,
+        "6790": 3.1,
         "7588": 22.4,
         "9487": 14.1,
-        "9488": 4.5,
+        "9488": 12.1,
         "9508": 0,
-        "9758": 9.92,
+        "9758": 45.36,
         "11533": 10,
         "12536": 0,
-        "CHI": 0,
-        "NE": 2
+        "CHI": 15,
+        "NE": 0
       }
     },
     {
-      "points": 90.38,
+      "points": 142.18,
       "players": [
         "11624",
         "12474",
@@ -7672,28 +7672,28 @@
         36.3,
         8.2,
         10.8,
-        2,
-        6.1,
-        1.4,
-        0,
-        10
+        30.1,
+        9.8,
+        8.4,
+        6,
+        17
       ],
       "players_points": {
-        "2747": 0,
+        "2747": 6,
         "3294": 23.5,
-        "4217": 6.1,
+        "4217": 9.8,
         "4866": 8.2,
-        "6083": 0,
+        "6083": 7,
         "7021": 0,
         "7523": 15.58,
         "8134": 0,
         "8151": 36.3,
-        "8167": 2,
+        "8167": 30.1,
         "9997": 5.3,
         "11624": 10.8,
-        "12474": 1.4,
+        "12474": 8.4,
         "PIT": 0,
-        "SF": 10
+        "SF": 17
       }
     }
   ],
@@ -8630,7 +8630,7 @@
       ],
       "team": "LAC",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "injury_notes": null,
       "depth_chart_position": "QB",
       "depth_chart_order": 1,
@@ -9887,7 +9887,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 1,
       "age": 23,
       "search_rank": 173
@@ -12395,7 +12395,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 3,
       "age": 26,
       "search_rank": 453
@@ -12509,7 +12509,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 5,
       "age": 26,
       "search_rank": 456
@@ -13288,7 +13288,7 @@
       "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 6,
+      "depth_chart_order": 9,
       "years_exp": 0,
       "age": 24,
       "search_rank": 502
