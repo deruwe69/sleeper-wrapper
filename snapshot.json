@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:41:27.480Z",
+  "generated_at": "2026-11-11T06:08:32.340Z",
   "snapshot_version": 2,
   "week": 10,
   "league": {
@@ -72,6 +72,10 @@
     },
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 240,
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -222,10 +226,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 240,
-    "sport": "nfl",
     "last_message_id": "1425928173354250240",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -235,10 +235,12 @@
     "last_message_text_map": null,
     "last_message_time": 1794330278294,
     "last_pinned_message_id": null,
+    "last_read_id": null,
     "draft_id": "1395682396505935872",
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "last_read_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -256,8 +258,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
@@ -265,9 +265,9 @@
   },
   "nfl_state": {
     "week": 10,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 10,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -325,12 +325,12 @@
         "fantasy_positions": [
           "QB"
         ],
-        "team": "LV",
+        "team": "MIN",
         "status": "Active",
         "injury_status": null,
         "injury_notes": null,
         "depth_chart_position": "QB",
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "years_exp": 14,
         "age": 38,
         "search_rank": 263
@@ -406,7 +406,7 @@
         "injury_status": "Out",
         "injury_notes": null,
         "depth_chart_position": "SWR",
-        "depth_chart_order": 8,
+        "depth_chart_order": 9,
         "years_exp": 7,
         "age": 30,
         "search_rank": 130
@@ -536,12 +536,12 @@
         "fantasy_positions": [
           "QB"
         ],
-        "team": "LV",
+        "team": "MIN",
         "status": "Active",
         "injury_status": null,
         "injury_notes": null,
         "depth_chart_position": "QB",
-        "depth_chart_order": 1,
+        "depth_chart_order": 2,
         "years_exp": 14,
         "age": 38,
         "search_rank": 263
@@ -636,7 +636,7 @@
         "injury_status": "Out",
         "injury_notes": null,
         "depth_chart_position": "SWR",
-        "depth_chart_order": 8,
+        "depth_chart_order": 9,
         "years_exp": 7,
         "age": 30,
         "search_rank": 130
@@ -731,7 +731,7 @@
         "injury_status": "Questionable",
         "injury_notes": null,
         "depth_chart_position": "RWR",
-        "depth_chart_order": 7,
+        "depth_chart_order": 6,
         "years_exp": 3,
         "age": 25,
         "search_rank": 4
@@ -839,12 +839,12 @@
           "fantasy_positions": [
             "QB"
           ],
-          "team": "LV",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "QB",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 14,
           "age": 38,
           "search_rank": 263
@@ -920,7 +920,7 @@
           "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "SWR",
-          "depth_chart_order": 8,
+          "depth_chart_order": 9,
           "years_exp": 7,
           "age": 30,
           "search_rank": 130
@@ -1050,12 +1050,12 @@
           "fantasy_positions": [
             "QB"
           ],
-          "team": "LV",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "QB",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 14,
           "age": 38,
           "search_rank": 263
@@ -1150,7 +1150,7 @@
           "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "SWR",
-          "depth_chart_order": 8,
+          "depth_chart_order": 9,
           "years_exp": 7,
           "age": 30,
           "search_rank": 130
@@ -1245,7 +1245,7 @@
           "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "RWR",
-          "depth_chart_order": 7,
+          "depth_chart_order": 6,
           "years_exp": 3,
           "age": 25,
           "search_rank": 4
@@ -1720,7 +1720,7 @@
           "injury_status": "Out",
           "injury_notes": "Tendinitis",
           "depth_chart_position": "LWR",
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "years_exp": 12,
           "age": 33,
           "search_rank": 60
@@ -1833,7 +1833,7 @@
         "7547",
         "12501",
         "8130",
-        "13276",
+        "12512",
         "7839",
         "JAX"
       ],
@@ -1971,23 +1971,23 @@
           "search_rank": 22
         },
         {
-          "player_id": "13276",
-          "full_name": "Omar Cooper Jr.",
-          "first_name": "Omar",
-          "last_name": "Cooper Jr.",
-          "position": "WR",
+          "player_id": "12512",
+          "full_name": "Quinshon Judkins",
+          "first_name": "Quinshon",
+          "last_name": "Judkins",
+          "position": "RB",
           "fantasy_positions": [
-            "WR"
+            "RB"
           ],
-          "team": "NYJ",
+          "team": "CLE",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
-          "depth_chart_position": "SWR",
-          "depth_chart_order": 2,
-          "years_exp": 0,
-          "age": 22,
-          "search_rank": 151
+          "depth_chart_position": "RB",
+          "depth_chart_order": 1,
+          "years_exp": 1,
+          "age": 23,
+          "search_rank": 45
         },
         {
           "player_id": "7839",
@@ -2045,7 +2045,7 @@
           "depth_chart_position": "SWR",
           "depth_chart_order": 1,
           "years_exp": 2,
-          "age": 24,
+          "age": 25,
           "search_rank": 35
         },
         {
@@ -2138,7 +2138,7 @@
           "injury_status": "IR",
           "injury_notes": "Surgery",
           "depth_chart_position": "LWR",
-          "depth_chart_order": 5,
+          "depth_chart_order": 4,
           "years_exp": 12,
           "age": 33,
           "search_rank": 46
@@ -2285,12 +2285,12 @@
           "fantasy_positions": [
             "WR"
           ],
-          "team": "IND",
+          "team": "KC",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
-          "depth_chart_position": "SWR",
-          "depth_chart_order": 1,
+          "depth_chart_position": "LWR",
+          "depth_chart_order": 2,
           "years_exp": 3,
           "age": 25,
           "search_rank": 111
@@ -2853,15 +2853,15 @@
       "display_name": "2Pug",
       "team_name": null,
       "starter_ids": [
-        "4046",
+        "11564",
         "9509",
-        "13345",
+        "0",
         "7569",
         "13296",
         "12506",
-        "5850",
+        "11834",
         "12185",
-        "CIN"
+        "MIN"
       ],
       "player_ids": [
         "10213",
@@ -2883,23 +2883,23 @@
       "reserve_ids": [],
       "starters": [
         {
-          "player_id": "4046",
-          "full_name": "Patrick Mahomes",
-          "first_name": "Patrick",
-          "last_name": "Mahomes",
+          "player_id": "11564",
+          "full_name": "Drake Maye",
+          "first_name": "Drake",
+          "last_name": "Maye",
           "position": "QB",
           "fantasy_positions": [
             "QB"
           ],
-          "team": "KC",
+          "team": "NE",
           "status": "Active",
-          "injury_status": "Questionable",
+          "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
-          "years_exp": 9,
-          "age": 31,
-          "search_rank": 39
+          "years_exp": 2,
+          "age": 24,
+          "search_rank": 11
         },
         {
           "player_id": "9509",
@@ -2919,25 +2919,6 @@
           "years_exp": 3,
           "age": 24,
           "search_rank": 1
-        },
-        {
-          "player_id": "13345",
-          "full_name": "Jonah Coleman",
-          "first_name": "Jonah",
-          "last_name": "Coleman",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "DEN",
-          "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "RB",
-          "depth_chart_order": 1,
-          "years_exp": 0,
-          "age": 23,
-          "search_rank": 118
         },
         {
           "player_id": "7569",
@@ -2997,23 +2978,23 @@
           "search_rank": 63
         },
         {
-          "player_id": "5850",
-          "full_name": "Josh Jacobs",
-          "first_name": "Josh",
-          "last_name": "Jacobs",
-          "position": "RB",
+          "player_id": "11834",
+          "full_name": "Devaughn Vele",
+          "first_name": "Devaughn",
+          "last_name": "Vele",
+          "position": "WR",
           "fantasy_positions": [
-            "RB"
+            "WR"
           ],
-          "team": "GB",
+          "team": "NO",
           "status": "Active",
-          "injury_status": "Out",
-          "injury_notes": "Surgery",
-          "depth_chart_position": "RB",
-          "depth_chart_order": 3,
-          "years_exp": 7,
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": "SWR",
+          "depth_chart_order": 2,
+          "years_exp": 2,
           "age": 28,
-          "search_rank": 20
+          "search_rank": 209
         },
         {
           "player_id": "12185",
@@ -3035,15 +3016,15 @@
           "search_rank": 355
         },
         {
-          "player_id": "CIN",
-          "full_name": "Cincinnati Bengals",
-          "first_name": "Cincinnati",
-          "last_name": "Bengals",
+          "player_id": "MIN",
+          "full_name": "Minnesota Vikings",
+          "first_name": "Minnesota",
+          "last_name": "Vikings",
           "position": "DEF",
           "fantasy_positions": [
             "DEF"
           ],
-          "team": "CIN",
+          "team": "MIN",
           "status": null,
           "injury_status": null,
           "injury_notes": null,
@@ -3542,7 +3523,7 @@
           "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "K",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "years_exp": 1,
           "age": 25,
           "search_rank": 150
@@ -3715,7 +3696,7 @@
           "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "K",
-          "depth_chart_order": 2,
+          "depth_chart_order": 1,
           "years_exp": 1,
           "age": 25,
           "search_rank": 150
@@ -3918,8 +3899,8 @@
             "QB"
           ],
           "team": "MIA",
-          "status": "Active",
-          "injury_status": "Questionable",
+          "status": "Inactive",
+          "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
@@ -3998,7 +3979,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RWR",
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "years_exp": 13,
           "age": 34,
           "search_rank": 180
@@ -4032,10 +4013,10 @@
             "WR"
           ],
           "team": "ARI",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "injury_notes": "Fracture",
-          "depth_chart_position": "SWR",
+          "depth_chart_position": "PR",
           "depth_chart_order": 7,
           "years_exp": 3,
           "age": 26,
@@ -4091,10 +4072,10 @@
             "WR"
           ],
           "team": "ARI",
-          "status": "Active",
-          "injury_status": "Out",
+          "status": "Inactive",
+          "injury_status": "IR",
           "injury_notes": "Fracture",
-          "depth_chart_position": "SWR",
+          "depth_chart_position": "PR",
           "depth_chart_order": 7,
           "years_exp": 3,
           "age": 26,
@@ -4152,7 +4133,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RWR",
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "years_exp": 13,
           "age": 34,
           "search_rank": 180
@@ -4190,7 +4171,7 @@
           "injury_status": "Out",
           "injury_notes": "Soreness",
           "depth_chart_position": "QB",
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "years_exp": 7,
           "age": 29,
           "search_rank": 88
@@ -4319,8 +4300,8 @@
             "QB"
           ],
           "team": "MIA",
-          "status": "Active",
-          "injury_status": "Questionable",
+          "status": "Inactive",
+          "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "QB",
           "depth_chart_order": 1,
@@ -5292,7 +5273,7 @@
           "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "SWR",
-          "depth_chart_order": 6,
+          "depth_chart_order": 7,
           "years_exp": 8,
           "age": 29,
           "search_rank": 210
@@ -7105,7 +7086,7 @@
         "7547",
         "12501",
         "8130",
-        "13276",
+        "12512",
         "7839",
         "JAX"
       ],
@@ -7223,15 +7204,15 @@
       "custom_points": null,
       "matchup_id": 1,
       "starters": [
-        "4046",
+        "11564",
         "9509",
-        "13345",
+        "0",
         "7569",
         "13296",
         "12506",
-        "5850",
+        "11834",
         "12185",
-        "CIN"
+        "MIN"
       ],
       "starters_points": [
         0,
@@ -8018,7 +7999,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "LWR",
-      "depth_chart_order": 11,
+      "depth_chart_order": 7,
       "years_exp": 4,
       "age": 26,
       "search_rank": 94
@@ -8227,7 +8208,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 1,
       "years_exp": 0,
       "age": 23,
       "search_rank": 109
@@ -8455,7 +8436,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 9,
       "age": 30,
       "search_rank": 131
@@ -8645,7 +8626,7 @@
       "injury_status": "IR",
       "injury_notes": "Surgery",
       "depth_chart_position": "RB",
-      "depth_chart_order": 4,
+      "depth_chart_order": 2,
       "years_exp": 3,
       "age": 24,
       "search_rank": 147
@@ -8873,7 +8854,7 @@
       "injury_status": "IR",
       "injury_notes": "Sprain",
       "depth_chart_position": "LWR",
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "years_exp": 2,
       "age": 24,
       "search_rank": 165
@@ -8913,7 +8894,7 @@
       "depth_chart_position": "RB",
       "depth_chart_order": 3,
       "years_exp": 2,
-      "age": 26,
+      "age": 27,
       "search_rank": 167
     },
     {
@@ -9101,7 +9082,7 @@
       "injury_status": "DNR",
       "injury_notes": "Surgery",
       "depth_chart_position": null,
-      "depth_chart_order": 9,
+      "depth_chart_order": 10,
       "years_exp": 6,
       "age": 28,
       "search_rank": 177
@@ -9180,6 +9161,25 @@
       "depth_chart_order": 3,
       "years_exp": 8,
       "age": 31,
+      "search_rank": 180
+    },
+    {
+      "player_id": "9757",
+      "full_name": "Kendre Miller",
+      "first_name": "Kendre",
+      "last_name": "Miller",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "DAL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 3,
+      "age": 24,
       "search_rank": 180
     },
     {
@@ -9309,8 +9309,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 1,
       "age": 22,
       "search_rank": 189
@@ -10146,7 +10146,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 1,
       "years_exp": 0,
       "age": 23,
       "search_rank": 288
@@ -10278,8 +10278,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": null,
+      "depth_chart_position": "K",
+      "depth_chart_order": 1,
       "years_exp": 3,
       "age": 26,
       "search_rank": 309
@@ -10791,8 +10791,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 10,
       "age": 33,
       "search_rank": 371
@@ -11077,7 +11077,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": null,
-      "depth_chart_order": 10,
+      "depth_chart_order": 6,
       "years_exp": 0,
       "age": 23,
       "search_rank": 400
@@ -11114,8 +11114,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "LWR",
-      "depth_chart_order": 6,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 7,
       "age": 30,
       "search_rank": 405
@@ -11456,8 +11456,8 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "RWR",
-      "depth_chart_order": 5,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 12,
       "age": 34,
       "search_rank": 443
@@ -11742,7 +11742,7 @@
       "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 7,
+      "depth_chart_order": 6,
       "years_exp": 0,
       "age": 22,
       "search_rank": 466
@@ -12140,8 +12140,8 @@
       "status": "Active",
       "injury_status": "Out",
       "injury_notes": null,
-      "depth_chart_position": "TE",
-      "depth_chart_order": 6,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 0,
       "age": 23,
       "search_rank": 493
@@ -12290,7 +12290,7 @@
       ],
       "team": "CAR",
       "status": "Active",
-      "injury_status": null,
+      "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": null,
       "depth_chart_order": null,
@@ -12350,7 +12350,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 5,
+      "depth_chart_order": 4,
       "years_exp": 1,
       "age": 23,
       "search_rank": 501
@@ -12483,7 +12483,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 1,
       "age": 25,
       "search_rank": 503
@@ -12654,7 +12654,7 @@
       "injury_status": "Out",
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 10,
+      "depth_chart_order": 7,
       "years_exp": 0,
       "age": 23,
       "search_rank": 509
@@ -12767,11 +12767,30 @@
       "status": "Active",
       "injury_status": null,
       "injury_notes": null,
-      "depth_chart_position": "TE",
-      "depth_chart_order": 3,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
       "years_exp": 2,
       "age": 25,
       "search_rank": 516
+    },
+    {
+      "player_id": "12079",
+      "full_name": "Treyton Welch",
+      "first_name": "Treyton",
+      "last_name": "Welch",
+      "position": "TE",
+      "fantasy_positions": [
+        "TE"
+      ],
+      "team": "NO",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 2,
+      "age": 25,
+      "search_rank": 517
     },
     {
       "player_id": "11571",
@@ -12977,7 +12996,7 @@
       "injury_status": "IR",
       "injury_notes": null,
       "depth_chart_position": "RWR",
-      "depth_chart_order": 7,
+      "depth_chart_order": 5,
       "years_exp": 2,
       "age": 25,
       "search_rank": 527
@@ -13319,7 +13338,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "QB",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 18,
       "age": 40,
       "search_rank": 544
@@ -13361,44 +13380,6 @@
       "years_exp": 0,
       "age": null,
       "search_rank": 545
-    },
-    {
-      "player_id": "11256",
-      "full_name": "Tyson Bagent",
-      "first_name": "Tyson",
-      "last_name": "Bagent",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "CHI",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 3,
-      "years_exp": 3,
-      "age": 26,
-      "search_rank": 546
-    },
-    {
-      "player_id": "12470",
-      "full_name": "Riley Leonard",
-      "first_name": "Riley",
-      "last_name": "Leonard",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "IND",
-      "status": "Active",
-      "injury_status": "Out",
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 3,
-      "years_exp": 1,
-      "age": 24,
-      "search_rank": 547
     }
   ],
   "metadata": {
