@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:38:14.914Z",
+  "generated_at": "2026-11-12T15:07:47.863Z",
   "snapshot_version": 2,
   "week": 10,
   "league": {
@@ -226,23 +226,19 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "last_message_id": "1426293722697457664",
-    "draft_id": "1395682396505935872",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_message_id": "1426599837465333760",
+    "last_author_avatar": "7572250c2fb084c434fed0e82229e183",
+    "last_author_display_name": "BeaverUwe",
+    "last_author_id": "1395687706092130304",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794417432050,
+    "last_message_time": 1794490415497,
     "last_pinned_message_id": null,
+    "draft_id": "1395682396505935872",
     "last_read_id": null,
     "league_id": "1395682393989328896",
     "previous_league_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -260,6 +256,10 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 12
   },
@@ -428,7 +428,7 @@
         "depth_chart_order": 1,
         "years_exp": 3,
         "age": 26,
-        "search_rank": 64
+        "search_rank": 65
       },
       {
         "player_id": "5892",
@@ -620,7 +620,7 @@
         "depth_chart_order": 1,
         "years_exp": 0,
         "age": 23,
-        "search_rank": 109
+        "search_rank": 110
       },
       {
         "player_id": "4199",
@@ -715,7 +715,7 @@
         "depth_chart_order": 1,
         "years_exp": 3,
         "age": 26,
-        "search_rank": 64
+        "search_rank": 65
       },
       {
         "player_id": "9493",
@@ -727,7 +727,7 @@
           "WR"
         ],
         "team": "LAR",
-        "status": "Inactive",
+        "status": "Active",
         "injury_status": "Out",
         "injury_notes": "Sprain",
         "depth_chart_position": "RWR",
@@ -942,7 +942,7 @@
           "depth_chart_order": 1,
           "years_exp": 3,
           "age": 26,
-          "search_rank": 64
+          "search_rank": 65
         },
         {
           "player_id": "5892",
@@ -1134,7 +1134,7 @@
           "depth_chart_order": 1,
           "years_exp": 0,
           "age": 23,
-          "search_rank": 109
+          "search_rank": 110
         },
         {
           "player_id": "4199",
@@ -1229,7 +1229,7 @@
           "depth_chart_order": 1,
           "years_exp": 3,
           "age": 26,
-          "search_rank": 64
+          "search_rank": 65
         },
         {
           "player_id": "9493",
@@ -1241,7 +1241,7 @@
             "WR"
           ],
           "team": "LAR",
-          "status": "Inactive",
+          "status": "Active",
           "injury_status": "Out",
           "injury_notes": "Sprain",
           "depth_chart_position": "RWR",
@@ -1398,7 +1398,7 @@
           "depth_chart_order": 1,
           "years_exp": 1,
           "age": 22,
-          "search_rank": 448
+          "search_rank": 449
         },
         {
           "player_id": "11632",
@@ -1417,7 +1417,7 @@
           "depth_chart_order": 1,
           "years_exp": 2,
           "age": 23,
-          "search_rank": 26
+          "search_rank": 28
         },
         {
           "player_id": "6786",
@@ -1568,7 +1568,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RWR",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "years_exp": 2,
           "age": 24,
           "search_rank": 162
@@ -1590,7 +1590,7 @@
           "depth_chart_order": 1,
           "years_exp": 2,
           "age": 23,
-          "search_rank": 26
+          "search_rank": 28
         },
         {
           "player_id": "12495",
@@ -1609,7 +1609,7 @@
           "depth_chart_order": 1,
           "years_exp": 1,
           "age": 22,
-          "search_rank": 448
+          "search_rank": 449
         },
         {
           "player_id": "13281",
@@ -1873,7 +1873,7 @@
           "depth_chart_order": 1,
           "years_exp": 3,
           "age": 25,
-          "search_rank": 131
+          "search_rank": 130
         },
         {
           "player_id": "9224",
@@ -2138,7 +2138,7 @@
           "injury_status": "Questionable",
           "injury_notes": null,
           "depth_chart_position": "SWR",
-          "depth_chart_order": 2,
+          "depth_chart_order": 3,
           "years_exp": 0,
           "age": 22,
           "search_rank": 151
@@ -2274,7 +2274,7 @@
           "depth_chart_order": 1,
           "years_exp": 3,
           "age": 25,
-          "search_rank": 131
+          "search_rank": 130
         },
         {
           "player_id": "9500",
@@ -2578,7 +2578,7 @@
           "depth_chart_order": 1,
           "years_exp": 2,
           "age": 24,
-          "search_rank": 21
+          "search_rank": 22
         },
         {
           "player_id": "11581",
@@ -2855,7 +2855,7 @@
       "starter_ids": [
         "11564",
         "9509",
-        "5995",
+        "8408",
         "9501",
         "13296",
         "7553",
@@ -2873,9 +2873,9 @@
         "13345",
         "4046",
         "5850",
-        "5995",
         "7553",
         "7569",
+        "8408",
         "9501",
         "9509",
         "MIN"
@@ -2921,23 +2921,23 @@
           "search_rank": 1
         },
         {
-          "player_id": "5995",
-          "full_name": "Justice Hill",
-          "first_name": "Justice",
-          "last_name": "Hill",
+          "player_id": "8408",
+          "full_name": "Jordan Mason",
+          "first_name": "Jordan",
+          "last_name": "Mason",
           "position": "RB",
           "fantasy_positions": [
             "RB"
           ],
-          "team": "BAL",
+          "team": "MIN",
           "status": "Active",
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 2,
-          "years_exp": 7,
-          "age": 28,
-          "search_rank": 220
+          "depth_chart_order": 1,
+          "years_exp": 4,
+          "age": 27,
+          "search_rank": 91
         },
         {
           "player_id": "9501",
@@ -2956,7 +2956,7 @@
           "depth_chart_order": 2,
           "years_exp": 3,
           "age": 25,
-          "search_rank": 488
+          "search_rank": 486
         },
         {
           "player_id": "13296",
@@ -3205,7 +3205,7 @@
           "depth_chart_order": 1,
           "years_exp": 9,
           "age": 31,
-          "search_rank": 39
+          "search_rank": 40
         },
         {
           "player_id": "5850",
@@ -3225,25 +3225,6 @@
           "years_exp": 7,
           "age": 28,
           "search_rank": 20
-        },
-        {
-          "player_id": "5995",
-          "full_name": "Justice Hill",
-          "first_name": "Justice",
-          "last_name": "Hill",
-          "position": "RB",
-          "fantasy_positions": [
-            "RB"
-          ],
-          "team": "BAL",
-          "status": "Active",
-          "injury_status": null,
-          "injury_notes": null,
-          "depth_chart_position": "RB",
-          "depth_chart_order": 2,
-          "years_exp": 7,
-          "age": 28,
-          "search_rank": 220
         },
         {
           "player_id": "7553",
@@ -3284,6 +3265,25 @@
           "search_rank": 23
         },
         {
+          "player_id": "8408",
+          "full_name": "Jordan Mason",
+          "first_name": "Jordan",
+          "last_name": "Mason",
+          "position": "RB",
+          "fantasy_positions": [
+            "RB"
+          ],
+          "team": "MIN",
+          "status": "Active",
+          "injury_status": null,
+          "injury_notes": null,
+          "depth_chart_position": "RB",
+          "depth_chart_order": 1,
+          "years_exp": 4,
+          "age": 27,
+          "search_rank": 91
+        },
+        {
           "player_id": "9501",
           "full_name": "DeMario Douglas",
           "first_name": "DeMario",
@@ -3300,7 +3300,7 @@
           "depth_chart_order": 2,
           "years_exp": 3,
           "age": 25,
-          "search_rank": 488
+          "search_rank": 486
         },
         {
           "player_id": "9509",
@@ -3696,7 +3696,7 @@
           "injury_status": "Out",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 2,
+          "depth_chart_order": 5,
           "years_exp": 1,
           "age": 24,
           "search_rank": 39
@@ -3715,7 +3715,7 @@
           "injury_status": "IR",
           "injury_notes": null,
           "depth_chart_position": "K",
-          "depth_chart_order": 1,
+          "depth_chart_order": 2,
           "years_exp": 1,
           "age": 25,
           "search_rank": 150
@@ -4193,7 +4193,7 @@
           "depth_chart_order": 2,
           "years_exp": 8,
           "age": 29,
-          "search_rank": 9
+          "search_rank": 10
         },
         {
           "player_id": "5967",
@@ -4438,7 +4438,7 @@
           "depth_chart_order": 1,
           "years_exp": 17,
           "age": 38,
-          "search_rank": 65
+          "search_rank": 66
         },
         {
           "player_id": "8132",
@@ -4473,7 +4473,7 @@
           "injury_status": "Doubtful",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "years_exp": 5,
           "age": 28,
           "search_rank": 58
@@ -4514,7 +4514,7 @@
           "depth_chart_order": 1,
           "years_exp": 6,
           "age": 27,
-          "search_rank": 12
+          "search_rank": 11
         },
         {
           "player_id": "10236",
@@ -4687,7 +4687,7 @@
           "depth_chart_order": 1,
           "years_exp": 17,
           "age": 38,
-          "search_rank": 65
+          "search_rank": 66
         },
         {
           "player_id": "4943",
@@ -4744,7 +4744,7 @@
           "depth_chart_order": 1,
           "years_exp": 6,
           "age": 27,
-          "search_rank": 12
+          "search_rank": 11
         },
         {
           "player_id": "7042",
@@ -4798,7 +4798,7 @@
           "injury_status": "Doubtful",
           "injury_notes": null,
           "depth_chart_position": "RB",
-          "depth_chart_order": 4,
+          "depth_chart_order": 3,
           "years_exp": 5,
           "age": 28,
           "search_rank": 58
@@ -4855,7 +4855,7 @@
           "injury_status": null,
           "injury_notes": null,
           "depth_chart_position": "RWR",
-          "depth_chart_order": 3,
+          "depth_chart_order": 2,
           "years_exp": 4,
           "age": 28,
           "search_rank": 150
@@ -5597,7 +5597,7 @@
           "depth_chart_order": 1,
           "years_exp": 2,
           "age": 23,
-          "search_rank": 133
+          "search_rank": 131
         },
         {
           "player_id": "WAS",
@@ -5694,7 +5694,7 @@
           "depth_chart_order": 1,
           "years_exp": 2,
           "age": 23,
-          "search_rank": 133
+          "search_rank": 131
         },
         {
           "player_id": "12517",
@@ -5713,7 +5713,7 @@
           "depth_chart_order": 1,
           "years_exp": 1,
           "age": 22,
-          "search_rank": 35
+          "search_rank": 36
         },
         {
           "player_id": "2449",
@@ -5977,7 +5977,7 @@
           "depth_chart_order": 1,
           "years_exp": 10,
           "age": 32,
-          "search_rank": 61
+          "search_rank": 62
         },
         {
           "player_id": "3198",
@@ -6034,7 +6034,7 @@
           "depth_chart_order": 1,
           "years_exp": 3,
           "age": 24,
-          "search_rank": 7
+          "search_rank": 5
         },
         {
           "player_id": "9487",
@@ -6091,7 +6091,7 @@
           "depth_chart_order": 1,
           "years_exp": 6,
           "age": 27,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "11533",
@@ -6188,7 +6188,7 @@
           "depth_chart_order": 1,
           "years_exp": 10,
           "age": 32,
-          "search_rank": 61
+          "search_rank": 62
         },
         {
           "player_id": "3198",
@@ -6264,7 +6264,7 @@
           "depth_chart_order": 1,
           "years_exp": 8,
           "age": 31,
-          "search_rank": 450
+          "search_rank": 399
         },
         {
           "player_id": "6790",
@@ -6283,7 +6283,7 @@
           "depth_chart_order": 1,
           "years_exp": 6,
           "age": 27,
-          "search_rank": 44
+          "search_rank": 46
         },
         {
           "player_id": "7588",
@@ -6340,7 +6340,7 @@
           "depth_chart_order": 1,
           "years_exp": 3,
           "age": 24,
-          "search_rank": 7
+          "search_rank": 5
         },
         {
           "player_id": "9508",
@@ -6378,7 +6378,7 @@
           "depth_chart_order": 1,
           "years_exp": 3,
           "age": 25,
-          "search_rank": 102
+          "search_rank": 101
         },
         {
           "player_id": "CHI",
@@ -7212,9 +7212,9 @@
         "13345",
         "4046",
         "5850",
-        "5995",
         "7553",
         "7569",
+        "8408",
         "9501",
         "9509",
         "MIN"
@@ -7225,7 +7225,7 @@
       "starters": [
         "11564",
         "9509",
-        "5995",
+        "8408",
         "9501",
         "13296",
         "7553",
@@ -7247,9 +7247,9 @@
       "players_points": {
         "4046": 0,
         "5850": 0,
-        "5995": 0,
         "7553": 0,
         "7569": 0,
+        "8408": 0,
         "9501": 0,
         "9509": 0,
         "10213": 0,
@@ -7711,12 +7711,12 @@
       "adds": {
         "BAL": 7
       },
-      "drops": {
-        "5849": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "5849": 7
+      },
       "roster_ids": [
         7
       ],
@@ -7766,7 +7766,7 @@
             "depth_chart_order": 3,
             "years_exp": 7,
             "age": 29,
-            "search_rank": 88
+            "search_rank": 89
           }
         }
       ]
@@ -7784,12 +7784,12 @@
       "adds": {
         "4017": 7
       },
-      "drops": {
-        "8161": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "8161": 7
+      },
       "roster_ids": [
         7
       ],
@@ -7857,12 +7857,12 @@
       "adds": {
         "7562": 9
       },
-      "drops": {
-        "4950": 9
-      },
       "consenter_ids": [
         9
       ],
+      "drops": {
+        "4950": 9
+      },
       "roster_ids": [
         9
       ],
@@ -7913,6 +7913,83 @@
             "years_exp": 8,
             "age": 29,
             "search_rank": 210
+          }
+        }
+      ]
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1794385697293,
+      "settings": {
+        "seq": 0
+      },
+      "leg": 10,
+      "draft_picks": [],
+      "creator": "453866975160954880",
+      "transaction_id": "1426160617487630336",
+      "adds": {
+        "8408": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "drops": {
+        "5995": 5
+      },
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1794468399311,
+      "waiver_budget": [],
+      "added_players": [
+        {
+          "roster_id": 5,
+          "player": {
+            "player_id": "8408",
+            "full_name": "Jordan Mason",
+            "first_name": "Jordan",
+            "last_name": "Mason",
+            "position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "team": "MIN",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "RB",
+            "depth_chart_order": 1,
+            "years_exp": 4,
+            "age": 27,
+            "search_rank": 91
+          }
+        }
+      ],
+      "dropped_players": [
+        {
+          "roster_id": 5,
+          "player": {
+            "player_id": "5995",
+            "full_name": "Justice Hill",
+            "first_name": "Justice",
+            "last_name": "Hill",
+            "position": "RB",
+            "fantasy_positions": [
+              "RB"
+            ],
+            "team": "BAL",
+            "status": "Active",
+            "injury_status": null,
+            "injury_notes": null,
+            "depth_chart_position": "RB",
+            "depth_chart_order": 2,
+            "years_exp": 7,
+            "age": 28,
+            "search_rank": 220
           }
         }
       ]
@@ -7975,7 +8052,7 @@
       "depth_chart_order": 1,
       "years_exp": 6,
       "age": 28,
-      "search_rank": 33
+      "search_rank": 34
     },
     {
       "player_id": "12508",
@@ -8054,25 +8131,6 @@
       "search_rank": 72
     },
     {
-      "player_id": "4892",
-      "full_name": "Baker Mayfield",
-      "first_name": "Baker",
-      "last_name": "Mayfield",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "TB",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 1,
-      "years_exp": 8,
-      "age": 31,
-      "search_rank": 75
-    },
-    {
       "player_id": "11631",
       "full_name": "Brian Thomas Jr.",
       "first_name": "Brian",
@@ -8090,6 +8148,25 @@
       "years_exp": 2,
       "age": 24,
       "search_rank": 75
+    },
+    {
+      "player_id": "4892",
+      "full_name": "Baker Mayfield",
+      "first_name": "Baker",
+      "last_name": "Mayfield",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "TB",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 1,
+      "years_exp": 8,
+      "age": 31,
+      "search_rank": 77
     },
     {
       "player_id": "8154",
@@ -8203,7 +8280,7 @@
       "depth_chart_order": 3,
       "years_exp": 7,
       "age": 29,
-      "search_rank": 88
+      "search_rank": 89
     },
     {
       "player_id": "13294",
@@ -8223,25 +8300,6 @@
       "years_exp": 0,
       "age": 22,
       "search_rank": 89
-    },
-    {
-      "player_id": "8408",
-      "full_name": "Jordan Mason",
-      "first_name": "Jordan",
-      "last_name": "Mason",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "MIN",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 1,
-      "years_exp": 4,
-      "age": 27,
-      "search_rank": 91
     },
     {
       "player_id": "4137",
@@ -8466,7 +8524,7 @@
       "injury_status": "IR",
       "injury_notes": "Plantar Fasciitis",
       "depth_chart_position": "RWR",
-      "depth_chart_order": 6,
+      "depth_chart_order": 7,
       "years_exp": 6,
       "age": 29,
       "search_rank": 106
@@ -8754,7 +8812,7 @@
       "depth_chart_order": 1,
       "years_exp": 7,
       "age": 29,
-      "search_rank": 133
+      "search_rank": 132
     },
     {
       "player_id": "6865",
@@ -9701,7 +9759,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "SWR",
-      "depth_chart_order": 2,
+      "depth_chart_order": 3,
       "years_exp": 9,
       "age": 33,
       "search_rank": 195
@@ -9992,6 +10050,25 @@
       "search_rank": 215
     },
     {
+      "player_id": "5995",
+      "full_name": "Justice Hill",
+      "first_name": "Justice",
+      "last_name": "Hill",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "BAL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 2,
+      "years_exp": 7,
+      "age": 28,
+      "search_rank": 220
+    },
+    {
       "player_id": "12467",
       "full_name": "Jordan James",
       "first_name": "Jordan",
@@ -10161,6 +10238,25 @@
       "years_exp": 6,
       "age": 28,
       "search_rank": 237
+    },
+    {
+      "player_id": "7922",
+      "full_name": "Riley Patterson",
+      "first_name": "Riley",
+      "last_name": "Patterson",
+      "position": "K",
+      "fantasy_positions": [
+        "K"
+      ],
+      "team": "BAL",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "K",
+      "depth_chart_order": 1,
+      "years_exp": 5,
+      "age": 27,
+      "search_rank": 241
     },
     {
       "player_id": "11653",
@@ -10407,7 +10503,7 @@
       "depth_chart_order": 1,
       "years_exp": 0,
       "age": 23,
-      "search_rank": 287
+      "search_rank": 288
     },
     {
       "player_id": "2750",
@@ -10958,7 +11054,7 @@
       "depth_chart_order": 2,
       "years_exp": 0,
       "age": 22,
-      "search_rank": 363
+      "search_rank": 364
     },
     {
       "player_id": "13411",
@@ -11170,25 +11266,6 @@
       "search_rank": 392
     },
     {
-      "player_id": "13303",
-      "full_name": "Cade Klubnik",
-      "first_name": "Cade",
-      "last_name": "Klubnik",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "NYJ",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 3,
-      "years_exp": 0,
-      "age": 23,
-      "search_rank": 394
-    },
-    {
       "player_id": "4443",
       "full_name": "Pharaoh Brown",
       "first_name": "Pharaoh",
@@ -11206,6 +11283,25 @@
       "years_exp": 9,
       "age": 32,
       "search_rank": 394
+    },
+    {
+      "player_id": "13303",
+      "full_name": "Cade Klubnik",
+      "first_name": "Cade",
+      "last_name": "Klubnik",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "NYJ",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 3,
+      "years_exp": 0,
+      "age": 23,
+      "search_rank": 395
     },
     {
       "player_id": "8253",
@@ -11265,25 +11361,6 @@
       "search_rank": 397
     },
     {
-      "player_id": "7527",
-      "full_name": "Mac Jones",
-      "first_name": "Mac",
-      "last_name": "Jones",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "SF",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 2,
-      "years_exp": 5,
-      "age": 28,
-      "search_rank": 399
-    },
-    {
       "player_id": "13353",
       "full_name": "Chris Brazzell II",
       "first_name": "Chris",
@@ -11300,6 +11377,25 @@
       "depth_chart_order": 10,
       "years_exp": 0,
       "age": 23,
+      "search_rank": 400
+    },
+    {
+      "player_id": "7527",
+      "full_name": "Mac Jones",
+      "first_name": "Mac",
+      "last_name": "Jones",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "SF",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 2,
+      "years_exp": 5,
+      "age": 28,
       "search_rank": 400
     },
     {
@@ -11341,25 +11437,6 @@
       "search_rank": 408
     },
     {
-      "player_id": "13302",
-      "full_name": "Adam Randall",
-      "first_name": "Adam",
-      "last_name": "Randall",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "BAL",
-      "status": "Inactive",
-      "injury_status": "IR",
-      "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 5,
-      "years_exp": 0,
-      "age": 22,
-      "search_rank": 409
-    },
-    {
       "player_id": "13210",
       "full_name": "Drake Dabney",
       "first_name": "Drake",
@@ -11377,6 +11454,25 @@
       "years_exp": 1,
       "age": 24,
       "search_rank": 409
+    },
+    {
+      "player_id": "13302",
+      "full_name": "Adam Randall",
+      "first_name": "Adam",
+      "last_name": "Randall",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "BAL",
+      "status": "Inactive",
+      "injury_status": "IR",
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 5,
+      "years_exp": 0,
+      "age": 22,
+      "search_rank": 410
     },
     {
       "player_id": "12171",
@@ -11471,7 +11567,7 @@
       "depth_chart_order": 2,
       "years_exp": 3,
       "age": 25,
-      "search_rank": 423
+      "search_rank": 422
     },
     {
       "player_id": "11113",
@@ -11531,25 +11627,6 @@
       "search_rank": 429
     },
     {
-      "player_id": "7591",
-      "full_name": "Justin Fields",
-      "first_name": "Justin",
-      "last_name": "Fields",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "KC",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 2,
-      "years_exp": 5,
-      "age": 27,
-      "search_rank": 429
-    },
-    {
       "player_id": "3202",
       "full_name": "Austin Hooper",
       "first_name": "Austin",
@@ -11569,6 +11646,25 @@
       "search_rank": 430
     },
     {
+      "player_id": "7591",
+      "full_name": "Justin Fields",
+      "first_name": "Justin",
+      "last_name": "Fields",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "KC",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 2,
+      "years_exp": 5,
+      "age": 27,
+      "search_rank": 430
+    },
+    {
       "player_id": "11595",
       "full_name": "Jared Wiley",
       "first_name": "Jared",
@@ -11582,7 +11678,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "TE",
-      "depth_chart_order": 4,
+      "depth_chart_order": 3,
       "years_exp": 2,
       "age": 26,
       "search_rank": 435
@@ -11642,7 +11738,26 @@
       "depth_chart_order": 2,
       "years_exp": 4,
       "age": 27,
-      "search_rank": 442
+      "search_rank": 443
+    },
+    {
+      "player_id": "2078",
+      "full_name": "Odell Beckham Jr.",
+      "first_name": "Odell",
+      "last_name": "Beckham Jr.",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "MIN",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 12,
+      "age": 34,
+      "search_rank": 444
     },
     {
       "player_id": "8917",
@@ -11816,25 +11931,6 @@
       "search_rank": 458
     },
     {
-      "player_id": "4147",
-      "full_name": "Samaje Perine",
-      "first_name": "Samaje",
-      "last_name": "Perine",
-      "position": "RB",
-      "fantasy_positions": [
-        "RB"
-      ],
-      "team": "CIN",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "RB",
-      "depth_chart_order": 2,
-      "years_exp": 9,
-      "age": 31,
-      "search_rank": 458
-    },
-    {
       "player_id": "7535",
       "full_name": "Hunter Long",
       "first_name": "Hunter",
@@ -11851,6 +11947,25 @@
       "depth_chart_order": 4,
       "years_exp": 5,
       "age": 28,
+      "search_rank": 459
+    },
+    {
+      "player_id": "4147",
+      "full_name": "Samaje Perine",
+      "first_name": "Samaje",
+      "last_name": "Perine",
+      "position": "RB",
+      "fantasy_positions": [
+        "RB"
+      ],
+      "team": "CIN",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "RB",
+      "depth_chart_order": 2,
+      "years_exp": 9,
+      "age": 31,
       "search_rank": 459
     },
     {
@@ -12348,6 +12463,25 @@
       "search_rank": 497
     },
     {
+      "player_id": "12511",
+      "full_name": "Will Howard",
+      "first_name": "Will",
+      "last_name": "Howard",
+      "position": "QB",
+      "fantasy_positions": [
+        "QB"
+      ],
+      "team": "PIT",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": "QB",
+      "depth_chart_order": 3,
+      "years_exp": 1,
+      "age": 25,
+      "search_rank": 497
+    },
+    {
       "player_id": "12705",
       "full_name": "Graham Mertz",
       "first_name": "Graham",
@@ -12364,6 +12498,25 @@
       "depth_chart_order": 3,
       "years_exp": 1,
       "age": 25,
+      "search_rank": 498
+    },
+    {
+      "player_id": "7559",
+      "full_name": "Ihmir Smith-Marsette",
+      "first_name": "Ihmir",
+      "last_name": "Smith-Marsette",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "CAR",
+      "status": "Active",
+      "injury_status": "Out",
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": 6,
+      "years_exp": 5,
+      "age": 27,
       "search_rank": 498
     },
     {
@@ -12384,44 +12537,6 @@
       "years_exp": 0,
       "age": 24,
       "search_rank": 498
-    },
-    {
-      "player_id": "7559",
-      "full_name": "Ihmir Smith-Marsette",
-      "first_name": "Ihmir",
-      "last_name": "Smith-Marsette",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "CAR",
-      "status": "Active",
-      "injury_status": "Out",
-      "injury_notes": null,
-      "depth_chart_position": null,
-      "depth_chart_order": 6,
-      "years_exp": 5,
-      "age": 27,
-      "search_rank": 499
-    },
-    {
-      "player_id": "12511",
-      "full_name": "Will Howard",
-      "first_name": "Will",
-      "last_name": "Howard",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "PIT",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 3,
-      "years_exp": 1,
-      "age": 25,
-      "search_rank": 499
     },
     {
       "player_id": "12788",
@@ -12779,7 +12894,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 2,
       "years_exp": 1,
       "age": 25,
       "search_rank": 512
@@ -12798,7 +12913,7 @@
       "injury_status": null,
       "injury_notes": null,
       "depth_chart_position": "RB",
-      "depth_chart_order": 3,
+      "depth_chart_order": 4,
       "years_exp": 1,
       "age": 22,
       "search_rank": 512
@@ -13581,44 +13696,6 @@
       "years_exp": 4,
       "age": 29,
       "search_rank": 549
-    },
-    {
-      "player_id": "13270",
-      "full_name": "CJ Daniels",
-      "first_name": "CJ",
-      "last_name": "Daniels",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "LAR",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "LWR",
-      "depth_chart_order": 3,
-      "years_exp": 0,
-      "age": 24,
-      "search_rank": 550
-    },
-    {
-      "player_id": "8861",
-      "full_name": "Irvin Charles",
-      "first_name": "Irvin",
-      "last_name": "Charles",
-      "position": "WR",
-      "fantasy_positions": [
-        "WR"
-      ],
-      "team": "SEA",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "LWR",
-      "depth_chart_order": 5,
-      "years_exp": 4,
-      "age": 29,
-      "search_rank": 550
     }
   ],
   "metadata": {
