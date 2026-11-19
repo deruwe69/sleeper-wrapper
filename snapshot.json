@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T07:19:28.327Z",
+  "generated_at": "2026-11-19T20:30:43.664Z",
   "snapshot_version": 2,
   "week": 11,
   "league": {
@@ -73,6 +73,10 @@
     "avatar": "6ebd9409b8747b8f22f298f3796d18ce",
     "company_id": null,
     "league_id": "1395682393989328896",
+    "shard": 240,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1,
       "qb_hit": 0,
@@ -223,10 +227,6 @@
       "st_ff": 0,
       "idp_tkl_ast": 0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 240,
     "last_message_id": "1429041019910914048",
     "draft_id": "1395682396505935872",
     "last_author_avatar": null,
@@ -731,7 +731,7 @@
         "injury_status": "IR",
         "injury_notes": "Sprain",
         "depth_chart_position": "RWR",
-        "depth_chart_order": 7,
+        "depth_chart_order": 8,
         "years_exp": 3,
         "age": 25,
         "search_rank": 4
@@ -1245,7 +1245,7 @@
           "injury_status": "IR",
           "injury_notes": "Sprain",
           "depth_chart_position": "RWR",
-          "depth_chart_order": 7,
+          "depth_chart_order": 8,
           "years_exp": 3,
           "age": 25,
           "search_rank": 4
@@ -2138,7 +2138,7 @@
           "injury_status": "IR",
           "injury_notes": "Surgery",
           "depth_chart_position": "LWR",
-          "depth_chart_order": 5,
+          "depth_chart_order": 6,
           "years_exp": 12,
           "age": 33,
           "search_rank": 46
@@ -7711,12 +7711,12 @@
       "adds": {
         "6797": 3
       },
-      "drops": {
-        "12491": 3
-      },
       "consenter_ids": [
         3
       ],
+      "drops": {
+        "12491": 3
+      },
       "roster_ids": [
         3
       ],
@@ -7784,12 +7784,12 @@
       "adds": {
         "96": 6
       },
-      "drops": {
-        "12529": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "12529": 6
+      },
       "roster_ids": [
         6
       ],
@@ -7857,12 +7857,12 @@
       "adds": {
         "DET": 6
       },
-      "drops": {
-        "12711": 6
-      },
       "consenter_ids": [
         6
       ],
+      "drops": {
+        "12711": 6
+      },
       "roster_ids": [
         6
       ],
@@ -7930,12 +7930,12 @@
       "adds": {
         "7567": 12
       },
-      "drops": {
-        "12474": 12
-      },
       "consenter_ids": [
         12
       ],
+      "drops": {
+        "12474": 12
+      },
       "roster_ids": [
         12
       ],
@@ -8003,12 +8003,12 @@
       "adds": {
         "9482": 1
       },
-      "drops": {
-        "13269": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "13269": 1
+      },
       "roster_ids": [
         1
       ],
@@ -11734,6 +11734,25 @@
       "search_rank": 419
     },
     {
+      "player_id": "11210",
+      "full_name": "Malik Heath",
+      "first_name": "Malik",
+      "last_name": "Heath",
+      "position": "WR",
+      "fantasy_positions": [
+        "WR"
+      ],
+      "team": "WAS",
+      "status": "Active",
+      "injury_status": null,
+      "injury_notes": null,
+      "depth_chart_position": null,
+      "depth_chart_order": null,
+      "years_exp": 3,
+      "age": 26,
+      "search_rank": 419
+    },
+    {
       "player_id": "11113",
       "full_name": "Joel Wilson",
       "first_name": "Joel",
@@ -13746,25 +13765,6 @@
       "years_exp": 5,
       "age": 28,
       "search_rank": 543
-    },
-    {
-      "player_id": "260",
-      "full_name": "Josh Johnson",
-      "first_name": "Josh",
-      "last_name": "Johnson",
-      "position": "QB",
-      "fantasy_positions": [
-        "QB"
-      ],
-      "team": "ARI",
-      "status": "Active",
-      "injury_status": null,
-      "injury_notes": null,
-      "depth_chart_position": "QB",
-      "depth_chart_order": 2,
-      "years_exp": 18,
-      "age": 40,
-      "search_rank": 544
     }
   ],
   "metadata": {
